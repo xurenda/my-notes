@@ -1,6 +1,7 @@
 {
   "promptDelete": false,
   "trashOption": "local",
-  "attachmentFolderPath": "/",
-  "showLineNumber": true
+  "attachmentFolderPath": "./assets",
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true
 }
