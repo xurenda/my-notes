@@ -1,0 +1,6 @@
+{
+  "delimiter": ".",
+  "prefixMinLength": 3,
+  "startingIndex": 1,
+  "ignorePattern": ""
+}
