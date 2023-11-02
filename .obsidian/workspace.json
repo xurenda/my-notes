@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3860901f557bad1a",
+        "id": "32436bc49f30d35b",
         "type": "tabs",
         "children": [
           {
-            "id": "9fe9158a5ecdd979",
+            "id": "4ca14809762175f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端学习，漫漫长路/005.花里胡哨/005.drag 实现拖动排序.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -33,7 +34,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "61579901b3969c35",
+            "id": "100ae5ead0fcd227",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,18 +59,21 @@
             }
           },
           {
-            "id": "5a2460e0131d097b",
+            "id": "8f950ef5f81d39ec",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
-              "state": {}
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 253.5
   },
   "right": {
     "id": "5e9aaa0ee861ee89",
@@ -80,19 +84,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "149d0a94ffa6b148",
+            "id": "9b23216657527877",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "outline",
               "state": {
-                "file": "前端学习，漫漫长路/005.花里胡哨/005.drag 实现拖动排序.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "README.md"
               }
             }
           },
@@ -102,101 +99,98 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端学习，漫漫长路/005.花里胡哨/005.drag 实现拖动排序.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8f950ef5f81d39ec",
+            "id": "149d0a94ffa6b148",
             "type": "leaf",
             "state": {
-              "type": "tag",
+              "type": "backlink",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "9b23216657527877",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "前端学习，漫漫长路/005.花里胡哨/005.drag 实现拖动排序.md"
+                "file": "README.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 306.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "random-note:开始漫游笔记": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "workspaces:管理工作区布局": false
     }
   },
-  "active": "9fe9158a5ecdd979",
+  "active": "4ca14809762175f7",
   "lastOpenFiles": [
-    "前端学习，漫漫长路/000.前端知识体系.md",
-    "前端学习，漫漫长路/005.花里胡哨/005.drag 实现拖动排序.md",
-    "前端学习，漫漫长路/005.花里胡哨/004.CSS 花里胡哨：图片3D分层效果.md",
-    "前端学习，漫漫长路/005.花里胡哨/assets/图片3D分层效果.png",
+    "前端学习，漫漫长路/002.干货知识/001.Web API.md",
+    "前端学习，漫漫长路/001.代码片段/002.平滑滚动页面到指定位置.md",
+    "前端学习，漫漫长路/001.代码片段/001.函数防抖与函数节流.md",
     "前端学习，漫漫长路/005.花里胡哨/003.CSS 花里胡哨：荧光边框.md",
+    "未归档/未命名.md",
+    "未归档",
+    "前端学习，漫漫长路/004.开发规范/002.Web前端开发规范（2）——代码规范.md",
+    "前端学习，漫漫长路/004.开发规范/001.Web前端开发规范（1）——通用规范.md",
+    "README.md",
+    "前端学习，漫漫长路/005.花里胡哨/005.drag 实现拖动排序.md",
+    "前端学习，漫漫长路/005.花里胡哨/001.CSS 形状.md",
+    "未命名.canvas",
+    "Excalidraw/Drawing 2023-11-02 16.31.07.excalidraw.md",
+    "Excalidraw",
+    "数据结构与算法/代码随想录/005.双指针法/004.哈希表相关.md",
+    "2023-11-02.md",
+    "数据结构与算法/代码随想录/008.回溯算法/001.组合.md",
+    "数据结构与算法/代码随想录/008.回溯算法/005.重新安排行程.md",
+    "数据结构与算法/代码随想录/004.字符串/003.KMP.md",
+    "数据结构与算法/代码随想录/009.贪心算法/002.序列问题.md",
+    "数据结构与算法/代码随想录/009.贪心算法/003.子数组.md",
+    "数据结构与算法/代码随想录/009.贪心算法/004.股票问题.md",
+    "数据结构与算法/代码随想录/009.贪心算法/001.简单题目.md",
+    "数据结构与算法/代码随想录/008.回溯算法/006.棋盘问题.md",
+    "数据结构与算法/代码随想录/009.贪心算法",
+    "数据结构与算法/代码随想录/008.回溯算法/004.排列.md",
+    "数据结构与算法/代码随想录/008.回溯算法/003.子集.md",
+    "数据结构与算法/代码随想录/008.回溯算法/002.分割.md",
+    "数据结构与算法/代码随想录/007.二叉树/009.二叉搜索树.md",
+    "数据结构与算法/代码随想录/001.数组/002.移除元素.md",
+    "前端学习，漫漫长路/005.花里胡哨/assets/图片3D分层效果.png",
     "前端学习，漫漫长路/005.花里胡哨/assets/荧光边框.png",
-    "前端学习，漫漫长路/005.花里胡哨/002.CSS3 实现 checkbox 和 radio 自定义样式.md",
     "前端学习，漫漫长路/005.花里胡哨/assets/自定义 radio.png",
     "前端学习，漫漫长路/005.花里胡哨/assets/自定义 checkbox（样式2）.png",
     "前端学习，漫漫长路/005.花里胡哨/assets/自定义 checkbox（样式1）.png",
-    "前端学习，漫漫长路/005.花里胡哨/001.CSS 形状.md",
-    "前端学习，漫漫长路/005.花里胡哨/未命名.md",
     "前端学习，漫漫长路/005.花里胡哨/assets/锁.png",
     "前端学习，漫漫长路/005.花里胡哨/assets/指示器.png",
     "前端学习，漫漫长路/005.花里胡哨/assets/根基.png",
     "前端学习，漫漫长路/005.花里胡哨/assets/十字架.png",
     "前端学习，漫漫长路/005.花里胡哨/assets/圆锥.png",
     "前端学习，漫漫长路/005.花里胡哨/assets",
-    "前端学习，漫漫长路/004.开发规范/001.Web前端开发规范（1）——通用规范.md",
     "前端学习，漫漫长路/005.花里胡哨",
-    "前端学习，漫漫长路/004.开发规范/002.Web前端开发规范（2）——代码规范.md",
     "前端学习，漫漫长路/004.开发规范",
-    "前端学习，漫漫长路/003.CSS 深入理解/002.Border.md",
-    "前端学习，漫漫长路/003.CSS 深入理解/001.CSS 深入理解.md",
-    "前端学习，漫漫长路/002.干货知识/009.（转）前端知识点总结——VUE.md",
     "前端学习，漫漫长路/003.CSS 深入理解",
-    "前端学习，漫漫长路/002.干货知识/008.（转）使用Flexible实现手淘H5页面的终端适配.md",
-    "前端学习，漫漫长路/002.干货知识/007.移动 Web 开发.md",
-    "前端学习，漫漫长路/002.干货知识/006.CSS Reset（CSS重置）.md",
-    "前端学习，漫漫长路/002.干货知识/005.CSS 预处理语言：stylus.md",
-    "前端学习，漫漫长路/002.干货知识/004.CSS 布局（Flex & Grid）.md",
-    "前端学习，漫漫长路/002.干货知识/003.个人的 JS 写法规范.md",
-    "前端学习，漫漫长路/002.干货知识/002.CSS TIPS.md",
-    "前端学习，漫漫长路/002.干货知识/001.Web API.md",
-    "Pasted image 20231101170859.png.md",
-    "前端学习，漫漫长路/001.代码片段/002.平滑滚动页面到指定位置.md",
-    "sp.md",
     "前端学习，漫漫长路/002.干货知识/assets",
-    "前端学习，漫漫长路/001.代码片段/001.函数防抖与函数节流.md",
     "前端学习，漫漫长路/002.干货知识",
-    "Pasted image 20231101164609.png.md",
     "前端学习，漫漫长路/001.代码片段/assets",
-    "前端学习，漫漫长路/001.代码片段",
-    "前端学习，漫漫长路/未命名.md",
     "前端学习，漫漫长路/未命名.canvas",
-    "前端学习，漫漫长路",
-    "新建 文本文档.txt",
-    "未命名.canvas",
     "数据结构与算法/代码随想录/链表/未命名.canvas"
   ]
 }

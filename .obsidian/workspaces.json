@@ -1,0 +1,141 @@
+{
+  "workspaces": {
+    "码字": {
+      "main": {
+        "id": "9e71cd8d640c6c71",
+        "type": "split",
+        "children": [
+          {
+            "id": "32436bc49f30d35b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4ca14809762175f7",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b19a73537da9b572",
+        "type": "split",
+        "children": [
+          {
+            "id": "bac65ce8506507cf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "100ae5ead0fcd227",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "5f3cb13b699d40c0",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "8f950ef5f81d39ec",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 253.5
+      },
+      "right": {
+        "id": "5e9aaa0ee861ee89",
+        "type": "split",
+        "children": [
+          {
+            "id": "da5e1a9083534fe4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9b23216657527877",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "d2325d00e6a1d478",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "149d0a94ffa6b148",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 306.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "random-note:开始漫游笔记": false,
+          "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
+          "oz-clear-unused-images:Clear Unused Images": false,
+          "workspaces:管理工作区布局": false
+        }
+      },
+      "active": "9b23216657527877"
+    }
+  },
+  "active": "码字"
+}

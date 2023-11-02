@@ -1,0 +1,65 @@
+body {
+  --file-header-justify: flex-start;
+}
+
+.nav-buttons-container,
+.view-actions,
+.workspace-tab-header-inner,
+.side-dock-settings,
+.side-dock-actions {
+  justify-content: flex-start;
+}
+
+.nav-folder-title[data-path='/'] .nav-folder-title-content {
+  text-transform: uppercase;
+  margin-left: -14px;
+}
+
+.markdown-reading-view h1::before,
+.markdown-source-view.is-live-preview :not(.cm-formatting + .cm-header.cm-header-1).cm-header.cm-header-1:not(.cm-formatting)::before {
+  content: 'H1';
+  color: var(--text-faint);
+  font-size: 12px;
+  vertical-align: middle;
+  margin-right: 4px;
+}
+.markdown-reading-view h2::before,
+.markdown-source-view.is-live-preview :not(.cm-formatting + .cm-header.cm-header-2).cm-header.cm-header-2:not(.cm-formatting)::before {
+  content: 'H2';
+  color: var(--text-faint);
+  font-size: 12px;
+  vertical-align: middle;
+  margin-right: 4px;
+}
+.markdown-reading-view h3::before,
+.markdown-source-view.is-live-preview :not(.cm-formatting + .cm-header.cm-header-3).cm-header.cm-header-3:not(.cm-formatting)::before {
+  content: 'H3';
+  color: var(--text-faint);
+  font-size: 12px;
+  vertical-align: middle;
+  margin-right: 4px;
+}
+.markdown-reading-view h4::before,
+.markdown-source-view.is-live-preview :not(.cm-formatting + .cm-header.cm-header-4).cm-header.cm-header-4:not(.cm-formatting)::before {
+  content: 'H4';
+  color: var(--text-faint);
+  font-size: 12px;
+  vertical-align: middle;
+  margin-right: 4px;
+}
+.markdown-reading-view h5::before,
+.markdown-source-view.is-live-preview :not(.cm-formatting + .cm-header.cm-header-5).cm-header.cm-header-5:not(.cm-formatting)::before {
+  content: 'H5';
+  color: var(--text-faint);
+  font-size: 12px;
+  vertical-align: middle;
+  margin-right: 4px;
+}
+.markdown-reading-view h6::before,
+.markdown-source-view.is-live-preview :not(.cm-formatting + .cm-header.cm-header-6).cm-header.cm-header-6:not(.cm-formatting)::before {
+  content: 'H6';
+  color: var(--text-faint);
+  font-size: 12px;
+  vertical-align: middle;
+  margin-right: 4px;
+}

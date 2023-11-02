@@ -1,4 +1,12 @@
 {
   "accentColor": "",
-  "theme": "system"
+  "theme": "moonstone",
+  "cssTheme": "",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "font",
+    "my"
+  ],
+  "nativeMenus": false,
+  "showViewHeader": true
 }

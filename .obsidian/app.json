@@ -3,5 +3,14 @@
   "trashOption": "local",
   "attachmentFolderPath": "./assets",
   "showLineNumber": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false,
+  "readableLineLength": true,
+  "strictLineBreaks": true,
+  "defaultViewMode": "preview",
+  "rightToLeft": false,
+  "useTab": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "未归档",
+  "tabSize": 2
 }
