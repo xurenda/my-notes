@@ -1,5 +1,5 @@
 {
-  "confirmDeletion": true,
+  "confirmDeletion": false,
   "showAddCommand": false,
   "debug": false,
   "editorMenu": [
@@ -17,11 +17,10 @@
   "statusBar": [],
   "pageHeader": [
     {
-      "id": "obsidian-pangu:pangu-format",
+      "id": "easy-typing-obsidian:easy-typing-format-article",
       "icon": "airplay",
-      "name": "中英文字符间加入空格",
-      "mode": "any",
-      "color": "#080808"
+      "name": "格式化全文",
+      "mode": "any"
     },
     {
       "id": "workspace:split-vertical",
@@ -30,9 +29,15 @@
       "mode": "any"
     },
     {
-      "id": "workspace:split-horizontal",
-      "icon": "lucide-separator-horizontal",
-      "name": "上下分屏",
+      "id": "workspace:toggle-pin",
+      "icon": "lucide-pin",
+      "name": "解锁/锁定",
+      "mode": "any"
+    },
+    {
+      "id": "number-headings-obsidian:number-headings",
+      "icon": "anchor",
+      "name": "标题编号",
       "mode": "any"
     }
   ],
