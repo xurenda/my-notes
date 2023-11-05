@@ -1,3 +1,4 @@
+/* 标题栏，工具icon列表左对齐 */
 body {
   --file-header-justify: flex-start;
 }
@@ -10,11 +11,13 @@ body {
   justify-content: flex-start;
 }
 
+/* 库名大写 */
 .nav-folder-title[data-path='/'] .nav-folder-title-content {
   text-transform: uppercase;
   margin-left: -14px;
 }
 
+/* 标题级别指示 */
 .markdown-reading-view h1::before,
 .markdown-source-view.is-live-preview :not(.cm-formatting + .cm-header.cm-header-1).cm-header.cm-header-1:not(.cm-formatting):not(.cm-inline-code)::before {
   content: 'H1';
@@ -62,4 +65,12 @@ body {
   font-size: 12px;
   vertical-align: middle;
   margin-right: 4px;
+}
+
+/* 全宽表格 */
+:is(.markdown-preview-section, .markdown-rendered) table:not(.dataview.table-view-table) {
+  width: 100%;
+  border-collapse: collapse;
+  overflow: auto;
+  margin: 5px auto;
 }

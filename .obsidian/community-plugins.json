@@ -2,9 +2,12 @@
   "file-order",
   "obsidian-excalidraw-plugin",
   "oz-clear-unused-images",
-  "obsidian-local-images-plus",
   "file-explorer-note-count",
   "cmdr",
   "easy-typing-obsidian",
-  "number-headings-obsidian"
+  "number-headings-obsidian",
+  "obsidian-mind-map",
+  "obsidian-image-toolkit",
+  "mousewheel-image-zoom",
+  "markdown-table-editor"
 ]

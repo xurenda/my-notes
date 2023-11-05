@@ -6,15 +6,20 @@
         "type": "split",
         "children": [
           {
-            "id": "32436bc49f30d35b",
+            "id": "81d525b2aa6a1c7e",
             "type": "tabs",
             "children": [
               {
-                "id": "4ca14809762175f7",
+                "id": "43a66b5e3f4d37b7",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "数据结构与算法/代码随想录/009.贪心算法/002.序列问题.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
                 }
               }
             ]
@@ -85,7 +90,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {}
+                  "state": {
+                    "file": "数据结构与算法/代码随想录/009.贪心算法/002.序列问题.md"
+                  }
                 }
               },
               {
@@ -94,6 +101,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
+                    "file": "数据结构与算法/代码随想录/009.贪心算法/002.序列问题.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -105,6 +113,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
+                    "file": "数据结构与算法/代码随想录/009.贪心算法/002.序列问题.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -125,16 +134,18 @@
         "hiddenItems": {
           "switcher:打开快速切换": false,
           "graph:查看关系图谱": false,
-          "templates:插入模板": false,
           "command-palette:打开命令面板": false,
-          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "templates:插入模板": false,
+          "workspaces:管理工作区布局": false,
           "random-note:开始漫游笔记": false,
-          "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
           "oz-clear-unused-images:Clear Unused Images": false,
-          "workspaces:管理工作区布局": false
+          "markdown-table-editor:Open Markdown Table Editor": true,
+          "cmdr:思维导图": false,
+          "cmdr:导出为 PDF": false
         }
       },
-      "active": "9b23216657527877"
+      "active": "100ae5ead0fcd227"
     }
   },
   "active": "码字"

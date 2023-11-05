@@ -4,7 +4,6 @@
   "cssTheme": "",
   "translucency": false,
   "enabledCssSnippets": [
-    "font",
     "my"
   ],
   "nativeMenus": false,

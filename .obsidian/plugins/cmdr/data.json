@@ -2,24 +2,36 @@
   "confirmDeletion": false,
   "showAddCommand": false,
   "debug": false,
-  "editorMenu": [
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "obsidian-mind-map:app:markmap-preview",
+      "icon": "airplay",
+      "name": "思维导图",
+      "mode": "any"
+    },
     {
       "id": "workspace:export-pdf",
-      "icon": "alarm-clock-off",
+      "icon": "arrow-down-circle",
       "name": "导出为 PDF",
       "mode": "any"
     }
   ],
-  "fileMenu": [],
-  "leftRibbon": [],
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],
   "pageHeader": [
     {
       "id": "easy-typing-obsidian:easy-typing-format-article",
-      "icon": "airplay",
-      "name": "格式化全文",
+      "icon": "bot",
+      "name": "格式化",
+      "mode": "any"
+    },
+    {
+      "id": "number-headings-obsidian:number-headings",
+      "icon": "anchor",
+      "name": "标题编号",
       "mode": "any"
     },
     {
@@ -35,9 +47,9 @@
       "mode": "any"
     },
     {
-      "id": "number-headings-obsidian:number-headings",
-      "icon": "anchor",
-      "name": "标题编号",
+      "id": "markdown-table-editor:markdown-table-editor-open-horizontal",
+      "icon": "banknote",
+      "name": "表格",
       "mode": "any"
     }
   ],
