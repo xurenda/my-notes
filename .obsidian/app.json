@@ -9,15 +9,16 @@
   "strictLineBreaks": true,
   "defaultViewMode": "preview",
   "rightToLeft": false,
-  "useTab": false,
+  "useTab": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "未归档",
-  "tabSize": 2,
+  "tabSize": 4,
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "spellcheck": false
 }
