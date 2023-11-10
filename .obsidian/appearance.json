@@ -8,5 +8,6 @@
     "font"
   ],
   "nativeMenus": false,
-  "showViewHeader": true
+  "showViewHeader": true,
+  "baseFontSize": 14
 }
