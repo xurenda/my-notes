@@ -4,7 +4,8 @@
   "cssTheme": "",
   "translucency": false,
   "enabledCssSnippets": [
-    "my"
+    "my",
+    "font"
   ],
   "nativeMenus": false,
   "showViewHeader": true,
