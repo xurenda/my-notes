@@ -19,7 +19,8 @@ body {
 
 /* 标题级别指示 */
 .markdown-reading-view h1::before,
-.markdown-source-view.is-live-preview :not(.cm-formatting + .cm-header.cm-header-1).cm-header.cm-header-1:not(.cm-formatting):not(.cm-inline-code)::before {
+.markdown-source-view.is-live-preview
+  :not(:where(.cm-formatting, .cm-inline-code) ~ .cm-header.cm-header-1).cm-header.cm-header-1:not(.cm-formatting):not(.cm-inline-code)::before {
   content: 'H1';
   color: var(--text-faint);
   font-size: 12px;
