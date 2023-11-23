@@ -2,5 +2,5 @@
   "delimiter": ".",
   "prefixMinLength": 3,
   "startingIndex": 1,
-  "ignorePattern": "^assets$"
+  "ignorePattern": "^(assets|drawing)$"
 }
