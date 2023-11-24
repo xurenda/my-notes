@@ -8,9 +8,9 @@ title: My Notes
 
 GitHub 地址：https://github.com/xurenda/my-notes
 
-# 使用方式
+## 使用方式
 
-## 本地浏览
+### 本地浏览
 
 1. clone 本仓库到本地：`git clone https://github.com/xurenda/my-notes.git`
 2. 下载 Obsidian：[https://obsidian.md/download](https://obsidian.md/download)
@@ -19,4 +19,4 @@ GitHub 地址：https://github.com/xurenda/my-notes
 4. 为了更好的体验，可以启用仓库内置的 Obsidian 插件（非必须）
    ![启用仓库内置的 Obsidian 插件](./assets/2.png)
 
-## 在线网站
+### 在线网站

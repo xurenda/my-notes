@@ -26,10 +26,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "README.md"
               }
             }
           },
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,12 +159,12 @@
   },
   "active": "cf640d61308d50cd",
   "lastOpenFiles": [
+    "index.md",
     "README.md",
     "index - 副本.md",
     "README.md.lnk",
     "index.md.lnk",
     "数据结构与算法/003.LeetCodeHot100/008.二叉树/013.路径总和III.md",
-    "index.md",
     "数据结构与算法/003.LeetCodeHot100/008.二叉树/012.从前序与中序遍历序列构造二叉树.md",
     "数据结构与算法/003.LeetCodeHot100/008.二叉树/011.二叉树展开为链表.md",
     "数据结构与算法/003.LeetCodeHot100/008.二叉树/010.二叉树的右视图.md",
