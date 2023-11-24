@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          repository: xurenda.github.io
+          repository: xurenda/xurenda.github.io
           fetch-depth: 0 # Fetch all history for git info
           submodules: recursive
           token: ${{ secrets.PAT_TOKEN }}
