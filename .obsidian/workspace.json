@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构与算法/003.LeetCodeHot100/007.链表/014.LRU 缓存.md",
+                "file": "数据结构与算法/003.LeetCodeHot100/008.二叉树/013.路径总和III.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf640d61308d50cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "回文链表",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构与算法/003.LeetCodeHot100/007.链表/014.LRU 缓存.md"
+                "file": "index.md"
               }
             }
           },
@@ -99,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构与算法/003.LeetCodeHot100/007.链表/014.LRU 缓存.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构与算法/003.LeetCodeHot100/007.链表/014.LRU 缓存.md",
+                "file": "index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,10 +157,28 @@
       "markdown-table-editor:Open Markdown Table Editor": true
     }
   },
-  "active": "d2fc35a6eafd1dfa",
+  "active": "cf640d61308d50cd",
   "lastOpenFiles": [
-    "数据结构与算法/003.LeetCodeHot100/007.链表/013.合并 K 个升序链表.md",
+    "README.md.lnk",
+    "index.md.lnk",
+    "数据结构与算法/003.LeetCodeHot100/008.二叉树/013.路径总和III.md",
+    "index.md",
+    "数据结构与算法/003.LeetCodeHot100/008.二叉树/012.从前序与中序遍历序列构造二叉树.md",
+    "数据结构与算法/003.LeetCodeHot100/008.二叉树/011.二叉树展开为链表.md",
+    "数据结构与算法/003.LeetCodeHot100/008.二叉树/010.二叉树的右视图.md",
+    "数据结构与算法/003.LeetCodeHot100/008.二叉树/009.二叉搜索树中第K小的元素.md",
+    "数据结构与算法/001.代码随想录/010.动态规划/002.背包问题.md",
+    "数据结构与算法/003.LeetCodeHot100/008.二叉树/008.验证二叉搜索树.md",
+    "数据结构与算法/003.LeetCodeHot100/008.二叉树/007.将有序数组转换为二叉搜索树.md",
+    "数据结构与算法/003.LeetCodeHot100/008.二叉树/006.二叉树的层序遍历.md",
+    "数据结构与算法/003.LeetCodeHot100/008.二叉树/005.二叉树的直径.md",
+    "数据结构与算法/003.LeetCodeHot100/008.二叉树/004.对称二叉树.md",
+    "数据结构与算法/003.LeetCodeHot100/008.二叉树/001.二叉树的中序遍历.md",
+    "数据结构与算法/003.LeetCodeHot100/008.二叉树/002.二叉树的最大深度.md",
+    "数据结构与算法/003.LeetCodeHot100/008.二叉树/003.翻转二叉树.md",
     "数据结构与算法/003.LeetCodeHot100/007.链表/014.LRU 缓存.md",
+    "数据结构与算法/003.LeetCodeHot100/008.二叉树",
+    "数据结构与算法/003.LeetCodeHot100/007.链表/013.合并 K 个升序链表.md",
     "数据结构与算法/003.LeetCodeHot100/007.链表/001.相交链表.md",
     "数据结构与算法/003.LeetCodeHot100/007.链表/012.排序链表.md",
     "数据结构与算法/003.LeetCodeHot100/007.链表/011.随机链表的复制.md",
@@ -155,24 +187,8 @@
     "数据结构与算法/003.LeetCodeHot100/007.链表/009.两两交换链表中的节点.md",
     "数据结构与算法/003.LeetCodeHot100/007.链表/003.回文链表.md",
     "数据结构与算法/003.LeetCodeHot100/007.链表/004.环形链表.md",
-    "数据结构与算法/003.LeetCodeHot100/007.链表/005.环形链表II.md",
-    "数据结构与算法/003.LeetCodeHot100/007.链表/drawing/两两交换链表中的节点.md",
-    "数据结构与算法/003.LeetCodeHot100/007.链表/007.两数相加.md",
-    "数据结构与算法/003.LeetCodeHot100/007.链表/008.删除链表的倒数第 N 个结点.md",
-    "数据结构与算法/003.LeetCodeHot100/007.链表/006.合并两个有序链表.md",
-    "数据结构与算法/001.代码随想录/002.链表/003.反转链表.md",
-    "数据结构与算法/001.代码随想录/999.补充题目/010.重排链表.md",
-    "数据结构与算法/001.代码随想录/005.双指针法/003.链表相关.md",
-    "数据结构与算法/003.LeetCodeHot100/007.链表/002.反转链表.md",
     "数据结构与算法/003.LeetCodeHot100/007.链表/drawing",
-    "数据结构与算法/003.LeetCodeHot100/006.矩阵/004.搜索二维矩阵II.md",
     "数据结构与算法/003.LeetCodeHot100/007.链表",
-    "数据结构与算法/003.LeetCodeHot100/006.矩阵/003.旋转图像.md",
-    "数据结构与算法/003.LeetCodeHot100/002.双指针/001.移动零.md",
-    "未归档/位移运算与乘除.md",
-    "未归档/markdown公式.md",
-    "未归档/fastgpt.md",
-    "README.md",
     "assets/1.png",
     "assets/2.png",
     "assets",
@@ -183,8 +199,6 @@
     "数据结构与算法/003.LeetCodeHot100/005.普通数组",
     "数据结构与算法/003.LeetCodeHot100/004.子串",
     "数据结构与算法/003.LeetCodeHot100/003.滑动窗口",
-    "数据结构与算法/003.LeetCodeHot100/002.双指针",
-    "数据结构与算法/003.LeetCodeHot100/001.哈希",
     "数据结构与算法/001.代码随想录/999.补充题目/assets/Pasted image 20231117094613.png",
     "数据结构与算法/002.卡码网/assets/Pasted image 20231116102024.png",
     "数据结构与算法/002.卡码网/assets/Pasted image 20231116093004.png",
