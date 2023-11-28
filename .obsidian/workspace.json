@@ -26,10 +26,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "数据结构与算法/003.LeetCodeHot100/010.回溯/008.N 皇后.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "二叉树的最近公共祖先",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "数据结构与算法/003.LeetCodeHot100/010.回溯/008.N 皇后.md"
               }
             }
           },
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "数据结构与算法/003.LeetCodeHot100/010.回溯/008.N 皇后.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "数据结构与算法/003.LeetCodeHot100/010.回溯/008.N 皇后.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,12 +159,29 @@
   },
   "active": "cf640d61308d50cd",
   "lastOpenFiles": [
+    "数据结构与算法/003.LeetCodeHot100/010.回溯/007.分割回文串.md",
+    "数据结构与算法/003.LeetCodeHot100/010.回溯/008.N 皇后.md",
+    "数据结构与算法/003.LeetCodeHot100/010.回溯/006.单词搜索.md",
+    "数据结构与算法/003.LeetCodeHot100/010.回溯/005.括号生成.md",
+    "数据结构与算法/003.LeetCodeHot100/010.回溯/004.组合总和.md",
+    "数据结构与算法/003.LeetCodeHot100/010.回溯/003.电话号码的字母组合.md",
+    "数据结构与算法/003.LeetCodeHot100/010.回溯/002.子集.md",
+    "数据结构与算法/003.LeetCodeHot100/010.回溯/001.全排列.md",
+    "数据结构与算法/003.LeetCodeHot100/009.图论/004.实现 Trie (前缀树).md",
+    "数据结构与算法/003.LeetCodeHot100/010.回溯",
+    "数据结构与算法/003.LeetCodeHot100/009.图论/003.课程表.md",
+    "数据结构与算法/003.LeetCodeHot100/009.图论/001.岛屿数量.md",
+    "数据结构与算法/003.LeetCodeHot100/009.图论/002.腐烂的橘子.md",
+    "数据结构与算法/003.LeetCodeHot100/008.二叉树/015.二叉树中的最大路径和.md",
+    "数据结构与算法/003.LeetCodeHot100/009.图论",
+    "数据结构与算法/003.LeetCodeHot100/008.二叉树/014.二叉树的最近公共祖先.md",
+    "数据结构与算法/001.代码随想录/007.二叉树/010.公共祖先.md",
+    "数据结构与算法/003.LeetCodeHot100/008.二叉树/013.路径总和III.md",
     "index.md",
     "README.md",
     "index - 副本.md",
     "README.md.lnk",
     "index.md.lnk",
-    "数据结构与算法/003.LeetCodeHot100/008.二叉树/013.路径总和III.md",
     "数据结构与算法/003.LeetCodeHot100/008.二叉树/012.从前序与中序遍历序列构造二叉树.md",
     "数据结构与算法/003.LeetCodeHot100/008.二叉树/011.二叉树展开为链表.md",
     "数据结构与算法/003.LeetCodeHot100/008.二叉树/010.二叉树的右视图.md",
@@ -172,22 +189,7 @@
     "数据结构与算法/001.代码随想录/010.动态规划/002.背包问题.md",
     "数据结构与算法/003.LeetCodeHot100/008.二叉树/008.验证二叉搜索树.md",
     "数据结构与算法/003.LeetCodeHot100/008.二叉树/007.将有序数组转换为二叉搜索树.md",
-    "数据结构与算法/003.LeetCodeHot100/008.二叉树/006.二叉树的层序遍历.md",
-    "数据结构与算法/003.LeetCodeHot100/008.二叉树/005.二叉树的直径.md",
-    "数据结构与算法/003.LeetCodeHot100/008.二叉树/004.对称二叉树.md",
-    "数据结构与算法/003.LeetCodeHot100/008.二叉树/001.二叉树的中序遍历.md",
-    "数据结构与算法/003.LeetCodeHot100/008.二叉树/002.二叉树的最大深度.md",
-    "数据结构与算法/003.LeetCodeHot100/008.二叉树/003.翻转二叉树.md",
-    "数据结构与算法/003.LeetCodeHot100/007.链表/014.LRU 缓存.md",
     "数据结构与算法/003.LeetCodeHot100/008.二叉树",
-    "数据结构与算法/003.LeetCodeHot100/007.链表/013.合并 K 个升序链表.md",
-    "数据结构与算法/003.LeetCodeHot100/007.链表/001.相交链表.md",
-    "数据结构与算法/003.LeetCodeHot100/007.链表/012.排序链表.md",
-    "数据结构与算法/003.LeetCodeHot100/007.链表/011.随机链表的复制.md",
-    "数据结构与算法/003.LeetCodeHot100/007.链表/010.K 个一组翻转链表.md",
-    "数据结构与算法/003.LeetCodeHot100/007.链表/drawing/相交链表-有环.md",
-    "数据结构与算法/003.LeetCodeHot100/007.链表/009.两两交换链表中的节点.md",
-    "数据结构与算法/003.LeetCodeHot100/007.链表/003.回文链表.md",
     "数据结构与算法/003.LeetCodeHot100/007.链表/drawing",
     "数据结构与算法/003.LeetCodeHot100/007.链表",
     "assets/1.png",
@@ -197,8 +199,6 @@
     "未归档/assets/Pasted image 20231120100345.png",
     "未归档/assets/Pasted image 20231120100141.png",
     "数据结构与算法/003.LeetCodeHot100/006.矩阵",
-    "数据结构与算法/003.LeetCodeHot100/005.普通数组",
-    "数据结构与算法/003.LeetCodeHot100/004.子串",
     "数据结构与算法/001.代码随想录/999.补充题目/assets/Pasted image 20231117094613.png",
     "数据结构与算法/002.卡码网/assets/Pasted image 20231116102024.png",
     "数据结构与算法/002.卡码网/assets/Pasted image 20231116093004.png",
