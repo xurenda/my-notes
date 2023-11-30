@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "93242a8edf4f1431",
+        "id": "233840fc5d900e76",
         "type": "tabs",
         "children": [
           {
-            "id": "14bf8fbadc7d6110",
+            "id": "ede5deb579a3f475",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数据结构与算法/index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -89,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构与算法/index.md"
+                "file": "数据结构与算法/学习规划.md"
               }
             }
           },
@@ -99,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构与算法/index.md",
+                "file": "数据结构与算法/学习规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构与算法/index.md",
+                "file": "数据结构与算法/学习规划.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,10 +138,10 @@
       "markdown-table-editor:Open Markdown Table Editor": true
     }
   },
-  "active": "14bf8fbadc7d6110",
+  "active": "100ae5ead0fcd227",
   "lastOpenFiles": [
     "数据结构与算法/001.代码随想录/001.数组/000.数组.pdf",
-    "数据结构与算法/index.md",
+    "数据结构与算法/学习规划.md",
     "数据结构与算法/003.LeetCodeHot100/014.贪心算法/004.划分字母区间.md",
     "数据结构与算法/003.LeetCodeHot100/015.动态规划",
     "数据结构与算法/003.LeetCodeHot100/014.贪心算法/003.跳跃游戏 II.md",
