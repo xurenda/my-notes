@@ -1,0 +1,43 @@
+# 数据结构与算法
+
+## Step.1 代码随想录
+
+>学习时间：一个月
+
+跟着 Carl 老哥，由易到难，一个专题一个专题的进行学习，能够清楚常见的题型及解法，学完一遍算是入门了数据结构与算法。
+
+- [微信公众号](https://mp.weixin.qq.com/s/weyitJcVHBgFtSc19cbPdw)
+- [网站](https://programmercarl.com/)
+- [B 站视频](https://space.bilibili.com/525438321/channel/collectiondetail?sid=180037)
+
+## Step.2 卡码网
+
+>学习时间：5 天
+
+- 核心代码模式：给你一个函数，直接写函数实现（如：力扣）
+- ACM 模式：程序头文件、mian 函数、数据的输入输出都要自己处理
+
+- 比赛、笔试：基本都是 ACM 模式
+- 面试：可能是核心代码模式，也可能是 ACM 模式
+
+完成卡码网前 25 道题，就把所有的 ACM 输入输出方式都练习到位了，不会有任何盲区
+
+- [网站](https://kamacoder.com/)
+
+## Step.3 LeetCodeHot100
+
+>学习时间：10 天
+
+力扣最经典的、最受站内用户喜爱的、面试最常见的 100 道题
+
+- [网站](https://leetcode.cn/studyplan/top-100-liked/)
+
+## Step.4 左程云算法通关
+
+>学习时间： #todo 
+
+系统学习数据结构与算法的大部分内容，太过冷门、太过偏门、难度太高的内容可能没有，也没必要有：毕竟不是专门要搞算法研究、也不打比赛（打比赛也基本够用，可能还要补少量内容）
+
+学完能够保证覆盖大厂笔面试题，数据结构与算法不会是笔面试的卡点
+
+- [B 站视频](https://space.bilibili.com/8888480/channel/seriesdetail?sid=3509640)

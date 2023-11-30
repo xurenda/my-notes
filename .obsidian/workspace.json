@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构与算法/003.LeetCodeHot100/012.栈/003.字符串解码.md",
+                "file": "数据结构与算法/index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构与算法/003.LeetCodeHot100/012.栈/003.字符串解码.md"
+                "file": "数据结构与算法/index.md"
               }
             }
           },
@@ -99,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构与算法/003.LeetCodeHot100/012.栈/003.字符串解码.md",
+                "file": "数据结构与算法/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构与算法/003.LeetCodeHot100/012.栈/003.字符串解码.md",
+                "file": "数据结构与算法/index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,8 +145,24 @@
   },
   "active": "14bf8fbadc7d6110",
   "lastOpenFiles": [
-    "数据结构与算法/003.LeetCodeHot100/012.栈/002.最小栈.md",
+    "数据结构与算法/001.代码随想录/001.数组/000.数组.pdf",
+    "数据结构与算法/index.md",
+    "数据结构与算法/003.LeetCodeHot100/014.贪心算法/004.划分字母区间.md",
+    "数据结构与算法/003.LeetCodeHot100/015.动态规划",
+    "数据结构与算法/003.LeetCodeHot100/014.贪心算法/003.跳跃游戏 II.md",
+    "数据结构与算法/003.LeetCodeHot100/014.贪心算法/002.跳跃游戏.md",
+    "数据结构与算法/003.LeetCodeHot100/014.贪心算法/001.卖股票的最佳时机.md",
+    "数据结构与算法/003.LeetCodeHot100/013.堆/003.数据流的中位数.md",
+    "数据结构与算法/003.LeetCodeHot100/014.贪心算法",
+    "数据结构与算法/003.LeetCodeHot100/013.堆/002.前 K 个高频元素.md",
+    "数据结构与算法/003.LeetCodeHot100/013.堆/001.数组中的第K个最大元素.md",
+    "数据结构与算法/003.LeetCodeHot100/013.堆/000.go中的堆.md",
+    "数据结构与算法/003.LeetCodeHot100/012.栈/005.柱状图中最大的矩形.md",
+    "数据结构与算法/003.LeetCodeHot100/013.堆",
+    "数据结构与算法/003.LeetCodeHot100/012.栈/004.每日温度.md",
     "数据结构与算法/003.LeetCodeHot100/012.栈/003.字符串解码.md",
+    "语言学习/Go/Go语言学习笔记/002.类型/001.变量.md",
+    "数据结构与算法/003.LeetCodeHot100/012.栈/002.最小栈.md",
     "数据结构与算法/003.LeetCodeHot100/012.栈/001.有效的括号.md",
     "数据结构与算法/003.LeetCodeHot100/011.二分查找/006.寻找两个正序数组的中位数.md",
     "数据结构与算法/003.LeetCodeHot100/012.栈",
@@ -161,26 +177,10 @@
     "数据结构与算法/003.LeetCodeHot100/010.回溯/008.N 皇后.md",
     "数据结构与算法/003.LeetCodeHot100/011.二分查找",
     "数据结构与算法/003.LeetCodeHot100/010.回溯/drawing",
-    "数据结构与算法/003.LeetCodeHot100/010.回溯/007.分割回文串.md",
-    "数据结构与算法/003.LeetCodeHot100/010.回溯/006.单词搜索.md",
-    "数据结构与算法/003.LeetCodeHot100/010.回溯/005.括号生成.md",
-    "数据结构与算法/003.LeetCodeHot100/010.回溯/004.组合总和.md",
-    "数据结构与算法/003.LeetCodeHot100/010.回溯/003.电话号码的字母组合.md",
-    "数据结构与算法/003.LeetCodeHot100/010.回溯/002.子集.md",
-    "数据结构与算法/003.LeetCodeHot100/010.回溯/001.全排列.md",
-    "数据结构与算法/003.LeetCodeHot100/009.图论/004.实现 Trie (前缀树).md",
     "数据结构与算法/003.LeetCodeHot100/010.回溯",
-    "数据结构与算法/003.LeetCodeHot100/009.图论/003.课程表.md",
-    "数据结构与算法/003.LeetCodeHot100/009.图论/001.岛屿数量.md",
-    "数据结构与算法/003.LeetCodeHot100/009.图论/002.腐烂的橘子.md",
-    "数据结构与算法/003.LeetCodeHot100/008.二叉树/015.二叉树中的最大路径和.md",
     "数据结构与算法/003.LeetCodeHot100/009.图论",
-    "数据结构与算法/003.LeetCodeHot100/008.二叉树/014.二叉树的最近公共祖先.md",
     "README.md.lnk",
     "index.md.lnk",
-    "数据结构与算法/003.LeetCodeHot100/008.二叉树",
-    "数据结构与算法/003.LeetCodeHot100/007.链表/drawing",
-    "数据结构与算法/003.LeetCodeHot100/007.链表",
     "assets/1.png",
     "assets/2.png",
     "未归档/assets/Pasted image 20231120100345.png",
