@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "233840fc5d900e76",
+        "id": "15f1be46f1130e19",
         "type": "tabs",
         "children": [
           {
-            "id": "ede5deb579a3f475",
+            "id": "deb9bd63af4c5c23",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "数据结构与算法/003.LeetCodeHot100/015.动态规划/010.最长有效括号.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "二叉树的最近公共祖先",
+                "query": "单词拆分",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构与算法/学习规划.md"
+                "file": "数据结构与算法/003.LeetCodeHot100/015.动态规划/010.最长有效括号.md"
               }
             }
           },
@@ -94,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构与算法/学习规划.md",
+                "file": "数据结构与算法/003.LeetCodeHot100/015.动态规划/010.最长有效括号.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构与算法/学习规划.md",
+                "file": "数据结构与算法/003.LeetCodeHot100/015.动态规划/010.最长有效括号.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,10 +143,24 @@
       "markdown-table-editor:Open Markdown Table Editor": true
     }
   },
-  "active": "100ae5ead0fcd227",
+  "active": "deb9bd63af4c5c23",
   "lastOpenFiles": [
-    "数据结构与算法/001.代码随想录/001.数组/000.数组.pdf",
+    "数据结构与算法/001.代码随想录/010.动态规划/002.背包问题.md",
+    "数据结构与算法/003.LeetCodeHot100/015.动态规划/006.单词拆分.md",
+    "数据结构与算法/003.LeetCodeHot100/015.动态规划/007.最长递增子序列.md",
+    "数据结构与算法/003.LeetCodeHot100/015.动态规划/008.乘积最大子数组.md",
+    "数据结构与算法/003.LeetCodeHot100/015.动态规划/009.分割等和子集.md",
+    "数据结构与算法/003.LeetCodeHot100/015.动态规划/010.最长有效括号.md",
+    "数据结构与算法/001.代码随想录/001.数组/002.移除元素.md",
+    "数据结构与算法/001.代码随想录/001.数组/001.二分法.md",
+    "数据结构与算法/003.LeetCodeHot100/015.动态规划/005.零钱兑换.md",
+    "数据结构与算法/003.LeetCodeHot100/015.动态规划/004.完全平方数.md",
+    "数据结构与算法/001.代码随想录/010.动态规划/001.基础题目.md",
+    "数据结构与算法/003.LeetCodeHot100/015.动态规划/003.打家劫舍.md",
+    "数据结构与算法/003.LeetCodeHot100/015.动态规划/002.杨辉三角.md",
+    "数据结构与算法/003.LeetCodeHot100/015.动态规划/001.爬楼梯.md",
     "数据结构与算法/学习规划.md",
+    "数据结构与算法/001.代码随想录/001.数组/000.数组.pdf",
     "数据结构与算法/003.LeetCodeHot100/014.贪心算法/004.划分字母区间.md",
     "数据结构与算法/003.LeetCodeHot100/015.动态规划",
     "数据结构与算法/003.LeetCodeHot100/014.贪心算法/003.跳跃游戏 II.md",
@@ -156,26 +175,12 @@
     "数据结构与算法/003.LeetCodeHot100/013.堆",
     "数据结构与算法/003.LeetCodeHot100/012.栈/004.每日温度.md",
     "数据结构与算法/003.LeetCodeHot100/012.栈/003.字符串解码.md",
-    "语言学习/Go/Go语言学习笔记/002.类型/001.变量.md",
-    "数据结构与算法/003.LeetCodeHot100/012.栈/002.最小栈.md",
-    "数据结构与算法/003.LeetCodeHot100/012.栈/001.有效的括号.md",
-    "数据结构与算法/003.LeetCodeHot100/011.二分查找/006.寻找两个正序数组的中位数.md",
     "数据结构与算法/003.LeetCodeHot100/012.栈",
-    "数据结构与算法/003.LeetCodeHot100/011.二分查找/005.寻找旋转排序数组中的最小值.md",
-    "数据结构与算法/003.LeetCodeHot100/011.二分查找/004.搜索旋转排序数组.md",
-    "语言学习/Go/Go语言学习笔记/003.表达式/002.运算符.md",
-    "语言学习/Go/Go语言学习笔记/003.表达式/004.控制流.md",
-    "数据结构与算法/003.LeetCodeHot100/011.二分查找/003.在排序数组中查找元素的第一个和最后一个位置.md",
-    "数据结构与算法/003.LeetCodeHot100/011.二分查找/002.搜索二维矩阵.md",
-    "数据结构与算法/003.LeetCodeHot100/011.二分查找/001.搜索插入位置.md",
-    "数据结构与算法/003.LeetCodeHot100/010.回溯/drawing/位清除运算符 VS 异或运算符.md",
-    "数据结构与算法/003.LeetCodeHot100/010.回溯/008.N 皇后.md",
     "数据结构与算法/003.LeetCodeHot100/011.二分查找",
     "数据结构与算法/003.LeetCodeHot100/010.回溯/drawing",
     "数据结构与算法/003.LeetCodeHot100/010.回溯",
     "数据结构与算法/003.LeetCodeHot100/009.图论",
     "README.md.lnk",
-    "index.md.lnk",
     "assets/1.png",
     "assets/2.png",
     "未归档/assets/Pasted image 20231120100345.png",
