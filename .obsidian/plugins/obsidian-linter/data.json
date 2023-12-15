@@ -45,11 +45,11 @@
     "yaml-timestamp": {
       "enabled": true,
       "date-created": true,
-      "date-created-key": "date created",
+      "date-created-key": "date",
       "force-retention-of-create-value": false,
       "date-modified": true,
-      "date-modified-key": "date modified",
-      "format": "dddd, MMMM Do YYYY, h:mm:ss a"
+      "date-modified-key": "modified",
+      "format": "YYYY-MM-DD kk:mm"
     },
     "yaml-title": {
       "enabled": false,
@@ -246,7 +246,7 @@
   "lintOnSave": false,
   "recordLintOnSaveLogs": false,
   "displayChanged": true,
-  "lintOnFileChange": false,
+  "lintOnFileChange": true,
   "displayLintOnFileChangeNotice": false,
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [],

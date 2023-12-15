@@ -1,3 +1,7 @@
+---
+date: 2023-11-20 09:57
+modified: 2023-12-15 15:46
+---
 在 markdown 中添加组件，如：[示例](https://www.redblobgames.com/making-of/draggable/)
 ![[Pasted image 20231120100141.png]]
 

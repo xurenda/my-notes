@@ -3,6 +3,8 @@
 excalidraw-plugin: parsed
 tags: [excalidraw]
 
+date: 2023-11-29 10:36
+modified: 2023-12-15 15:46
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
