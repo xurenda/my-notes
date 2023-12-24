@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "297f980c5a60dd40",
+        "id": "4cdc24cca8747601",
         "type": "tabs",
         "children": [
           {
-            "id": "2b422f16e22ed74c",
+            "id": "1e7f5dd4ad7c258f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构与算法/001.代码随想录/index.md",
+                "file": "数学/学习规划.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构与算法/001.代码随想录/index.md"
+                "file": "数学/学习规划.md"
               }
             }
           },
@@ -99,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构与算法/001.代码随想录/index.md",
+                "file": "数学/学习规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构与算法/001.代码随想录/index.md",
+                "file": "数学/学习规划.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,24 +144,29 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2b422f16e22ed74c",
+  "active": "1e7f5dd4ad7c258f",
   "lastOpenFiles": [
-    "数据结构与算法/001.代码随想录/001.数组/000.数组.pdf",
-    "数据结构与算法/001.代码随想录/index.md",
-    "index.md",
-    "Extra/Excalidraw/Scripts/Downloaded/Slideshow.md",
-    "Extra/Excalidraw/Template.excalidraw.md",
-    "Extra/Excalidraw/Template.excalidraw.svg",
-    "数据结构与算法/004.左程云算法通关/999.个人补充/001.位清除.md",
-    "数据结构与算法/004.左程云算法通关/999.个人补充/drawing/位清除运算符 VS 异或运算符.excalidraw.md",
+    "数学/初中数学/初中数学.md",
+    "数学/学习规划.md",
+    "数学/初中数学/第5部分 图形的变化/第5课时 图形的相似.pdf",
+    "数学/初中数学/第1部分 数与式/第1课时 实数.pdf",
     "数据结构与算法/003.LeetCodeHot100/007.链表/drawing/相交链表-有环.excalidraw.md",
-    "数据结构与算法/003.LeetCodeHot100/007.链表/drawing/两两交换链表中的节点.excalidraw.md",
+    "Extra/Excalidraw/Template.excalidraw.md",
+    "数据结构与算法/004.左程云算法通关/999.个人补充/drawing/位清除运算符 VS 异或运算符.excalidraw.md",
     "数据结构与算法/004.左程云算法通关/002.必备/drawing/完全二叉树底层存储结构可以用数组.excalidraw.md",
+    "数据结构与算法/003.LeetCodeHot100/007.链表/drawing/两两交换链表中的节点.excalidraw.md",
     "数据结构与算法/004.左程云算法通关/002.必备/drawing/两个点确定一个矩形.excalidraw.md",
     "数据结构与算法/004.左程云算法通关/002.必备/drawing/矩形中的子矩形.excalidraw.md",
     "数据结构与算法/004.左程云算法通关/002.必备/drawing/递归调用图.excalidraw.md",
-    "数据结构与算法/004.左程云算法通关/002.必备/drawing/从顶到底建堆 VS. 从底到顶建堆.excalidraw.svg",
     "数据结构与算法/004.左程云算法通关/002.必备/drawing/从顶到底建堆 VS. 从底到顶建堆.excalidraw.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/drawing/从底到顶建堆.excalidraw.md",
+    "数据结构与算法/001.代码随想录/index.md",
+    "数据结构与算法/001.代码随想录/001.数组/000.数组.pdf",
+    "index.md",
+    "Extra/Excalidraw/Scripts/Downloaded/Slideshow.md",
+    "Extra/Excalidraw/Template.excalidraw.svg",
+    "数据结构与算法/004.左程云算法通关/999.个人补充/001.位清除.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/drawing/从顶到底建堆 VS. 从底到顶建堆.excalidraw.svg",
     "数据结构与算法/003.LeetCodeHot100/007.链表/drawing/相交链表-有环.excalidraw.svg",
     "数据结构与算法/003.LeetCodeHot100/007.链表/drawing/两两交换链表中的节点.excalidraw.svg",
     "数据结构与算法/004.左程云算法通关/002.必备/drawing/完全二叉树底层存储结构可以用数组.excalidraw.svg",
@@ -169,12 +174,10 @@
     "数据结构与算法/004.左程云算法通关/002.必备/drawing/矩形中的子矩形.excalidraw.svg",
     "数据结构与算法/004.左程云算法通关/002.必备/drawing/递归调用图.excalidraw.svg",
     "数据结构与算法/004.左程云算法通关/002.必备/drawing/从底到顶建堆.excalidraw.svg",
-    "数据结构与算法/004.左程云算法通关/002.必备/drawing/从底到顶建堆.excalidraw.md",
     "未归档/Drawing.excalidraw.md",
     "数学/初中数学/第1部分 数与式/第4课时 二次根式.pdf",
     "数学/初中数学/第1部分 数与式/第3课时 分式.pdf",
     "数学/初中数学/第1部分 数与式/第2课时 整式及因式分解.pdf",
-    "数学/初中数学/第1部分 数与式/第1课时 实数.pdf",
     "数学/初中数学/第6部分 统计与概率/第3课时 概率.pdf",
     "数学/初中数学/第6部分 统计与概率/第2课时 数据的分析.pdf",
     "数学/初中数学/第6部分 统计与概率/第1课时 数据的收集与整理.pdf",
@@ -188,10 +191,6 @@
     "Excalidraw/Drawing 2023-12-24 12.42.40.excalidraw.md",
     "Excalidraw/Drawing 2023-12-24 12.41.50.excalidraw.md",
     "未归档/Drawing 2023-12-24 12.33.11.excalidraw.md",
-    "未归档/Drawing 2023-12-23 22.02.01.excalidraw.md",
-    "README.md",
-    "Extra/fonts/小可奶酪体.ttf",
-    "Extra/fonts",
     "未命名.canvas",
     "前端学习，漫漫长路/未命名.canvas",
     "数据结构与算法/代码随想录/链表/未命名.canvas"
