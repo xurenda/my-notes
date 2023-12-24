@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-embed-slide-plugin",
+	"name": "Obsidian Embed Slide Plugin",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Embed Slide in Obsidian markdown",
+	"author": "xurenda",
+	"authorUrl": "https://github.com/xurenda",
+	"fundingUrl": "https://github.com/xurenda/obsidian-sample-plugin",
+	"isDesktopOnly": false
+}

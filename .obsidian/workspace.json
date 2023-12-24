@@ -4,19 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "4cdc24cca8747601",
+        "id": "bde3478cd30f2fe4",
         "type": "tabs",
         "children": [
           {
-            "id": "1e7f5dd4ad7c258f",
+            "id": "80629df94142686d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/学习规划.md",
+                "file": "数据结构与算法/004.左程云算法通关/002.必备/020.常见经典递归过程解析.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "f9db8607726bf323",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "数据结构与算法/004.左程云算法通关/002.必备/drawing/用递归逆序一个栈.excalidraw.md"
               }
             }
           }
@@ -89,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学/学习规划.md"
+                "file": "数据结构与算法/004.左程云算法通关/002.必备/020.常见经典递归过程解析.md"
               }
             }
           },
@@ -99,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/学习规划.md",
+                "file": "数据结构与算法/004.左程云算法通关/002.必备/020.常见经典递归过程解析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学/学习规划.md",
+                "file": "数据结构与算法/004.左程云算法通关/002.必备/020.常见经典递归过程解析.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,12 +132,12 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 306.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,14 +154,43 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "1e7f5dd4ad7c258f",
+  "active": "80629df94142686d",
   "lastOpenFiles": [
-    "数学/初中数学/初中数学.md",
-    "数学/学习规划.md",
-    "数学/初中数学/第5部分 图形的变化/第5课时 图形的相似.pdf",
-    "数学/初中数学/第1部分 数与式/第1课时 实数.pdf",
-    "数据结构与算法/003.LeetCodeHot100/007.链表/drawing/相交链表-有环.excalidraw.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/drawing/用递归逆序一个栈.excalidraw.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/020.常见经典递归过程解析.md",
+    "未归档/11.md",
+    "export/11/plugin/chalkboard/README.md",
+    "export/11/plugin/chalkboard/_style.css",
+    "export/11/plugin/chalkboard/img/blackboard.png",
+    "export/11/plugin/chalkboard/img/boardmarker-black.png",
+    "export/11/plugin/chalkboard/img/boardmarker-blue.png",
+    "export/11/plugin/chalkboard/img/boardmarker-green.png",
+    "export/11/plugin/chalkboard/img/boardmarker-orange.png",
+    "export/11/plugin/chalkboard/img/boardmarker-purple.png",
+    "export/11/plugin/chalkboard/img/boardmarker-red.png",
+    "export/11/plugin/chalkboard/img/boardmarker-yellow.png",
+    "export/11/plugin/chalkboard/img/chalk-blue.png",
+    "export/11/plugin/chalkboard/img/chalk-green.png",
+    "export/11/plugin/chalkboard/img",
+    "export/11/plugin/chalkboard/plugin (copy).js",
+    "export/11/plugin/chalkboard/plugin.js",
+    "export/11/plugin/chalkboard/style.css",
+    "export/11/plugin/chalkboard",
+    "export/11/plugin/chart/README.md",
+    "export/11/plugin/chart/plugin.js",
+    "export/11/plugin/chart/chart.min.js",
+    "export/11/plugin/chart",
+    "export/11/plugin/customcontrols/style.css",
+    "export/11/plugin/customcontrols/README.md",
+    "export/11/plugin/menu/CONTRIBUTING.md",
+    "export/11/plugin/menu/README.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/drawing/aa.md",
     "Extra/Excalidraw/Template.excalidraw.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/002.递归和master公式.md",
+    "数学/学习规划.md",
+    "数学/初中数学/初中数学.md",
+    "数据结构与算法/001.代码随想录/代码随想录PDF.md",
+    "数据结构与算法/003.LeetCodeHot100/007.链表/drawing/相交链表-有环.excalidraw.md",
     "数据结构与算法/004.左程云算法通关/999.个人补充/drawing/位清除运算符 VS 异或运算符.excalidraw.md",
     "数据结构与算法/004.左程云算法通关/002.必备/drawing/完全二叉树底层存储结构可以用数组.excalidraw.md",
     "数据结构与算法/003.LeetCodeHot100/007.链表/drawing/两两交换链表中的节点.excalidraw.md",
@@ -160,37 +199,9 @@
     "数据结构与算法/004.左程云算法通关/002.必备/drawing/递归调用图.excalidraw.md",
     "数据结构与算法/004.左程云算法通关/002.必备/drawing/从顶到底建堆 VS. 从底到顶建堆.excalidraw.md",
     "数据结构与算法/004.左程云算法通关/002.必备/drawing/从底到顶建堆.excalidraw.md",
-    "数据结构与算法/001.代码随想录/index.md",
-    "数据结构与算法/001.代码随想录/001.数组/000.数组.pdf",
     "index.md",
     "Extra/Excalidraw/Scripts/Downloaded/Slideshow.md",
-    "Extra/Excalidraw/Template.excalidraw.svg",
     "数据结构与算法/004.左程云算法通关/999.个人补充/001.位清除.md",
-    "数据结构与算法/004.左程云算法通关/002.必备/drawing/从顶到底建堆 VS. 从底到顶建堆.excalidraw.svg",
-    "数据结构与算法/003.LeetCodeHot100/007.链表/drawing/相交链表-有环.excalidraw.svg",
-    "数据结构与算法/003.LeetCodeHot100/007.链表/drawing/两两交换链表中的节点.excalidraw.svg",
-    "数据结构与算法/004.左程云算法通关/002.必备/drawing/完全二叉树底层存储结构可以用数组.excalidraw.svg",
-    "数据结构与算法/004.左程云算法通关/002.必备/drawing/两个点确定一个矩形.excalidraw.svg",
-    "数据结构与算法/004.左程云算法通关/002.必备/drawing/矩形中的子矩形.excalidraw.svg",
-    "数据结构与算法/004.左程云算法通关/002.必备/drawing/递归调用图.excalidraw.svg",
-    "数据结构与算法/004.左程云算法通关/002.必备/drawing/从底到顶建堆.excalidraw.svg",
-    "未归档/Drawing.excalidraw.md",
-    "数学/初中数学/第1部分 数与式/第4课时 二次根式.pdf",
-    "数学/初中数学/第1部分 数与式/第3课时 分式.pdf",
-    "数学/初中数学/第1部分 数与式/第2课时 整式及因式分解.pdf",
-    "数学/初中数学/第6部分 统计与概率/第3课时 概率.pdf",
-    "数学/初中数学/第6部分 统计与概率/第2课时 数据的分析.pdf",
-    "数学/初中数学/第6部分 统计与概率/第1课时 数据的收集与整理.pdf",
-    "数据结构与算法/004.左程云算法通关/999.个人补充/drawing/位清除运算符 VS 异或运算符.excalidraw.svg",
-    "未归档/fastgpt.md",
-    "未归档/Drawing .excalidraw.md",
-    "未归档/11.md",
-    "Excalidraw/Drawing 2023-12-24 12.43.56.excalidraw.md",
-    "Excalidraw",
-    "Excalidraw/Drawing 2023-12-24 12.43.07.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-24 12.42.40.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-24 12.41.50.excalidraw.md",
-    "未归档/Drawing 2023-12-24 12.33.11.excalidraw.md",
     "未命名.canvas",
     "前端学习，漫漫长路/未命名.canvas",
     "数据结构与算法/代码随想录/链表/未命名.canvas"

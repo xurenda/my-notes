@@ -40,7 +40,7 @@
   "linkOpacity": 1,
   "openInAdjacentPane": false,
   "openInMainWorkspace": true,
-  "showLinkBrackets": true,
+  "showLinkBrackets": false,
   "allowCtrlClick": true,
   "forceWrap": false,
   "pageTransclusionCharLimit": 200,
