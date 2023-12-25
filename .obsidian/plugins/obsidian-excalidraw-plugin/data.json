@@ -17,7 +17,7 @@
   "allowImageCache": true,
   "displayExportedImageIfAvailable": true,
   "previewMatchObsidianTheme": false,
-  "width": "400",
+  "width": "700",
   "dynamicStyling": "colorful",
   "isLeftHanded": false,
   "iframeMatchExcalidrawTheme": true,
@@ -1427,7 +1427,7 @@
             "containerId": null,
             "originalText": "VPN",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           }
         ],
         "id": "ZN6j7TdVw4cFD1pylJH68",
@@ -1545,7 +1545,7 @@
             "containerId": null,
             "originalText": "DNS",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           }
         ],
         "id": "MwrXfJSFTQPPQcggJ8Cpj",
@@ -1591,7 +1591,7 @@
             "containerId": null,
             "originalText": "Shield",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           },
           {
             "type": "ellipse",
@@ -2093,7 +2093,7 @@
             "containerId": null,
             "originalText": "Firewall",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           },
           {
             "type": "ellipse",
@@ -2493,7 +2493,7 @@
             "containerId": null,
             "originalText": "Lock",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           },
           {
             "type": "ellipse",
@@ -2665,7 +2665,7 @@
             "containerId": null,
             "originalText": "Key",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           },
           {
             "type": "ellipse",
@@ -2988,7 +2988,7 @@
             "containerId": null,
             "originalText": "Desktop",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           },
           {
             "type": "ellipse",
@@ -3602,7 +3602,7 @@
             "containerId": null,
             "originalText": "LoadBalancer",
             "lineHeight": 1.25,
-            "baseline": 21
+            "baseline": 22
           }
         ],
         "id": "UuC8ZdqOe6DRbIiKsr0is",
@@ -3648,7 +3648,7 @@
             "containerId": null,
             "originalText": "Router",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           },
           {
             "type": "ellipse",
@@ -7810,7 +7810,7 @@
             "containerId": null,
             "originalText": "5\n\n4\n\n3\n\n2\n\n1   \n\n0\n\n\n-1\n\n-2\n\n-3\n\n-4\n\n-5",
             "lineHeight": 1.2499999999999996,
-            "baseline": 442
+            "baseline": 441
           },
           {
             "type": "line",
@@ -8960,7 +8960,7 @@
             "containerId": null,
             "originalText": "5\n\n4\n\n3\n\n2\n\n1   \n\n0\n\n\n-1\n\n-2\n\n-3\n\n-4\n\n-5",
             "lineHeight": 1.2499999999999996,
-            "baseline": 442
+            "baseline": 441
           },
           {
             "type": "line",
