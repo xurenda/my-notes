@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构与算法/001.代码随想录/010.动态规划/002.背包问题.md",
+                "file": "数据结构与算法/004.左程云算法通关/002.必备/027.前缀树的相关题目.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -69,8 +69,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构与算法/001.代码随想录/010.动态规划/002.背包问题.md"
+                "file": "数据结构与算法/004.左程云算法通关/002.必备/027.前缀树的相关题目.md"
               }
             }
           },
@@ -100,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构与算法/001.代码随想录/010.动态规划/002.背包问题.md",
+                "file": "数据结构与算法/004.左程云算法通关/002.必备/027.前缀树的相关题目.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构与算法/001.代码随想录/010.动态规划/002.背包问题.md",
+                "file": "数据结构与算法/004.左程云算法通关/002.必备/027.前缀树的相关题目.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,8 +145,8 @@
   },
   "active": "38b871ca0835615d",
   "lastOpenFiles": [
-    "未归档/markdown公式.md",
     "数据结构与算法/001.代码随想录/010.动态规划/002.背包问题.md",
+    "未归档/markdown公式.md",
     "数据结构与算法/001.代码随想录/010.动态规划/assets/Pasted image 20231108150925.png",
     "数据结构与算法/004.左程云算法通关/002.必备/027.前缀树的相关题目.md",
     "数据结构与算法/004.左程云算法通关/002.必备/012.异或运算的骚操作.md",
