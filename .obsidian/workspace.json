@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构与算法/004.左程云算法通关/002.必备/027.前缀树的相关题目.md",
+                "file": "数据结构与算法/004.左程云算法通关/002.必备/028.构建前缀信息的技巧-解决子数组相关问题.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Zeros",
+                "query": "牛客",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构与算法/004.左程云算法通关/002.必备/027.前缀树的相关题目.md"
+                "file": "数据结构与算法/004.左程云算法通关/002.必备/028.构建前缀信息的技巧-解决子数组相关问题.md"
               }
             }
           },
@@ -99,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构与算法/004.左程云算法通关/002.必备/027.前缀树的相关题目.md",
+                "file": "数据结构与算法/004.左程云算法通关/002.必备/028.构建前缀信息的技巧-解决子数组相关问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构与算法/004.左程云算法通关/002.必备/027.前缀树的相关题目.md",
+                "file": "数据结构与算法/004.左程云算法通关/002.必备/028.构建前缀信息的技巧-解决子数组相关问题.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,12 +121,24 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "0b76affd08e30f33",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 271.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -137,59 +149,58 @@
       "workspaces:管理工作区布局": false,
       "random-note:开始漫游笔记": false,
       "oz-clear-unused-images:Clear Unused Images": false,
-      "cmdr:思维导图": false,
       "cmdr:导出为 PDF": false,
-      "markdown-table-editor:Open Markdown Table Editor": true,
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "38b871ca0835615d",
   "lastOpenFiles": [
-    "数据结构与算法/001.代码随想录/010.动态规划/002.背包问题.md",
-    "未归档/markdown公式.md",
-    "数据结构与算法/001.代码随想录/010.动态规划/assets/Pasted image 20231108150925.png",
-    "数据结构与算法/004.左程云算法通关/002.必备/027.前缀树的相关题目.md",
-    "数据结构与算法/004.左程云算法通关/002.必备/012.异或运算的骚操作.md",
-    "数据结构与算法/004.左程云算法通关/002.必备/025.根据数据量猜解法的技巧-天字第一号重要技巧.md",
-    "数据结构与算法/004.左程云算法通关/002.必备/026.前缀树原理和代码详解.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/017.数据结构设计高频题.md",
     "数据结构与算法/004.左程云算法通关/002.必备/001.算法笔试中处理输入和输出.md",
-    "数据结构与算法/004.左程云算法通关/002.必备/005.随机快速排序.md",
-    "数据结构与算法/004.左程云算法通关/002.必备/003.归并排序.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/028.构建前缀信息的技巧-解决子数组相关问题.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/027.前缀树的相关题目.md",
     "数据结构与算法/004.左程云算法通关/002.必备/020.常见经典递归过程解析.md",
     "数据结构与算法/004.左程云算法通关/002.必备/021.嵌套类问题的递归解题套路.md",
-    "数据结构与算法/004.左程云算法通关/002.必备/024.对数器打表找规律的技巧.md",
-    "数据结构与算法/004.左程云算法通关/002.必备/023.最大公约数、同余原理.md",
-    "未归档/markdown中如何写代码.md",
-    "前端学习，漫漫长路/004.开发规范/002.Web前端开发规范（2）——代码规范.md",
-    "前端学习，漫漫长路/005.花里胡哨/002.CSS3 实现 checkbox 和 radio 自定义样式.md",
-    "前端学习，漫漫长路/004.开发规范/001.Web前端开发规范（1）——通用规范.md",
-    "前端学习，漫漫长路/002.干货知识/001.Web API.md",
-    "数据结构与算法/002.卡码网/001.A+B问题I.md",
-    "数据结构与算法/004.左程云算法通关/002.必备/013.位运算的骚操作.md",
-    "数据结构与算法/004.左程云算法通关/001.入门/003.二进制和位运算.md",
-    "数据结构与算法/004.左程云算法通关/002.必备/022.N皇后问题-重点是位运算的版本.md",
-    "数据结构与算法/004.左程云算法通关/001.入门/004.选择、冒泡、插入排序.md",
-    "数据结构与算法/004.左程云算法通关/999.个人补充/001.位清除.md",
-    "数据结构与算法/004.左程云算法通关/002.必备/018.二叉树高频题目-上-不含树型dp.md",
-    "数据结构与算法/004.左程云算法通关/002.必备/drawing/bottomOut.excalidraw.svg",
+    "数据结构与算法/003.LeetCodeHot100/007.链表/drawing/相交链表-有环.excalidraw.md",
+    "Extra/Excalidraw/Template.excalidraw.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/drawing/reverseStack.excalidraw.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/drawing/bottomOut.excalidraw.md",
+    "数据结构与算法/003.LeetCodeHot100/007.链表/drawing/相交链表-有环.excalidraw.svg",
+    "数据结构与算法/004.左程云算法通关/999.个人补充/drawing/位清除运算符 VS 异或运算符.excalidraw.svg",
+    "数据结构与算法/004.左程云算法通关/999.个人补充/drawing/位清除运算符 VS 异或运算符.excalidraw.md",
+    "数据结构与算法/003.LeetCodeHot100/007.链表/drawing/两两交换链表中的节点.excalidraw.svg",
+    "数据结构与算法/003.LeetCodeHot100/007.链表/drawing/两两交换链表中的节点.excalidraw.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/drawing/完全二叉树底层存储结构可以用数组.excalidraw.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/drawing/两个点确定一个矩形.excalidraw.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/drawing/矩形中的子矩形.excalidraw.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/drawing/递归调用图.excalidraw.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/drawing/从顶到底建堆 VS. 从底到顶建堆.excalidraw.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/drawing/从底到顶建堆.excalidraw.md",
     "数据结构与算法/004.左程云算法通关/002.必备/drawing/reverseStack.excalidraw.svg",
+    "数据结构与算法/004.左程云算法通关/002.必备/drawing/bottomOut.excalidraw.svg",
     "数据结构与算法/004.左程云算法通关/002.必备/drawing/完全二叉树底层存储结构可以用数组.excalidraw.svg",
-    "数据结构与算法/004.左程云算法通关/002.必备/drawing/reverseStack.excalidraw.light.svg",
-    "数据结构与算法/004.左程云算法通关/002.必备/drawing/从底到顶建堆.excalidraw.svg",
-    "数据结构与算法/004.左程云算法通关/002.必备/drawing/从顶到底建堆 VS. 从底到顶建堆.excalidraw.svg",
-    "数据结构与算法/004.左程云算法通关/002.必备/drawing/递归调用图.excalidraw.svg",
-    "数据结构与算法/004.左程云算法通关/002.必备/drawing/矩形中的子矩形.excalidraw.svg",
     "数据结构与算法/004.左程云算法通关/002.必备/drawing/两个点确定一个矩形.excalidraw.svg",
+    "数据结构与算法/004.左程云算法通关/002.必备/drawing/矩形中的子矩形.excalidraw.svg",
+    "数据结构与算法/004.左程云算法通关/002.必备/drawing/递归调用图.excalidraw.svg",
+    "数据结构与算法/004.左程云算法通关/002.必备/drawing/从顶到底建堆 VS. 从底到顶建堆.excalidraw.svg",
+    "数据结构与算法/004.左程云算法通关/未命名.md",
+    "Extra/fonts/LXGWWenKaiGBScreenR.ttf",
+    "数据结构与算法/004.左程云算法通关/002.必备/012.异或运算的骚操作.md",
+    "数据结构与算法/001.代码随想录/010.动态规划/002.背包问题.md",
+    "工具/Obsidian/Callouts.md",
+    "工具/Markdown/markdown中如何写代码.md",
+    "工具/Markdown/markdown公式.md",
+    "工具/Obsidian",
+    "未归档/未命名.md",
+    "工具/Markdown",
+    "未命名",
+    "工具",
+    "数据结构与算法/004.左程云算法通关/002.必备/025.根据数据量猜解法的技巧-天字第一号重要技巧.md",
     "export/11/plugin/chalkboard/_style.css",
     "export/11/plugin/chalkboard/img",
     "export/11/plugin/chalkboard/plugin (copy).js",
     "export/11/plugin/chalkboard/plugin.js",
     "export/11/plugin/chalkboard/style.css",
-    "export/11/plugin/chalkboard",
-    "export/11/plugin/chart/plugin.js",
-    "export/11/plugin/chart/chart.min.js",
-    "export/11/plugin/chart",
-    "export/11/plugin/customcontrols/style.css",
     "未命名.canvas",
     "前端学习，漫漫长路/未命名.canvas",
     "数据结构与算法/代码随想录/链表/未命名.canvas"

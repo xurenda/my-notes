@@ -6,12 +6,6 @@
   "fileMenu": [],
   "leftRibbon": [
     {
-      "id": "obsidian-mind-map:app:markmap-preview",
-      "icon": "airplay",
-      "name": "思维导图",
-      "mode": "any"
-    },
-    {
       "id": "workspace:export-pdf",
       "icon": "arrow-down-circle",
       "name": "导出为 PDF",
@@ -35,21 +29,15 @@
       "mode": "any"
     },
     {
-      "id": "workspace:split-vertical",
-      "icon": "lucide-separator-vertical",
-      "name": "左右分屏",
-      "mode": "any"
-    },
-    {
       "id": "workspace:toggle-pin",
       "icon": "lucide-pin",
       "name": "解锁/锁定",
       "mode": "any"
     },
     {
-      "id": "markdown-table-editor:markdown-table-editor-open-horizontal",
-      "icon": "banknote",
-      "name": "表格",
+      "id": "workspace:split-vertical",
+      "icon": "lucide-separator-vertical",
+      "name": "左右分屏",
       "mode": "any"
     }
   ],

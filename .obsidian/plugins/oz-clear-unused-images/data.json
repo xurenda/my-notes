@@ -1,7 +1,7 @@
 {
   "deleteOption": ".trash",
   "logsModal": true,
-  "excludedFolders": "Extra",
+  "excludedFolders": "Extra,*.excalidraw.svg",
   "ribbonIcon": true,
   "excludeSubfolders": true
 }
