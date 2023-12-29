@@ -17,5 +17,14 @@
     }
   ],
   "obsidian-excalidraw-plugin:insert-link": [],
-  "easy-typing-obsidian:easy-typing-delete-blank-line": []
+  "easy-typing-obsidian:easy-typing-delete-blank-line": [],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ]
 }
