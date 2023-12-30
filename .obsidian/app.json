@@ -20,6 +20,6 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "spellcheck": false,
+  "spellcheck": true,
   "showUnsupportedFiles": true
 }
