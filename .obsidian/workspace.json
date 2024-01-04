@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a594d983505b11df",
+        "id": "ea7c5f57a66e5e85",
         "type": "tabs",
         "children": [
           {
-            "id": "8588a88903a771f7",
+            "id": "7906fd02a8b4aa27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构与算法/004.左程云算法通关/002.必备/037.单调队列-下.md",
+                "file": "数据结构与算法/004.左程云算法通关/002.必备/039.并查集-下.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构与算法/004.左程云算法通关/002.必备/037.单调队列-下.md"
+                "file": "数据结构与算法/004.左程云算法通关/002.必备/039.并查集-下.md"
               }
             }
           },
@@ -99,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构与算法/004.左程云算法通关/002.必备/037.单调队列-下.md",
+                "file": "数据结构与算法/004.左程云算法通关/002.必备/039.并查集-下.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构与算法/004.左程云算法通关/002.必备/037.单调队列-下.md",
+                "file": "数据结构与算法/004.左程云算法通关/002.必备/039.并查集-下.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,12 +153,31 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8588a88903a771f7",
+  "active": "7906fd02a8b4aa27",
   "lastOpenFiles": [
-    "数据结构与算法/001.代码随想录/006.栈与队列/003.单调队列.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/038.并查集-上.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/039.并查集-下.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/drawing/并查集.excalidraw.svg",
+    "数据结构与算法/004.左程云算法通关/002.必备/drawing/从底到顶建堆.excalidraw.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/drawing/并查集.excalidraw.md",
     "数据结构与算法/004.左程云算法通关/002.必备/037.单调队列-下.md",
-    "未归档/未命名.md",
+    "语言学习/Java/Java 路线.md",
+    "语言学习/Java/001.JavaSE(JDK17)/001.Java 语言概述/002.软件开发及人机交互方式.md",
+    "语言学习/Java/001.JavaSE(JDK17)/001.Java 语言概述/assets/image-20220517100223784.png",
+    "语言学习/Java/001.JavaSE(JDK17)/001.Java 语言概述/assets/image-20220731234604511.png",
+    "语言学习/Java/001.JavaSE(JDK17)/001.Java 语言概述/assets/image-20220524152902812.png",
+    "语言学习/Java/001.JavaSE(JDK17)/001.Java 语言概述/assets",
+    "语言学习/Java/001.JavaSE(JDK17)/001.Java 语言概述/001.Java 的应用领域.md",
+    "语言学习/Java/assets/Java基础全程脉络图.png",
+    "语言学习/Java/001.JavaSE(JDK17)/001.Java 语言概述",
+    "语言学习/Java/001.JavaSE(JDK17)",
+    "语言学习/Java/assets/Pasted image 20240104101748.png",
+    "语言学习/Java/assets",
+    "语言学习/Go/Go 路线.md",
+    "语言学习/Java",
     "数据结构与算法/004.左程云算法通关/002.必备/035.单调栈-下.md",
+    "数据结构与算法/001.代码随想录/006.栈与队列/003.单调队列.md",
+    "未归档/未命名.md",
     "数据结构与算法/004.左程云算法通关/002.必备/036.单调队列-上.md",
     "数据结构与算法/004.左程云算法通关/002.必备/034.单调栈-上.md",
     "数据结构与算法/004.左程云算法通关/001.入门/013.队列和栈-链表、数组实现.md",
@@ -171,36 +190,17 @@
     "数据结构与算法/004.左程云算法通关/002.必备/033.二分答案法与相关题目.md",
     "数据结构与算法/004.左程云算法通关/002.必备/assets/Pasted image 20240102155843.png",
     "数据结构与算法/004.左程云算法通关/002.必备/025.根据数据量猜解法的技巧-天字第一号重要技巧.md",
-    "数据结构与算法/004.左程云算法通关/002.必备/drawing/Drawing.excalidraw.md",
     "数据结构与算法/003.LeetCodeHot100/013.堆/000.Go标准库中的堆.md",
     "数据结构与算法/004.左程云算法通关/001.入门/007.时间复杂度和空间复杂度.md",
     "数据结构与算法/004.左程云算法通关/999.个人补充/003.Go标准库中的容器.md",
     "数据结构与算法/003.LeetCodeHot100/013.堆/003.数据流的中位数.md",
     "数据结构与算法/004.左程云算法通关/002.必备/assets/Pasted image 20240102092853.png",
     "数据结构与算法/004.左程云算法通关/002.必备/assets/Pasted image 20240102092733.png",
-    "数据结构与算法/004.左程云算法通关/002.必备/assets/Pasted image 20231231154254.png",
-    "数据结构与算法/004.左程云算法通关/002.必备/assets/Pasted image 20231229154540.png",
-    "数据结构与算法/004.左程云算法通关/002.必备/assets/Pasted image 20231229154501.png",
-    "数据结构与算法/004.左程云算法通关/002.必备/assets/Pasted image 20231229154245.png",
-    "数据结构与算法/004.左程云算法通关/002.必备/assets/Pasted image 20231220160729.png",
-    "数据结构与算法/004.左程云算法通关/002.必备/assets/Pasted image 20231218160809.png",
-    "数据结构与算法/004.左程云算法通关/002.必备/014.位图.md",
-    "工具/Obsidian/Callouts.md",
-    "工具/Markdown/markdown公式.md",
-    "数据结构与算法/004.左程云算法通关/001.入门/006.二分搜索.md",
-    "数据结构与算法/004.左程云算法通关/002.必备/032.双指针技巧与相关题目.md",
-    "数据结构与算法/003.LeetCodeHot100/005.普通数组/005.缺失的第一个正数.md",
-    "数据结构与算法/001.代码随想录/011.单调栈/004.柱状图中最大的矩形.md",
     "Extra/Template",
     "Extra/fonts/LXGWWenKaiGBScreenR.ttf",
     "工具/Obsidian",
     "工具/Markdown",
     "未命名",
-    "工具",
-    "export/11/plugin/chalkboard/_style.css",
-    "export/11/plugin/chalkboard/img",
-    "export/11/plugin/chalkboard/plugin (copy).js",
-    "export/11/plugin/chalkboard/plugin.js",
     "未命名.canvas",
     "前端学习，漫漫长路/未命名.canvas",
     "数据结构与算法/代码随想录/链表/未命名.canvas"
