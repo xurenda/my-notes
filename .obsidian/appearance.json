@@ -8,5 +8,8 @@
   ],
   "nativeMenus": false,
   "showViewHeader": true,
-  "baseFontSize": 14
+  "baseFontSize": 14,
+  "textFontFamily": "霞鹜文楷 GB 屏幕阅读版 R",
+  "interfaceFontFamily": "霞鹜文楷 GB 屏幕阅读版 R",
+  "monospaceFontFamily": "JetBrains Mono"
 }

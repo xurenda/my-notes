@@ -4,15 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "7e2d4977328547df",
+        "id": "9acc5abbaa81051f",
         "type": "tabs",
         "children": [
           {
-            "id": "07f6d3cef60d7544",
+            "id": "a373972cbf5a5af5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "数据结构与算法/004.左程云算法通关/002.必备/041.建图、链式前向星、拓扑排序.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "469bb9b8c6ce5b59",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "数据结构与算法/004.左程云算法通关/002.必备/drawing/邻接矩阵.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "8072887715326553",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "数据结构与算法/004.左程云算法通关/002.必备/drawing/邻接表.excalidraw.md"
+              }
             }
           }
         ]
@@ -44,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#语言",
+                "query": "239.",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "数据结构与算法/004.左程云算法通关/002.必备/041.建图、链式前向星、拓扑排序.md"
+              }
             }
           },
           {
@@ -92,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "数据结构与算法/004.左程云算法通关/002.必备/041.建图、链式前向星、拓扑排序.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "数据结构与算法/004.左程云算法通关/002.必备/041.建图、链式前向星、拓扑排序.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,53 +173,53 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "07f6d3cef60d7544",
+  "active": "a373972cbf5a5af5",
   "lastOpenFiles": [
-    "语言学习/Java/001.JavaSE(JDK17)/001.Java 语言概述/008.Java 核心机制：JVM.md",
-    "语言学习/Java/001.JavaSE(JDK17)/002.变量与运算符/002.变量和数据类型.md",
-    "语言学习/Java/001.JavaSE(JDK17)/002.变量与运算符/assets/image-20220311001749699.png",
-    "语言学习/Java/001.JavaSE(JDK17)/002.变量与运算符/assets/image-20220311001553945.png",
+    "数据结构与算法/004.左程云算法通关/002.必备/drawing/邻接表.excalidraw.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/drawing/邻接矩阵.excalidraw.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/041.建图、链式前向星、拓扑排序.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/drawing/邻接表.excalidraw.svg",
+    "数据结构与算法/004.左程云算法通关/002.必备/drawing/邻接矩阵.excalidraw.svg",
+    "数据结构与算法/004.左程云算法通关/002.必备/007.堆结构和堆排序.md",
+    "数据结构与算法/004.左程云算法通关/001.入门/013.队列和栈-链表、数组实现.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/040.洪水填充.md",
+    "Extra/Template/题目(h1).md",
+    "Extra/Template/题目(h2).md",
+    "数据结构与算法/004.左程云算法通关/002.必备/038.并查集-上.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/039.并查集-下.md",
+    "未归档/fastgpt.md",
+    "Extra/fonts/字体.md",
+    "未归档/未命名.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/025.根据数据量猜解法的技巧-天字第一号重要技巧.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/026.前缀树原理和代码详解.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/027.前缀树的相关题目.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/028.构建前缀信息的技巧-解决子数组相关问题.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/030.二维前缀和、二维差分、离散化技巧.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/031.滑动窗口技巧与相关题目.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/032.双指针技巧与相关题目.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/033.二分答案法与相关题目.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/034.单调栈-上.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/036.单调队列-上.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/037.单调队列-下.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/035.单调栈-下.md",
+    "Extra/fonts/assets/Pasted image 20240105110427.png",
+    "Extra/fonts/assets/Pasted image 20240105110059.png",
+    "Extra/fonts/assets/Pasted image 20240105105911.png",
+    "Extra/fonts/assets",
+    "Extra/fonts/LXGWWenKaiGBScreenR.ttf",
+    "Extra/fonts/JetBrainsMono-Regular.ttf",
+    "语言学习/Java/assets/Pasted image 20240104101748.png",
+    "语言学习/Java/001.JavaSE(JDK17)/002.变量与运算符/assets/Java的数据类型.png",
+    "语言学习/Java/001.JavaSE(JDK17)/002.变量与运算符/assets/image-20220801143635356.png",
     "语言学习/Java/001.JavaSE(JDK17)/002.变量与运算符/assets/image-20220520111756274.png",
     "语言学习/Java/001.JavaSE(JDK17)/002.变量与运算符/assets/image-20220514152216148.png",
-    "语言学习/Java/001.JavaSE(JDK17)/002.变量与运算符/assets/Java的数据类型.png",
-    "语言学习/Java/001.JavaSE(JDK17)/002.变量与运算符/assets/image-20220311000744867.png",
-    "语言学习/Java/001.JavaSE(JDK17)/002.变量与运算符/001.关键字、保留字与标识符.md",
-    "语言学习/Java/001.JavaSE(JDK17)/002.变量与运算符/assets/image-20220801143635356.png",
-    "语言学习/Java/001.JavaSE(JDK17)/002.变量与运算符/assets/image-20220310234557454.png",
-    "语言学习/Java/001.JavaSE(JDK17)/002.变量与运算符/assets/image-20220310234414849.png",
     "语言学习/Java/001.JavaSE(JDK17)/002.变量与运算符/assets",
-    "语言学习/Java/Java 路线.md",
-    "语言学习/Java/001.JavaSE(JDK17)/001.Java 语言概述/007.Java 中的注释与 API 文档.md",
     "语言学习/Java/001.JavaSE(JDK17)/002.变量与运算符",
-    "语言学习/Java/001.JavaSE(JDK17)/001.Java 语言概述/assets/image-20220514151716805.png",
-    "语言学习/Java/001.JavaSE(JDK17)/001.Java 语言概述/006.Hello World.md",
-    "语言学习/Java/001.JavaSE(JDK17)/001.Java 语言概述/005.Java 开发环境搭建.md",
-    "未归档/www.oracle.com.md",
-    "语言学习/Java/001.JavaSE(JDK17)/001.Java 语言概述/004.Java 语言简史、平台体系.md",
-    "语言学习/Java/001.JavaSE(JDK17)/001.Java 语言概述/003.计算机编程语言概述.md",
-    "语言学习/Java/001.JavaSE(JDK17)/001.Java 语言概述/002.软件开发及人机交互方式.md",
-    "语言学习/Java/001.JavaSE(JDK17)/001.Java 语言概述/001.Java 的应用领域.md",
-    "数据结构与算法/004.左程云算法通关/002.必备/039.并查集-下.md",
-    "数据结构与算法/004.左程云算法通关/002.必备/038.并查集-上.md",
-    "数据结构与算法/004.左程云算法通关/002.必备/drawing/从底到顶建堆.excalidraw.md",
-    "数据结构与算法/004.左程云算法通关/002.必备/drawing/并查集.excalidraw.md",
-    "数据结构与算法/004.左程云算法通关/002.必备/037.单调队列-下.md",
     "语言学习/Java/001.JavaSE(JDK17)/001.Java 语言概述/assets",
     "语言学习/Java/001.JavaSE(JDK17)/001.Java 语言概述",
     "语言学习/Java/001.JavaSE(JDK17)",
     "语言学习/Java/assets",
-    "语言学习/Go/Go 路线.md",
     "语言学习/Java",
-    "数据结构与算法/004.左程云算法通关/002.必备/035.单调栈-下.md",
-    "数据结构与算法/001.代码随想录/006.栈与队列/003.单调队列.md",
-    "未归档/未命名.md",
-    "数据结构与算法/004.左程云算法通关/002.必备/036.单调队列-上.md",
-    "数据结构与算法/004.左程云算法通关/002.必备/034.单调栈-上.md",
-    "数据结构与算法/004.左程云算法通关/001.入门/013.队列和栈-链表、数组实现.md",
-    "数据结构与算法/004.左程云算法通关/001.入门/016.双端队列-双链表和固定数组实现.md",
-    "Extra/Template",
-    "Extra/fonts/LXGWWenKaiGBScreenR.ttf",
-    "工具/Obsidian",
     "未命名.canvas",
     "前端学习，漫漫长路/未命名.canvas",
     "数据结构与算法/代码随想录/链表/未命名.canvas"
