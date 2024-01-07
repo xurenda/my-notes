@@ -18,55 +18,149 @@ body {
 }
 
 /* 标题级别指示 */
+.markdown-reading-view h1,
+.markdown-source-view.is-live-preview
+  .HyperMD-header.HyperMD-header-1
+  :not(.cm-header.cm-header-1 ~ .cm-header.cm-header-1).cm-header.cm-header-1:not(.cm-formatting) {
+  position: relative;
+  margin-left: 20px;
+}
 .markdown-reading-view h1::before,
 .markdown-source-view.is-live-preview
-  :not(:where(.cm-formatting, .cm-inline-code) ~ .cm-header.cm-header-1).cm-header.cm-header-1:not(.cm-formatting, .cm-inline-code, .cm-blockid)::before {
+  .HyperMD-header.HyperMD-header-1
+  :not(.cm-header.cm-header-1 ~ .cm-header.cm-header-1).cm-header.cm-header-1:not(.cm-formatting)::before {
   content: 'H1';
+  position: absolute;
+  left: -20px;
+  top: 0;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  font-family: var(--font-text);
   color: var(--text-faint);
   font-size: 12px;
   vertical-align: middle;
   margin-right: 4px;
+}
+
+.markdown-reading-view h2,
+.markdown-source-view.is-live-preview
+  .HyperMD-header.HyperMD-header-2
+  :not(.cm-header.cm-header-2 ~ .cm-header.cm-header-2).cm-header.cm-header-2:not(.cm-formatting) {
+  position: relative;
+  margin-left: 20px;
 }
 .markdown-reading-view h2::before,
 .markdown-source-view.is-live-preview
-  :not(:where(.cm-formatting, .cm-inline-code) ~ .cm-header.cm-header-2).cm-header.cm-header-2:not(.cm-formatting, .cm-inline-code, .cm-blockid)::before {
+  .HyperMD-header.HyperMD-header-2
+  :not(.cm-header.cm-header-2 ~ .cm-header.cm-header-2).cm-header.cm-header-2:not(.cm-formatting)::before {
   content: 'H2';
+  position: absolute;
+  left: -20px;
+  top: 0;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  font-family: var(--font-text);
   color: var(--text-faint);
   font-size: 12px;
   vertical-align: middle;
-  margin-right: 4px;
+}
+
+.markdown-reading-view h3,
+.markdown-source-view.is-live-preview
+  .HyperMD-header.HyperMD-header-3
+  :not(.cm-header.cm-header-3 ~ .cm-header.cm-header-3).cm-header.cm-header-3:not(.cm-formatting) {
+  position: relative;
+  margin-left: 20px;
 }
 .markdown-reading-view h3::before,
 .markdown-source-view.is-live-preview
-  :not(:where(.cm-formatting, .cm-inline-code) ~ .cm-header.cm-header-3).cm-header.cm-header-3:not(.cm-formatting, .cm-inline-code, .cm-blockid)::before {
+  .HyperMD-header.HyperMD-header-3
+  :not(.cm-header.cm-header-3 ~ .cm-header.cm-header-3).cm-header.cm-header-3:not(.cm-formatting)::before {
   content: 'H3';
+  position: absolute;
+  left: -20px;
+  top: 0;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  font-family: var(--font-text);
   color: var(--text-faint);
   font-size: 12px;
   vertical-align: middle;
   margin-right: 4px;
+}
+
+.markdown-reading-view h4,
+.markdown-source-view.is-live-preview
+  .HyperMD-header.HyperMD-header-4
+  :not(.cm-header.cm-header-4 ~ .cm-header.cm-header-4).cm-header.cm-header-4:not(.cm-formatting) {
+  position: relative;
+  margin-left: 20px;
 }
 .markdown-reading-view h4::before,
 .markdown-source-view.is-live-preview
-  :not(:where(.cm-formatting, .cm-inline-code) ~ .cm-header.cm-header-4).cm-header.cm-header-4:not(.cm-formatting, .cm-inline-code, .cm-blockid)::before {
+  .HyperMD-header.HyperMD-header-4
+  :not(.cm-header.cm-header-4 ~ .cm-header.cm-header-4).cm-header.cm-header-4:not(.cm-formatting)::before {
   content: 'H4';
+  position: absolute;
+  left: -20px;
+  top: 0;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  font-family: var(--font-text);
   color: var(--text-faint);
   font-size: 12px;
   vertical-align: middle;
   margin-right: 4px;
+}
+
+.markdown-reading-view h5,
+.markdown-source-view.is-live-preview
+  .HyperMD-header.HyperMD-header-5
+  :not(.cm-header.cm-header-5 ~ .cm-header.cm-header-5).cm-header.cm-header-5:not(.cm-formatting) {
+  position: relative;
+  margin-left: 20px;
 }
 .markdown-reading-view h5::before,
 .markdown-source-view.is-live-preview
-  :not(:where(.cm-formatting, .cm-inline-code) ~ .cm-header.cm-header-5).cm-header.cm-header-5:not(.cm-formatting, .cm-inline-code, .cm-blockid)::before {
+  .HyperMD-header.HyperMD-header-5
+  :not(.cm-header.cm-header-5 ~ .cm-header.cm-header-5).cm-header.cm-header-5:not(.cm-formatting)::before {
   content: 'H5';
+  position: absolute;
+  left: -20px;
+  top: 0;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  font-family: var(--font-text);
   color: var(--text-faint);
   font-size: 12px;
   vertical-align: middle;
   margin-right: 4px;
 }
+
+.markdown-reading-view h6,
+.markdown-source-view.is-live-preview
+  .HyperMD-header.HyperMD-header-6
+  :not(.cm-header.cm-header-6 ~ .cm-header.cm-header-6).cm-header.cm-header-6:not(.cm-formatting) {
+  position: relative;
+  margin-left: 20px;
+}
 .markdown-reading-view h6::before,
 .markdown-source-view.is-live-preview
-  :not(:where(.cm-formatting, .cm-inline-code) ~ .cm-header.cm-header-6).cm-header.cm-header-6:not(.cm-formatting, .cm-inline-code, .cm-blockid)::before {
+  .HyperMD-header.HyperMD-header-6
+  :not(.cm-header.cm-header-6 ~ .cm-header.cm-header-6).cm-header.cm-header-6:not(.cm-formatting)::before {
   content: 'H6';
+  position: absolute;
+  left: -20px;
+  top: 0;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  font-family: var(--font-text);
   color: var(--text-faint);
   font-size: 12px;
   vertical-align: middle;
