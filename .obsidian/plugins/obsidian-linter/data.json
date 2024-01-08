@@ -46,7 +46,7 @@
       "enabled": true,
       "date-created": true,
       "date-created-key": "date",
-      "force-retention-of-create-value": false,
+      "force-retention-of-create-value": true,
       "date-modified": true,
       "date-modified-key": "modified",
       "format": "YYYY-MM-DD kk:mm"
