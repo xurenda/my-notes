@@ -175,6 +175,21 @@ body {
   margin: 5px auto;
 }
 
+/* 斜体隐藏，hover 显示 */
+.markdown-source-view.is-live-preview .cm-em.cm-formatting-em {
+  display: none;
+}
+.markdown-reading-view em,
+.markdown-source-view.is-live-preview .cm-em {
+  font-style: normal;
+  color: rgba(34 34 34 / 0);
+  border-bottom: 1px solid rgb(34 34 34);
+}
+.markdown-reading-view em:hover,
+.markdown-source-view.is-live-preview .cm-em:hover {
+  color: rgb(34 34 34);
+}
+
 /* 修复代码折叠箭头太靠右的 BUG */
 .markdown-source-view.mod-cm6 .cm-line:not(.cm-active):not(.HyperMD-header):not(.HyperMD-task-line) .cm-fold-indicator .collapse-indicator {
   padding-right: 0.25rem;
