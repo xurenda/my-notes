@@ -26,5 +26,14 @@
       ],
       "key": "T"
     }
+  ],
+  "quickadd:choice:00cfedca-2cf3-42b3-ad70-1a9e47a0226d": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "W"
+    }
   ]
 }
