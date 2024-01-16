@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "语言学习/Java/001.JavaSE 语言基础/题目与扩展/008.面向对象编程-高级.md",
+                "file": "语言学习/Java/001.JavaSE 语言基础/题目与扩展/010.多线程.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "语言学习/Java/001.JavaSE 语言基础/笔记/008.面向对象编程-高级.md",
+                "file": "语言学习/Java/001.JavaSE 语言基础/笔记/010.多线程.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "语言学习/Java/001.JavaSE 语言基础/题目与扩展/008.面向对象编程-高级.md"
+                "file": "语言学习/Java/001.JavaSE 语言基础/题目与扩展/010.多线程.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "语言学习/Java/001.JavaSE 语言基础/题目与扩展/008.面向对象编程-高级.md",
+                "file": "语言学习/Java/001.JavaSE 语言基础/题目与扩展/010.多线程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "语言学习/Java/001.JavaSE 语言基础/题目与扩展/008.面向对象编程-高级.md",
+                "file": "语言学习/Java/001.JavaSE 语言基础/题目与扩展/010.多线程.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,6 +168,10 @@
   },
   "active": "629d279769efcae4",
   "lastOpenFiles": [
+    "语言学习/Java/001.JavaSE 语言基础/笔记/010.多线程.md",
+    "语言学习/Java/001.JavaSE 语言基础/题目与扩展/010.多线程.md",
+    "语言学习/Java/001.JavaSE 语言基础/笔记/009.异常处理.md",
+    "语言学习/Java/001.JavaSE 语言基础/题目与扩展/009.异常处理.md",
     "语言学习/Java/001.JavaSE 语言基础/笔记/008.面向对象编程-高级.md",
     "语言学习/Java/001.JavaSE 语言基础/题目与扩展/008.面向对象编程-高级.md",
     "工具/Obsidian/Callouts.md",
@@ -203,10 +207,6 @@
     "语言学习/Java/001.JavaSE 语言基础/笔记/assets/02-ArrayList之JDK8源码剖析.jpg",
     "语言学习/Java/001.JavaSE 语言基础/笔记/019.JDK 8-17 新特性-下.md",
     "语言学习/Java/001.JavaSE 语言基础/笔记/018.JDK 8-17 新特性-上.md",
-    "语言学习/Java/001.JavaSE 语言基础/笔记/017.反射机制.md",
-    "语言学习/Java/001.JavaSE 语言基础/笔记/016.网络编程.md",
-    "语言学习/Java/001.JavaSE 语言基础/笔记/015.File 类与 IO 流.md",
-    "英语/单词.md",
     "英语",
     "语言学习/Java/001.JavaSE 语言基础/笔记/drawing",
     "语言学习/Java/001.JavaSE 语言基础/笔记/assets",
