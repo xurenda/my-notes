@@ -8,12 +8,25 @@
         "type": "tabs",
         "children": [
           {
+            "id": "b051a08796ef8944",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "语言学习/Java/001.JavaSE 语言基础/题目与扩展/018.JDK 8-17 新特性.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "629d279769efcae4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构与算法/004.左程云算法通关/002.必备/044.宽度优先遍历及其扩展.md",
+                "file": "语言学习/Java/001.JavaSE 语言基础/笔记/019.JDK 8-17 新特性-下.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构与算法/004.左程云算法通关/002.必备/044.宽度优先遍历及其扩展.md"
+                "file": "语言学习/Java/001.JavaSE 语言基础/题目与扩展/018.JDK 8-17 新特性.md"
               }
             }
           },
@@ -99,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构与算法/004.左程云算法通关/002.必备/044.宽度优先遍历及其扩展.md",
+                "file": "语言学习/Java/001.JavaSE 语言基础/题目与扩展/018.JDK 8-17 新特性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构与算法/004.左程云算法通关/002.必备/044.宽度优先遍历及其扩展.md",
+                "file": "语言学习/Java/001.JavaSE 语言基础/题目与扩展/018.JDK 8-17 新特性.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,47 +166,47 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "629d279769efcae4",
+  "active": "b051a08796ef8944",
   "lastOpenFiles": [
+    "语言学习/Java/001.JavaSE 语言基础/笔记/019.JDK 8-17 新特性-下.md",
+    "语言学习/Java/001.JavaSE 语言基础/笔记/018.JDK 8-17 新特性-上.md",
+    "语言学习/Java/001.JavaSE 语言基础/题目与扩展/018.JDK 8-17 新特性.md",
+    "语言学习/Java/001.JavaSE 语言基础/题目与扩展/017.反射机制.md",
+    "语言学习/Java/001.JavaSE 语言基础/题目与扩展/014.数据结构与集合源码.md",
+    "语言学习/Java/001.JavaSE 语言基础/题目与扩展/012.集合框架.md",
+    "语言学习/Java/001.JavaSE 语言基础/题目与扩展/011.常用类和基础 API.md",
+    "语言学习/Java/001.JavaSE 语言基础/题目与扩展/010.多线程.md",
+    "语言学习/Java/001.JavaSE 语言基础/笔记/017.反射机制.md",
+    "语言学习/Java/001.JavaSE 语言基础/题目与扩展/assets/image-20221214145240412.png",
+    "语言学习/Java/001.JavaSE 语言基础/题目与扩展/016.网络编程.md",
+    "语言学习/Java/001.JavaSE 语言基础/笔记/016.网络编程.md",
+    "语言学习/Java/001.JavaSE 语言基础/题目与扩展/015.File 类与 IO 流.md",
+    "语言学习/Java/001.JavaSE 语言基础/笔记/015.File 类与 IO 流.md",
+    "语言学习/Java/001.JavaSE 语言基础/题目与扩展/assets/image-20221212161251100.png",
+    "语言学习/Java/001.JavaSE 语言基础/笔记/012.集合框架.md",
+    "语言学习/Java/001.JavaSE 语言基础/笔记/014.数据结构与集合源码.md",
+    "语言学习/Java/001.JavaSE 语言基础/笔记/011.常用类和基础 API.md",
+    "语言学习/Java/001.JavaSE 语言基础/笔记/008.面向对象编程-高级.md",
+    "语言学习/Java/001.JavaSE 语言基础/笔记/013.泛型（Generic）.md",
+    "语言学习/Java/001.JavaSE 语言基础/题目与扩展/013.泛型（Generic）.md",
+    "语言学习/Java/001.JavaSE 语言基础/题目与扩展/assets/1572834804165.png",
+    "语言学习/Java/001.JavaSE 语言基础/题目与扩展/assets/1572834908977.png",
+    "语言学习/Java/001.JavaSE 语言基础/题目与扩展/assets/1572834653725.png",
+    "语言学习/Java/001.JavaSE 语言基础/题目与扩展/assets/1572834430257.png",
+    "语言学习/Java/001.JavaSE 语言基础/题目与扩展/assets/1572835014847.png",
+    "语言学习/Java/001.JavaSE 语言基础/题目与扩展/assets/1572834413234.png",
+    "语言学习/Java/001.JavaSE 语言基础/笔记/010.多线程.md",
     "数据结构与算法/004.左程云算法通关/002.必备/assets/Pasted image 20240118161456.png",
     "数据结构与算法/004.左程云算法通关/002.必备/assets/Pasted image 20240118151758.png",
-    "数据结构与算法/004.左程云算法通关/001.入门/016.双端队列-双链表和固定数组实现.md",
-    "数据结构与算法/004.左程云算法通关/002.必备/044.宽度优先遍历及其扩展.md",
-    "语言学习/Java/001.JavaSE 语言基础/笔记/010.多线程.md",
-    "语言学习/Java/001.JavaSE 语言基础/题目与扩展/010.多线程.md",
     "语言学习/Java/001.JavaSE 语言基础/笔记/009.异常处理.md",
     "语言学习/Java/001.JavaSE 语言基础/题目与扩展/009.异常处理.md",
-    "语言学习/Java/001.JavaSE 语言基础/笔记/008.面向对象编程-高级.md",
     "语言学习/Java/001.JavaSE 语言基础/题目与扩展/008.面向对象编程-高级.md",
     "工具/Obsidian/Callouts.md",
     "语言学习/Java/001.JavaSE 语言基础/题目与扩展/007.面向对象编程-进阶.md",
     "语言学习/Java/001.JavaSE 语言基础/笔记/007.面向对象编程-进阶.md",
-    "语言学习/Java/001.JavaSE 语言基础/题目与扩展/assets/1562211189801.png",
-    "语言学习/Java/001.JavaSE 语言基础/题目与扩展/assets/1562211143966.png",
-    "语言学习/Java/001.JavaSE 语言基础/题目与扩展/assets/1562211105307.png",
-    "语言学习/Java/001.JavaSE 语言基础/题目与扩展/005.数组.md",
-    "语言学习/Java/001.JavaSE 语言基础/题目与扩展/006.面向对象编程-基础.md",
-    "语言学习/Java/001.JavaSE 语言基础/笔记/006.面向对象编程-基础.md",
-    "语言学习/Java/001.JavaSE 语言基础/笔记/005.数组.md",
-    "语言学习/Java/001.JavaSE 语言基础/题目与扩展/004.IDEA 的安装与使用.md",
-    "语言学习/Java/001.JavaSE 语言基础/题目与扩展/003.流程控制语句.md",
-    "语言学习/Java/001.JavaSE 语言基础/笔记/003.流程控制语句.md",
-    "语言学习/Java/001.JavaSE 语言基础/题目与扩展/002.变量与运算符.md",
-    "语言学习/Java/001.JavaSE 语言基础/题目与扩展/001.Java 语言概述.md",
-    "语言学习/Java/001.JavaSE 语言基础/题目与扩展/assets/Pasted image 20240114184942.png",
-    "数据结构与算法/004.左程云算法通关/002.必备/011.重要排序算法的总结.md",
-    "语言学习/Java/001.JavaSE 语言基础/笔记/004.IDEA 的安装与使用.md",
-    "语言学习/Java/001.JavaSE 语言基础/笔记/002.变量与运算符.md",
-    "语言学习/Java/001.JavaSE 语言基础/题目与扩展/assets/image002.jpg",
     "语言学习/Java/001.JavaSE 语言基础/题目与扩展/assets",
-    "语言学习/Java/Java 路线.md",
-    "语言学习/Java/001.JavaSE 语言基础/笔记/001.Java 语言概述.md",
     "语言学习/Java/001.JavaSE 语言基础/题目与扩展",
     "语言学习/Java/001.JavaSE 语言基础/笔记",
-    "语言学习/Java/001.JavaSE 语言基础/笔记/assets/06-HashMap之JDK8源码剖析.jpg",
-    "语言学习/Java/001.JavaSE 语言基础/笔记/assets/05-HashMap之JDK7源码剖析.jpg",
-    "语言学习/Java/001.JavaSE 语言基础/笔记/assets/04-LinkedList之JDK8源码剖析.jpg",
-    "语言学习/Java/001.JavaSE 语言基础/笔记/assets/03-Vector之JDK8源码剖析.jpg",
     "英语",
     "语言学习/Java/001.JavaSE 语言基础/笔记/drawing",
     "语言学习/Java/001.JavaSE 语言基础/笔记/assets",
