@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "语言学习/Java/001.JavaSE 语言基础/题目与扩展/018.JDK 8-17 新特性.md",
+                "file": "数据结构与算法/004.左程云算法通关/002.必备/045.双向广搜.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,13 +21,13 @@
             }
           },
           {
-            "id": "629d279769efcae4",
+            "id": "07970b8720d12a61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "语言学习/Java/001.JavaSE 语言基础/笔记/019.JDK 8-17 新特性-下.md",
-                "mode": "source",
+                "file": "工具/Markdown/markdown公式.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "语言学习/Java/001.JavaSE 语言基础/题目与扩展/018.JDK 8-17 新特性.md"
+                "file": "数据结构与算法/004.左程云算法通关/002.必备/045.双向广搜.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "语言学习/Java/001.JavaSE 语言基础/题目与扩展/018.JDK 8-17 新特性.md",
+                "file": "数据结构与算法/004.左程云算法通关/002.必备/045.双向广搜.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "语言学习/Java/001.JavaSE 语言基础/题目与扩展/018.JDK 8-17 新特性.md",
+                "file": "数据结构与算法/004.左程云算法通关/002.必备/045.双向广搜.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,9 +168,20 @@
   },
   "active": "b051a08796ef8944",
   "lastOpenFiles": [
+    "工具/Markdown/markdown公式.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/045.双向广搜.md",
+    "数据结构与算法/001.代码随想录/008.回溯算法/000.回溯算法.pdf",
+    "数据结构与算法/001.代码随想录/008.回溯算法/006.棋盘问题.md",
+    "数据结构与算法/001.代码随想录/008.回溯算法/005.重新安排行程.md",
+    "数据结构与算法/001.代码随想录/008.回溯算法/004.排列.md",
+    "数据结构与算法/001.代码随想录/008.回溯算法/003.子集.md",
+    "数据结构与算法/001.代码随想录/008.回溯算法/002.分割.md",
+    "数据结构与算法/001.代码随想录/008.回溯算法/001.组合.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/044.宽度优先遍历及其扩展.md",
+    "数据结构与算法/004.左程云算法通关/999.个人补充/003.Go标准库中的容器.md",
+    "语言学习/Java/001.JavaSE 语言基础/题目与扩展/018.JDK 8-17 新特性.md",
     "语言学习/Java/001.JavaSE 语言基础/笔记/019.JDK 8-17 新特性-下.md",
     "语言学习/Java/001.JavaSE 语言基础/笔记/018.JDK 8-17 新特性-上.md",
-    "语言学习/Java/001.JavaSE 语言基础/题目与扩展/018.JDK 8-17 新特性.md",
     "语言学习/Java/001.JavaSE 语言基础/题目与扩展/017.反射机制.md",
     "语言学习/Java/001.JavaSE 语言基础/题目与扩展/014.数据结构与集合源码.md",
     "语言学习/Java/001.JavaSE 语言基础/题目与扩展/012.集合框架.md",
@@ -186,24 +197,14 @@
     "语言学习/Java/001.JavaSE 语言基础/笔记/012.集合框架.md",
     "语言学习/Java/001.JavaSE 语言基础/笔记/014.数据结构与集合源码.md",
     "语言学习/Java/001.JavaSE 语言基础/笔记/011.常用类和基础 API.md",
-    "语言学习/Java/001.JavaSE 语言基础/笔记/008.面向对象编程-高级.md",
-    "语言学习/Java/001.JavaSE 语言基础/笔记/013.泛型（Generic）.md",
-    "语言学习/Java/001.JavaSE 语言基础/题目与扩展/013.泛型（Generic）.md",
     "语言学习/Java/001.JavaSE 语言基础/题目与扩展/assets/1572834804165.png",
     "语言学习/Java/001.JavaSE 语言基础/题目与扩展/assets/1572834908977.png",
     "语言学习/Java/001.JavaSE 语言基础/题目与扩展/assets/1572834653725.png",
     "语言学习/Java/001.JavaSE 语言基础/题目与扩展/assets/1572834430257.png",
     "语言学习/Java/001.JavaSE 语言基础/题目与扩展/assets/1572835014847.png",
     "语言学习/Java/001.JavaSE 语言基础/题目与扩展/assets/1572834413234.png",
-    "语言学习/Java/001.JavaSE 语言基础/笔记/010.多线程.md",
     "数据结构与算法/004.左程云算法通关/002.必备/assets/Pasted image 20240118161456.png",
     "数据结构与算法/004.左程云算法通关/002.必备/assets/Pasted image 20240118151758.png",
-    "语言学习/Java/001.JavaSE 语言基础/笔记/009.异常处理.md",
-    "语言学习/Java/001.JavaSE 语言基础/题目与扩展/009.异常处理.md",
-    "语言学习/Java/001.JavaSE 语言基础/题目与扩展/008.面向对象编程-高级.md",
-    "工具/Obsidian/Callouts.md",
-    "语言学习/Java/001.JavaSE 语言基础/题目与扩展/007.面向对象编程-进阶.md",
-    "语言学习/Java/001.JavaSE 语言基础/笔记/007.面向对象编程-进阶.md",
     "语言学习/Java/001.JavaSE 语言基础/题目与扩展/assets",
     "语言学习/Java/001.JavaSE 语言基础/题目与扩展",
     "语言学习/Java/001.JavaSE 语言基础/笔记",
@@ -213,7 +214,6 @@
     "语言学习/Java/001.JavaSE 语言基础/asstes",
     "随想",
     "语言学习/Java/001.JavaSE 语言基础/003.流程控制语句/assets",
-    "语言学习/Java/001.JavaSE 语言基础/003.流程控制语句",
     "未命名.canvas",
     "前端学习，漫漫长路/未命名.canvas",
     "数据结构与算法/代码随想录/链表/未命名.canvas"
