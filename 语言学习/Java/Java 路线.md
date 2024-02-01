@@ -1,6 +1,6 @@
 ---
 date: 2024-01-04 10:12
-modified: 2024-01-25 19:36
+modified: 2024-02-01 20:07
 ---
 
 # Java 核心
@@ -21,3 +21,9 @@ modified: 2024-01-25 19:36
 ## JDBC
 
 [尚硅谷JDBC实战教程（一套掌握jdbc，JDK17+MySQL8）](https://www.bilibili.com/video/BV1sK411B71e/)
+
+# 框架
+
+## SSM
+
+[尚硅谷新版 SSM 框架全套视频教程，Spring6+SpringBoot3最新 SSM 企业级开发](https://www.bilibili.com/video/BV1AP411s7D7/)
