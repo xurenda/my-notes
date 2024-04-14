@@ -1,12 +1,12 @@
 [
-  "file-order",
-  "obsidian-excalidraw-plugin",
   "oz-clear-unused-images",
-  "file-explorer-note-count",
   "cmdr",
-  "number-headings-obsidian",
+  "easy-typing-obsidian",
+  "obsidian-excalidraw-plugin",
+  "file-explorer-note-count",
+  "file-order",
   "obsidian-image-toolkit",
   "obsidian-linter",
-  "quickadd",
-  "easy-typing-obsidian"
+  "number-headings-obsidian",
+  "quickadd"
 ]
