@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/009.工程化/002.CSS 工程化/002.Sass/002.基础语法.md",
+                "file": "代码片段/前端/平滑滚动.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/009.工程化/002.CSS 工程化/002.Sass/002.基础语法.md"
+                "file": "代码片段/前端/平滑滚动.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/009.工程化/002.CSS 工程化/002.Sass/002.基础语法.md",
+                "file": "代码片段/前端/平滑滚动.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/009.工程化/002.CSS 工程化/002.Sass/002.基础语法.md",
+                "file": "代码片段/前端/平滑滚动.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "前端/009.工程化/002.CSS 工程化/002.Sass/002.基础语法.md"
+                "file": "代码片段/前端/平滑滚动.md"
               }
             }
           }
@@ -178,8 +178,19 @@
   },
   "active": "2a5c47e2e0e7a521",
   "lastOpenFiles": [
-    "前端/009.工程化/002.CSS 工程化/002.Sass/001.CSS 预处理器介绍.md",
+    "前端/001.代码片段/001.函数防抖与函数节流.md",
+    "代码片段/前端/平滑滚动.md",
+    "代码片段/前端/assets/惯性滚动.gif",
+    "代码片段/前端/assets/midjourney 平滑滚动.gif",
+    "代码片段/前端/assets/iShot_2024-04-22_19.32.41.gif",
+    "代码片段/前端/assets/Pasted image 20240422193332.png",
+    "代码片段/前端/assets",
+    "前端/001.代码片段/002.平滑滚动页面到指定位置.md",
+    "代码片段/前端",
+    "代码片段",
+    "数据结构与算法/004.左程云算法通关/002.必备/063.状压dp-下.md",
     "前端/009.工程化/002.CSS 工程化/002.Sass/002.基础语法.md",
+    "前端/009.工程化/002.CSS 工程化/002.Sass/001.CSS 预处理器介绍.md",
     "前端/009.工程化/002.CSS 工程化/001.概述/001.CSS 工程化.md",
     "前端/009.工程化/002.CSS 工程化/002.Sass",
     "前端/009.工程化/001.概述/001.工程化概述.md",
@@ -209,21 +220,10 @@
     "前端/009.工程化/003.前端工具链/003.ESLint/001.ESLint 介绍.md",
     "前端/009.工程化/003.前端工具链/003.ESLint/007.集成 Prettier.md",
     "工具/002.Obsidian/001.Callouts.md",
-    "前端/009.工程化/003.前端工具链/004.Babel",
-    "前端/009.工程化/003.前端工具链/003.ESLint/006.ESLint 插件.md",
-    "前端/009.工程化/003.前端工具链/003.ESLint/003.配置文件.md",
-    "前端/009.工程化/003.前端工具链/003.ESLint/005.APIs.md",
-    "工具/003.其他/001.glob 模式匹配.md",
-    "工具/003.其他",
-    "前端/011.JavaScript/001.语言规范/002.JS 基础知识",
     "前端/011.JavaScript/001.语言规范/001.简介/assets/Pasted image 20240404130651.png",
     "前端/011.JavaScript/001.语言规范/001.简介/assets/Pasted image 20240404130306.png",
     "前端/008.网络/assets/CAS.png",
     "前端/008.网络/assets/Pasted image 20240404103406.png",
-    "前端/008.网络/assets/Pasted image 20240404102812.png",
-    "前端/008.网络/assets/20211029123907.png",
-    "前端/008.网络/assets/20211029113505.png",
-    "前端/008.网络/assets/20211028171840.png",
     "未命名.canvas",
     "前端学习，漫漫长路/未命名.canvas",
     "数据结构与算法/代码随想录/链表/未命名.canvas"
