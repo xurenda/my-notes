@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "代码片段/前端/平滑滚动.md",
+                "file": "前端/001.JavaScript/010.不定高虚拟列表.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "代码片段/前端/平滑滚动.md"
+                "file": "前端/001.JavaScript/010.不定高虚拟列表.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "代码片段/前端/平滑滚动.md",
+                "file": "前端/001.JavaScript/010.不定高虚拟列表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "代码片段/前端/平滑滚动.md",
+                "file": "前端/001.JavaScript/010.不定高虚拟列表.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "代码片段/前端/平滑滚动.md"
+                "file": "前端/001.JavaScript/010.不定高虚拟列表.md"
               }
             }
           }
@@ -178,16 +178,32 @@
   },
   "active": "2a5c47e2e0e7a521",
   "lastOpenFiles": [
-    "前端/001.代码片段/001.函数防抖与函数节流.md",
-    "代码片段/前端/平滑滚动.md",
-    "代码片段/前端/assets/惯性滚动.gif",
-    "代码片段/前端/assets/midjourney 平滑滚动.gif",
+    "前端/001.JavaScript/009.定高虚拟列表.md",
+    "前端/001.JavaScript/010.不定高虚拟列表.md",
+    "前端/001.JavaScript/008.高性能渲染十万条数据.md",
+    "前端/001.JavaScript/007.平滑滚动.md",
+    "前端/001.JavaScript/004.函数防抖与函数节流.md",
+    "前端/001.JavaScript/001.数据类型.md",
+    "前端/001.JavaScript/assets/Pasted image 20240425142725.png",
+    "前端/001.JavaScript/005.scroll 和 wheel 事件.md",
+    "前端/001.JavaScript/006.平滑滚动页面到指定位置.md",
+    "前端/001.JavaScript/003.手写 Promise.md",
+    "前端/001.JavaScript/002.原型与原型链.md",
+    "前端/003.CSS 深入理解/001.CSS 深入理解.md",
+    "前端/003.CSS 深入理解/002.Border.md",
+    "前端/011.JavaScript/002.运行时",
+    "前端/011.JavaScript/001.语言规范",
+    "前端/002.干货知识/001.Web API.md",
+    "前端/001.JavaScript/assets/函数防抖与节流.png",
+    "前端/001.代码片段/assets/函数节流效果.gif",
+    "前端/001.代码片段/assets/函数防抖效果.gif",
+    "前端/001.JavaScript/assets/惯性滚动.gif",
+    "前端/001.JavaScript/assets/midjourney 平滑滚动.gif",
     "代码片段/前端/assets/iShot_2024-04-22_19.32.41.gif",
     "代码片段/前端/assets/Pasted image 20240422193332.png",
-    "代码片段/前端/assets",
-    "前端/001.代码片段/002.平滑滚动页面到指定位置.md",
-    "代码片段/前端",
-    "代码片段",
+    "手写系列/前端/assets",
+    "手写系列/前端",
+    "手写系列",
     "数据结构与算法/004.左程云算法通关/002.必备/063.状压dp-下.md",
     "前端/009.工程化/002.CSS 工程化/002.Sass/002.基础语法.md",
     "前端/009.工程化/002.CSS 工程化/002.Sass/001.CSS 预处理器介绍.md",
@@ -202,28 +218,12 @@
     "前端/009.工程化/003.前端工具链/001.概述/assets",
     "前端/009.工程化/003.前端工具链/001.概述",
     "前端/009.工程化/002.CSS 工程化",
-    "前端/009.工程化/001.概述",
     "前端/009.工程化/003.前端工具链/005.其他工具/001.更多工具学习方法.md",
     "前端/009.工程化/003.前端工具链/005.其他工具/002.Terser.md",
     "前端/009.工程化/003.前端工具链/005.其他工具/003.SWC.md",
     "前端/009.工程化/003.前端工具链/004.Babel/007.自定义插件.md",
-    "前端/009.工程化/003.前端工具链/005.其他工具",
     "前端/009.工程化/003.前端工具链/004.Babel/006.APIs.md",
     "前端/009.工程化/003.前端工具链/004.Babel/005.使用预设.md",
-    "前端/009.工程化/003.前端工具链/004.Babel/004.使用插件.md",
-    "前端/009.工程化/003.前端工具链/004.Babel/002.配置文件.md",
-    "前端/009.工程化/003.前端工具链/004.Babel/003.CLI.md",
-    "前端/009.工程化/003.前端工具链/003.ESLint/004.CLI.md",
-    "前端/009.工程化/003.前端工具链/002.Prettier/003.CLI.md",
-    "前端/009.工程化/003.前端工具链/004.Babel/001.Babel 介绍.md",
-    "前端/009.工程化/003.前端工具链/002.Prettier/001.Prettier 介绍.md",
-    "前端/009.工程化/003.前端工具链/003.ESLint/001.ESLint 介绍.md",
-    "前端/009.工程化/003.前端工具链/003.ESLint/007.集成 Prettier.md",
-    "工具/002.Obsidian/001.Callouts.md",
-    "前端/011.JavaScript/001.语言规范/001.简介/assets/Pasted image 20240404130651.png",
-    "前端/011.JavaScript/001.语言规范/001.简介/assets/Pasted image 20240404130306.png",
-    "前端/008.网络/assets/CAS.png",
-    "前端/008.网络/assets/Pasted image 20240404103406.png",
     "未命名.canvas",
     "前端学习，漫漫长路/未命名.canvas",
     "数据结构与算法/代码随想录/链表/未命名.canvas"
