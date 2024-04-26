@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/001.JavaScript/010.不定高虚拟列表.md",
+                "file": "前端/001.JavaScript/002.运行时之浏览器/003.DOM：Attributes、properties.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/001.JavaScript/010.不定高虚拟列表.md"
+                "file": "前端/001.JavaScript/002.运行时之浏览器/003.DOM：Attributes、properties.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/001.JavaScript/010.不定高虚拟列表.md",
+                "file": "前端/001.JavaScript/002.运行时之浏览器/003.DOM：Attributes、properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/001.JavaScript/010.不定高虚拟列表.md",
+                "file": "前端/001.JavaScript/002.运行时之浏览器/003.DOM：Attributes、properties.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "前端/001.JavaScript/010.不定高虚拟列表.md"
+                "file": "前端/001.JavaScript/002.运行时之浏览器/003.DOM：Attributes、properties.md"
               }
             }
           }
@@ -178,29 +178,41 @@
   },
   "active": "2a5c47e2e0e7a521",
   "lastOpenFiles": [
-    "前端/001.JavaScript/009.定高虚拟列表.md",
-    "前端/001.JavaScript/010.不定高虚拟列表.md",
-    "前端/001.JavaScript/008.高性能渲染十万条数据.md",
-    "前端/001.JavaScript/007.平滑滚动.md",
-    "前端/001.JavaScript/004.函数防抖与函数节流.md",
-    "前端/001.JavaScript/001.数据类型.md",
-    "前端/001.JavaScript/assets/Pasted image 20240425142725.png",
-    "前端/001.JavaScript/005.scroll 和 wheel 事件.md",
-    "前端/001.JavaScript/006.平滑滚动页面到指定位置.md",
-    "前端/001.JavaScript/003.手写 Promise.md",
-    "前端/001.JavaScript/002.原型与原型链.md",
+    "前端/001.JavaScript/002.运行时之浏览器/004.DOM：查.md",
+    "前端/001.JavaScript/002.运行时之浏览器/002.DOM：节点与集合.md",
+    "前端/001.JavaScript/002.运行时之浏览器/003.DOM：Attributes、properties.md",
+    "工具/002.Obsidian/001.Callouts.md",
+    "前端/001.JavaScript/002.运行时之浏览器/assets/Pasted image 20240426175513.png",
+    "前端/001.JavaScript/002.运行时之浏览器/001.浏览器运行时.md",
+    "前端/001.JavaScript/002.运行时之浏览器/assets/Pasted image 20240426142132.png",
+    "前端/001.JavaScript/001.语言与通用/004.函数防抖与函数节流.md",
+    "前端/001.JavaScript/002.运行时之浏览器/assets/Pasted image 20240426134359.png",
+    "前端/001.JavaScript/001.语言与通用/003.手写 Promise.md",
+    "前端/001.JavaScript/001.语言与通用/001.数据类型.md",
+    "前端/001.JavaScript/002.运行时之浏览器/assets/Pasted image 20240425142725.png",
+    "前端/001.JavaScript/002.运行时之浏览器",
+    "前端/001.JavaScript/001.语言与通用/assets",
+    "前端/001.JavaScript/002.运行时之浏览器/assets/Pasted image 20240426110046.png",
+    "前端/001.JavaScript/002.运行时之浏览器/008.高性能渲染十万条数据.md",
+    "前端/001.JavaScript/001.语言与通用",
+    "前端/001.JavaScript/002.运行时之浏览器/007.平滑滚动.md",
+    "前端/001.JavaScript/002.运行时之浏览器/006.平滑滚动页面到指定位置.md",
+    "前端/001.JavaScript/002.运行时之浏览器/005.scroll 和 wheel 事件.md",
+    "前端/001.JavaScript/002.运行时之浏览器/012.瀑布流虚拟列表.md",
+    "前端/001.JavaScript/002.运行时之浏览器/010.不定高虚拟列表.md",
+    "前端/001.JavaScript/002.运行时之浏览器/011.瀑布流.md",
+    "前端/001.JavaScript/002.运行时之浏览器/009.定高虚拟列表.md",
+    "前端/001.JavaScript/assets/Pasted image 20240426105942.png",
+    "前端/001.JavaScript/001.语言与通用/002.原型与原型链.md",
     "前端/003.CSS 深入理解/001.CSS 深入理解.md",
     "前端/003.CSS 深入理解/002.Border.md",
     "前端/011.JavaScript/002.运行时",
     "前端/011.JavaScript/001.语言规范",
     "前端/002.干货知识/001.Web API.md",
-    "前端/001.JavaScript/assets/函数防抖与节流.png",
+    "前端/001.JavaScript/001.语言与通用/assets/函数防抖与节流.png",
     "前端/001.代码片段/assets/函数节流效果.gif",
     "前端/001.代码片段/assets/函数防抖效果.gif",
-    "前端/001.JavaScript/assets/惯性滚动.gif",
-    "前端/001.JavaScript/assets/midjourney 平滑滚动.gif",
-    "代码片段/前端/assets/iShot_2024-04-22_19.32.41.gif",
-    "代码片段/前端/assets/Pasted image 20240422193332.png",
+    "前端/001.JavaScript/002.运行时之浏览器/assets/惯性滚动.gif",
     "手写系列/前端/assets",
     "手写系列/前端",
     "手写系列",
@@ -212,18 +224,6 @@
     "前端/009.工程化/001.概述/001.工程化概述.md",
     "前端/009.工程化/003.前端工具链/001.概述/001.前端工具、构建工具、脚手架.md",
     "前端/009.工程化/002.CSS 工程化/001.概述",
-    "前端/009.工程化/001.概述/002.抽象语法树.md",
-    "前端/009.工程化/001.概述/assets/Pasted image 20240321114942.png",
-    "前端/009.工程化/003.前端工具链/001.概述/assets/Pasted image 20240321112117.png",
-    "前端/009.工程化/003.前端工具链/001.概述/assets",
-    "前端/009.工程化/003.前端工具链/001.概述",
-    "前端/009.工程化/002.CSS 工程化",
-    "前端/009.工程化/003.前端工具链/005.其他工具/001.更多工具学习方法.md",
-    "前端/009.工程化/003.前端工具链/005.其他工具/002.Terser.md",
-    "前端/009.工程化/003.前端工具链/005.其他工具/003.SWC.md",
-    "前端/009.工程化/003.前端工具链/004.Babel/007.自定义插件.md",
-    "前端/009.工程化/003.前端工具链/004.Babel/006.APIs.md",
-    "前端/009.工程化/003.前端工具链/004.Babel/005.使用预设.md",
     "未命名.canvas",
     "前端学习，漫漫长路/未命名.canvas",
     "数据结构与算法/代码随想录/链表/未命名.canvas"
