@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/001.JavaScript/002.运行时之浏览器/003.DOM：Attributes、properties.md",
+                "file": "前端/006.从零实现 React18/001.1.搭建项目架构.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/001.JavaScript/002.运行时之浏览器/003.DOM：Attributes、properties.md"
+                "file": "前端/006.从零实现 React18/001.1.搭建项目架构.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/001.JavaScript/002.运行时之浏览器/003.DOM：Attributes、properties.md",
+                "file": "前端/006.从零实现 React18/001.1.搭建项目架构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/001.JavaScript/002.运行时之浏览器/003.DOM：Attributes、properties.md",
+                "file": "前端/006.从零实现 React18/001.1.搭建项目架构.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "前端/001.JavaScript/002.运行时之浏览器/003.DOM：Attributes、properties.md"
+                "file": "前端/006.从零实现 React18/001.1.搭建项目架构.md"
               }
             }
           }
@@ -176,53 +176,53 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "2a5c47e2e0e7a521",
+  "active": "100ae5ead0fcd227",
   "lastOpenFiles": [
-    "前端/001.JavaScript/002.运行时之浏览器/004.DOM：查.md",
+    "前端/009.工程化/003.前端工具链/002.Prettier/003.CLI.md",
+    "前端/009.工程化/003.前端工具链/003.ESLint/003.配置文件.md",
+    "工具/002.Obsidian/001.Callouts.md",
+    "前端/006.从零实现 React18/001.1.搭建项目架构.md",
+    "前端/009.工程化/003.前端工具链/003.ESLint/002.检查规则.md",
+    "前端/009.工程化/003.前端工具链/003.ESLint/001.ESLint 介绍.md",
+    "前端/009.工程化/003.前端工具链/003.ESLint/007.集成 Prettier.md",
+    "前端/009.工程化/003.前端工具链/003.ESLint/006.ESLint 插件.md",
+    "前端/001.JavaScript/001.语言与通用/001.数据类型.md",
+    "前端/006.从零实现 React18/drawing/001.multi-repo vs mono-repo.excalidraw.md",
+    "前端/006.从零实现 React18/assets/Pasted Image 20240427112722_527.png",
+    "前端/006.从零实现 React18/assets",
+    "前端/006.从零实现 React18/drawing/001.multi-repo vs mono-repo.excalidraw.svg",
+    "前端/006.从零实现 React18/drawing",
+    "前端/006.从零实现 React18/assets/Pasted image 20240427112020.png",
+    "前端/006.从零实现 React18/assets",
     "前端/001.JavaScript/002.运行时之浏览器/002.DOM：节点与集合.md",
     "前端/001.JavaScript/002.运行时之浏览器/003.DOM：Attributes、properties.md",
-    "工具/002.Obsidian/001.Callouts.md",
+    "前端/009.工程化/002.CSS 工程化/002.Sass/002.基础语法.md",
+    "前端/001.JavaScript/002.运行时之浏览器/assets/惯性滚动.gif",
+    "前端/001.JavaScript/002.运行时之浏览器/assets/midjourney 平滑滚动.gif",
     "前端/001.JavaScript/002.运行时之浏览器/assets/Pasted image 20240426175513.png",
-    "前端/001.JavaScript/002.运行时之浏览器/001.浏览器运行时.md",
     "前端/001.JavaScript/002.运行时之浏览器/assets/Pasted image 20240426142132.png",
-    "前端/001.JavaScript/001.语言与通用/004.函数防抖与函数节流.md",
     "前端/001.JavaScript/002.运行时之浏览器/assets/Pasted image 20240426134359.png",
-    "前端/001.JavaScript/001.语言与通用/003.手写 Promise.md",
-    "前端/001.JavaScript/001.语言与通用/001.数据类型.md",
-    "前端/001.JavaScript/002.运行时之浏览器/assets/Pasted image 20240425142725.png",
-    "前端/001.JavaScript/002.运行时之浏览器",
-    "前端/001.JavaScript/001.语言与通用/assets",
     "前端/001.JavaScript/002.运行时之浏览器/assets/Pasted image 20240426110046.png",
+    "前端/001.JavaScript/002.运行时之浏览器/assets/Pasted image 20240425142725.png",
+    "前端/001.JavaScript/002.运行时之浏览器/assets",
+    "前端/001.JavaScript/002.运行时之浏览器/012.瀑布流虚拟列表.md",
+    "前端/001.JavaScript/002.运行时之浏览器/011.瀑布流.md",
+    "前端/001.JavaScript/002.运行时之浏览器/010.不定高虚拟列表.md",
+    "前端/001.JavaScript/002.运行时之浏览器/009.定高虚拟列表.md",
     "前端/001.JavaScript/002.运行时之浏览器/008.高性能渲染十万条数据.md",
-    "前端/001.JavaScript/001.语言与通用",
     "前端/001.JavaScript/002.运行时之浏览器/007.平滑滚动.md",
     "前端/001.JavaScript/002.运行时之浏览器/006.平滑滚动页面到指定位置.md",
     "前端/001.JavaScript/002.运行时之浏览器/005.scroll 和 wheel 事件.md",
-    "前端/001.JavaScript/002.运行时之浏览器/012.瀑布流虚拟列表.md",
-    "前端/001.JavaScript/002.运行时之浏览器/010.不定高虚拟列表.md",
-    "前端/001.JavaScript/002.运行时之浏览器/011.瀑布流.md",
-    "前端/001.JavaScript/002.运行时之浏览器/009.定高虚拟列表.md",
-    "前端/001.JavaScript/assets/Pasted image 20240426105942.png",
+    "前端/001.JavaScript/002.运行时之浏览器/004.DOM：查.md",
+    "前端/001.JavaScript/002.运行时之浏览器/001.浏览器运行时.md",
+    "前端/001.JavaScript/001.语言与通用/assets",
+    "前端/001.JavaScript/001.语言与通用/004.函数防抖与函数节流.md",
+    "前端/001.JavaScript/001.语言与通用/003.手写 Promise.md",
     "前端/001.JavaScript/001.语言与通用/002.原型与原型链.md",
-    "前端/003.CSS 深入理解/001.CSS 深入理解.md",
-    "前端/003.CSS 深入理解/002.Border.md",
-    "前端/011.JavaScript/002.运行时",
-    "前端/011.JavaScript/001.语言规范",
-    "前端/002.干货知识/001.Web API.md",
-    "前端/001.JavaScript/001.语言与通用/assets/函数防抖与节流.png",
-    "前端/001.代码片段/assets/函数节流效果.gif",
-    "前端/001.代码片段/assets/函数防抖效果.gif",
-    "前端/001.JavaScript/002.运行时之浏览器/assets/惯性滚动.gif",
-    "手写系列/前端/assets",
-    "手写系列/前端",
-    "手写系列",
-    "数据结构与算法/004.左程云算法通关/002.必备/063.状压dp-下.md",
-    "前端/009.工程化/002.CSS 工程化/002.Sass/002.基础语法.md",
-    "前端/009.工程化/002.CSS 工程化/002.Sass/001.CSS 预处理器介绍.md",
-    "前端/009.工程化/002.CSS 工程化/001.概述/001.CSS 工程化.md",
+    "前端/001.JavaScript/002.运行时之浏览器",
+    "前端/001.JavaScript/001.语言与通用",
+    "前端/001.JavaScript",
     "前端/009.工程化/002.CSS 工程化/002.Sass",
-    "前端/009.工程化/001.概述/001.工程化概述.md",
-    "前端/009.工程化/003.前端工具链/001.概述/001.前端工具、构建工具、脚手架.md",
     "前端/009.工程化/002.CSS 工程化/001.概述",
     "未命名.canvas",
     "前端学习，漫漫长路/未命名.canvas",
