@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "12a07c3d0bab0e5e",
+        "id": "33883682c7824dbf",
         "type": "tabs",
         "children": [
           {
-            "id": "2a5c47e2e0e7a521",
+            "id": "f1421e242403eed7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/003.JavaScript/002.运行时之浏览器/016.表单事件.md",
+                "file": "工具/001.Git/001.commit message 规范.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,25 +21,12 @@
             }
           },
           {
-            "id": "94321f94fe5a76ba",
+            "id": "bd1a9ff36a15d354",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/003.JavaScript/002.运行时之浏览器/012.拖拽事件.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cabfa9641c711e73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "工具/002.Obsidian/001.Callouts.md",
+                "file": "工具/003.Obsidian/001.Callouts.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -75,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "chore",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/003.JavaScript/002.运行时之浏览器/016.表单事件.md"
+                "file": "工具/001.Git/001.commit message 规范.md"
               }
             }
           },
@@ -125,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/003.JavaScript/002.运行时之浏览器/016.表单事件.md",
+                "file": "工具/001.Git/001.commit message 规范.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/003.JavaScript/002.运行时之浏览器/016.表单事件.md",
+                "file": "工具/001.Git/001.commit message 规范.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,12 +153,11 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "前端/003.JavaScript/002.运行时之浏览器/016.表单事件.md"
+                "file": "工具/001.Git/001.commit message 规范.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -190,54 +176,54 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "2a5c47e2e0e7a521",
+  "active": "f1421e242403eed7",
   "lastOpenFiles": [
-    "前端/003.JavaScript/002.运行时之浏览器/004.DOM：查.md",
-    "前端/003.JavaScript/002.运行时之浏览器/014.滚动事件.md",
-    "前端/003.JavaScript/002.运行时之浏览器/018.定高虚拟列表.md",
-    "前端/003.JavaScript/002.运行时之浏览器/015.平滑滚动.md",
-    "前端/003.JavaScript/002.运行时之浏览器/021.瀑布流虚拟列表.md",
-    "前端/003.JavaScript/002.运行时之浏览器/007.几何信息.md",
-    "前端/003.JavaScript/002.运行时之浏览器/016.表单事件.md",
-    "前端/003.JavaScript/001.语言与通用/005.函数防抖与函数节流.md",
-    "前端/003.JavaScript/002.运行时之浏览器/013.键盘事件.md",
-    "前端/003.JavaScript/002.运行时之浏览器/010.鼠标事件.md",
-    "前端/003.JavaScript/002.运行时之浏览器/011.指针事件.md",
-    "前端/003.JavaScript/002.运行时之浏览器/012.拖拽事件.md",
-    "工具/002.Obsidian/001.Callouts.md",
-    "前端/003.JavaScript/002.运行时之浏览器/009.自定义事件.md",
+    "设计模式/001.发布订阅.md",
+    "工具/001.Git/001.commit message 规范.md",
+    "前端/011.从零实现 React18/001.搭建项目架构.md",
+    "工具/003.Obsidian/001.Callouts.md",
+    "前端/003.JavaScript/001.语言与通用/002.变量与函数声明.md",
+    "工具/001.Git",
+    "前端/003.JavaScript/001.语言与通用/006.异步处理与 Promise.md",
+    "前端/005.网络/008.同源策略与跨域.md",
+    "随想/关于记笔记.md",
+    "随想/小说.md",
+    "前端/003.JavaScript/001.语言与通用/007.手写 Promise.md",
+    "设计模式",
+    "前端/003.JavaScript/001.语言与通用/008.函数防抖与函数节流.md",
     "前端/003.JavaScript/002.运行时之浏览器/008.事件概况.md",
-    "前端/003.JavaScript/002.运行时之浏览器/assets/Pasted image 20240430170127.png",
-    "前端/003.JavaScript/002.运行时之浏览器/001.浏览器运行时.md",
-    "前端/003.JavaScript/002.运行时之浏览器/002.DOM：节点与集合.md",
-    "前端/003.JavaScript/002.运行时之浏览器/003.DOM：attributes 和 properties.md",
-    "前端/003.JavaScript/002.运行时之浏览器/005.DOM：改.md",
-    "前端/003.JavaScript/002.运行时之浏览器/assets/Pasted image 20240430162214.png",
-    "前端/003.JavaScript/002.运行时之浏览器/assets/Pasted image 20240430144834.png",
-    "前端/003.JavaScript/002.运行时之浏览器/assets/Pasted image 20240430110924.png",
-    "前端/003.JavaScript/002.运行时之浏览器/assets/Pasted image 20240430110443.png",
-    "前端/003.JavaScript/002.运行时之浏览器/assets/Pasted image 20240430105112.png",
-    "前端/002.CSS/002.CSS 属性计算过程.md",
-    "前端/003.JavaScript/001.语言与通用/004.事件循环.md",
-    "前端/003.JavaScript/002.运行时之浏览器/assets/Pasted image 20240429172246.png",
-    "前端/003.JavaScript/002.运行时之浏览器/assets/Pasted image 20240429151024.png",
-    "前端/003.JavaScript/002.运行时之浏览器/assets/Pasted image 20240429150942.png",
-    "前端/003.JavaScript/002.运行时之浏览器/006.class 和 style.md",
-    "前端/003.JavaScript/002.运行时之浏览器/assets/Pasted image 20240429110100.png",
-    "前端/004.浏览器/001.浏览器渲染流程.md",
-    "前端/001.HTML",
-    "前端/002.CSS",
-    "前端/011.从零实现 React18/drawing/001.multi-repo vs mono-repo.excalidraw.md",
+    "前端/003.JavaScript/002.运行时之浏览器/017.高性能渲染十万条数据.md",
+    "前端/003.JavaScript/001.语言与通用/001.数据类型.md",
+    "前端/003.JavaScript/001.语言与通用/003.表达式与运算符.md",
+    "前端/003.JavaScript/001.语言与通用/004.原型与原型链.md",
+    "前端/003.JavaScript/001.语言与通用/005.事件循环.md",
+    "前端/004.浏览器/007.Web Worker.md",
+    "前端/005.网络/003.cookie 与 session.md",
+    "前端/006.工程化/002.CSS 工程化/002.Sass/001.CSS 预处理器介绍.md",
+    "前端/006.工程化/002.CSS 工程化/002.Sass/002.基础语法.md",
+    "前端/007.干货知识/004.CSS 布局（Flex & Grid）.md",
+    "前端/005.网络/016.HTTP 各版本差异.md",
+    "前端/005.网络/010.HTTP 缓存协议.md",
+    "前端/003.JavaScript/002.运行时之浏览器/009.自定义事件.md",
+    "前端/004.浏览器/003.浏览器组成部分.md",
+    "数学/初中数学/第6部分 统计与概率/第3课时 概率.pdf",
+    "数学/初中数学/第1部分 数与式/第4课时 二次根式.pdf",
+    "数学/初中数学/第1部分 数与式/第1课时 实数.pdf",
+    "数学/初中数学/第2部分 方程与不等式/第2课时 一元二次方程.pdf",
+    "数学/初中数学/第2部分 方程与不等式/第1课时 一次方程（组）.pdf",
+    "前端/011.从零实现 React18/drawing/001.multi-repo vs mono-repo.excalidraw.svg",
+    "前端/011.从零实现 React18/assets/Pasted Image 20240427112722_527.png",
     "前端/011.从零实现 React18/drawing",
     "前端/011.从零实现 React18/assets",
-    "前端/011.从零实现 React18/001.1.搭建项目架构.md",
     "前端/011.从零实现 React18",
-    "前端/003.JavaScript/001.语言与通用/003.手写 Promise.md",
-    "前端/003.JavaScript/002.运行时之浏览器",
-    "前端/003.JavaScript/001.语言与通用/assets",
-    "前端/003.JavaScript/001.语言与通用",
-    "前端/011.JavaScript/002.运行时",
-    "前端/011.JavaScript/001.语言规范",
+    "前端/010.花里胡哨/assets/鸡蛋.png",
+    "前端/010.花里胡哨/assets/雪佛龙.png",
+    "前端/010.花里胡哨/assets/长方形.png",
+    "前端/010.花里胡哨/assets/锁.png",
+    "前端/010.花里胡哨/assets/钻石二.png",
+    "前端/010.花里胡哨/assets/钻石一.png",
+    "前端/010.花里胡哨/assets/菱形.png",
+    "前端/010.花里胡哨/assets/荧光边框.png",
     "未命名.canvas",
     "前端学习，漫漫长路/未命名.canvas",
     "数据结构与算法/代码随想录/链表/未命名.canvas"
