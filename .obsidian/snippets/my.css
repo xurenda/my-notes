@@ -1,4 +1,4 @@
-/* 标题栏，工具icon列表左对齐 */
+/* 标题栏，工具 icon 列表左对齐 */
 body {
   --file-header-justify: flex-start;
 }
@@ -11,10 +11,28 @@ body {
   justify-content: flex-start;
 }
 
-/* 库名大写 */
-.nav-folder-title[data-path='/'] .nav-folder-title-content {
-  text-transform: uppercase;
-  margin-left: -14px;
+/* 解决 callout 内容第一块是代码块时，离标题太近的问题 */
+.callout-title + .callout-content > pre:first-child {
+  margin-top: 1em;
+}
+
+/* 笔记计数 */
+/* 需要 File Explorer Note Count 插件 */
+.nav-folder.oz-explorer-root-folder {
+  height: 0;
+  margin: 0;
+}
+
+.nav-folder.oz-explorer-root-folder .oz-explorer-root-nav-folder-title::after {
+  position: absolute;
+  top: 14px;
+  right: 20px;
+  color: var(--nav-item-color);
+  font-size: 10.4px;
+}
+
+.nav-folder.oz-explorer-root-folder .oz-explorer-root-nav-folder-title .nav-folder-title-content {
+  display: none;
 }
 
 /* 标题级别指示 */

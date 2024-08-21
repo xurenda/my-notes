@@ -1,8 +1,10 @@
 {
   "showAllNumbers": true,
   "filterList": [
-    "md"
+    "md",
+    "pdf"
   ],
   "blacklist": false,
+  "addRootFolder": true,
   "filterFolderNote": true
 }

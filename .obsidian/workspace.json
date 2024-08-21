@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/010.webGL/001.WebGL 编程指南/006.GLSL ES.md",
+                "file": "前端/003.JavaScript/005.TypeScript 类型体操/002.中等/004.对象属性深度只读.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/010.webGL/001.WebGL 编程指南/102.附录：金字塔纹理.md",
+                "file": "前端/003.JavaScript/005.TypeScript 类型体操/001.简单/001.实现 Pick.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "曼哈顿距离",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/010.webGL/001.WebGL 编程指南/006.GLSL ES.md"
+                "file": "前端/003.JavaScript/005.TypeScript 类型体操/002.中等/004.对象属性深度只读.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/010.webGL/001.WebGL 编程指南/006.GLSL ES.md",
+                "file": "前端/003.JavaScript/005.TypeScript 类型体操/002.中等/004.对象属性深度只读.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/010.webGL/001.WebGL 编程指南/006.GLSL ES.md",
+                "file": "前端/003.JavaScript/005.TypeScript 类型体操/002.中等/004.对象属性深度只读.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "前端/010.webGL/001.WebGL 编程指南/006.GLSL ES.md"
+                "file": "前端/003.JavaScript/005.TypeScript 类型体操/002.中等/004.对象属性深度只读.md"
               }
             }
           }
@@ -178,65 +178,65 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "oz-clear-unused-images:Clear Unused Images": false,
-      "cmdr:导出为 PDF": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "command-palette:打开命令面板": false,
-      "templates:插入模板": false,
-      "workspaces:管理工作区布局": false,
-      "random-note:开始漫游笔记": false
+      "oz-clear-unused-images:Clear Unused Images": true,
+      "cmdr:导出为 PDF": true,
+      "obsidian-excalidraw-plugin:新建绘图文件": true,
+      "switcher:打开快速切换": true,
+      "graph:查看关系图谱": true,
+      "command-palette:打开命令面板": true,
+      "templates:插入模板": true,
+      "workspaces:管理工作区布局": true,
+      "random-note:开始漫游笔记": true
     }
   },
   "active": "bd1a9ff36a15d354",
   "lastOpenFiles": [
-    "前端/010.webGL/001.WebGL 编程指南/102.附录：金字塔纹理.md",
-    "前端/010.webGL/001.WebGL 编程指南/001.WebGL 概述.md",
-    "前端/010.webGL/001.WebGL 编程指南/000.图书信息.md",
-    "前端/007.React/001.官方文档/000.文档信息.md",
-    "前端/010.webGL/001.WebGL 编程指南/006.GLSL ES.md",
-    "前端/007.React/001.官方文档/002.React DOM/002.Components.md",
-    "前端/007.React/001.官方文档/002.React DOM/001.Hooks.md",
-    "前端/007.React/001.官方文档/001.React/003.APIs.md",
-    "前端/007.React/001.官方文档/001.React/002.Components.md",
-    "前端/007.React/001.官方文档/001.React/001.Hooks.md",
-    "前端/009.开发规范/002.Web前端开发规范（2）——代码规范.md",
-    "前端/009.开发规范/001.Web前端开发规范（1）——通用规范.md",
-    "前端/008.性能优化/002.性能优化概述.md",
-    "前端/008.性能优化/001.前端性能指标.md",
-    "前端/010.webGL/001.WebGL 编程指南/003.绘制和变换三角形.md",
-    "前端/010.webGL/001.WebGL 编程指南/005.颜色与纹理.md",
+    "前端/003.JavaScript/005.TypeScript 类型体操/001.简单/001.实现 Pick.md",
+    "前端/003.JavaScript/005.TypeScript 类型体操/002.中等/004.对象属性深度只读.md",
+    "前端/003.JavaScript/005.TypeScript 类型体操/001.简单/013.实现 Parameters.md",
+    "前端/003.JavaScript/005.TypeScript 类型体操/001.简单/012.Unshift.md",
+    "前端/003.JavaScript/005.TypeScript 类型体操/001.简单/011.Push.md",
+    "前端/003.JavaScript/005.TypeScript 类型体操/002.中等/003.对象部分属性只读.md",
+    "前端/003.JavaScript/005.TypeScript 类型体操/001.简单/004.第一个元素.md",
+    "前端/003.JavaScript/005.TypeScript 类型体操/002.中等/002.实现 Omit.md",
+    "前端/003.JavaScript/005.TypeScript 类型体操/002.中等/001.实现 ReturnType.md",
+    "前端/003.JavaScript/005.TypeScript 类型体操/002.中等",
+    "前端/003.JavaScript/005.TypeScript 类型体操/001.简单/010.Includes.md",
+    "前端/003.JavaScript/005.TypeScript 类型体操/001.简单/009.Concat.md",
+    "前端/003.JavaScript/005.TypeScript 类型体操/001.简单/008.If.md",
+    "前端/003.JavaScript/005.TypeScript 类型体操/001.简单/007.Awaited.md",
+    "前端/003.JavaScript/005.TypeScript 类型体操/001.简单/006.实现 Exclude.md",
+    "前端/003.JavaScript/005.TypeScript 类型体操/001.简单/005.获取元组长度.md",
+    "前端/003.JavaScript/005.TypeScript 类型体操/001.简单/003.元组转换为对象.md",
+    "前端/003.JavaScript/005.TypeScript 类型体操/001.简单/002.实现 Readonly.md",
     "前端/010.webGL/001.WebGL 编程指南/004.高级变换与动画基础.md",
-    "前端/010.webGL/001.WebGL 编程指南/101.附录：本书涉及的数学知识.md",
+    "前端/003.JavaScript/005.TypeScript 类型体操/000.项目信息.md",
+    "前端/003.JavaScript/005.TypeScript 类型体操/001.简单",
+    "前端/010.webGL/001.WebGL 编程指南/007.进入三维世界.md",
+    "前端/003.JavaScript/005.TypeScript 类型体操",
+    "前端/未命名.md",
+    "README.md",
+    "index.md",
+    "Extra/Template/转载.md",
+    "Extra/Template/题目(h2).md",
+    "Extra/Template/题目(h1).md",
+    "前端/010.webGL/001.WebGL 编程指南/assets/Pasted image 20240821124319.png",
+    "前端/010.webGL/001.WebGL 编程指南/assets/Pasted image 20240821122000.png",
+    "前端/010.webGL/001.WebGL 编程指南/assets/Pasted image 20240821120034.png",
+    "前端/010.webGL/001.WebGL 编程指南/assets/Pasted image 20240821111303.png",
+    "前端/010.webGL/001.WebGL 编程指南/assets/Pasted image 20240820140124.png",
+    "前端/010.webGL/001.WebGL 编程指南/assets/Pasted image 20240820135552.png",
+    "前端/010.webGL/001.WebGL 编程指南/assets/Pasted image 20240820124848.png",
+    "前端/010.webGL/001.WebGL 编程指南/assets/Pasted image 20240820115757.png",
     "前端/010.webGL/001.WebGL 编程指南/assets/Pasted image 20240819224623.png",
     "前端/010.webGL/001.WebGL 编程指南/assets/Pasted image 20240819214044.png",
-    "前端/010.webGL/001.WebGL 编程指南/002.WebGL 入门.md",
-    "前端/010.webGL/001.WebGL 编程指南/assets/Pasted image 20240819184324.png",
-    "前端/010.webGL/001.WebGL 编程指南/assets/Pasted image 20240819184057.png",
-    "前端/010.webGL/001.WebGL 编程指南/assets/Pasted image 20240819184042.png",
-    "前端/010.webGL/001.WebGL 编程指南/assets/Pasted image 20240819184003.png",
-    "前端/010.webGL/001.WebGL 编程指南/assets/Pasted image 20240819182242.png",
-    "前端/010.webGL/001.WebGL 编程指南/assets/Pasted image 20240819182231.png",
-    "前端/010.webGL/001.WebGL 编程指南/assets/Pasted image 20240819175256.png",
-    "前端/010.webGL/001.WebGL 编程指南/assets/Pasted image 20240819170740.png",
-    "数据结构与算法/004.左程云算法通关/002.必备/047.A星、Floyd、Bellman-Ford 与 SPFA.md",
-    "数据结构与算法/004.左程云算法通关/002.必备/044.宽度优先遍历及其扩展.md",
-    "工具/002.Markdown/001.markdown公式.md",
-    "前端/003.JavaScript/001.语言与通用/008.二进制数据.md",
     "数学/初中数学/第5部分 图形的变化/第5课时 图形的相似.pdf",
-    "数学/初中数学/初中数学.md",
-    "前端/010.webGL/001.面试题.md",
-    "工具/003.Obsidian/001.Callouts.md",
     "前端/003.JavaScript/001.语言与通用/assets",
     "前端/003.JavaScript/004.实践与应用",
     "前端/003.JavaScript/003.运行时之 Node.js",
     "前端/010.webGL/001.WebGL 编程指南/001.WebGL 概述",
     "前端/010.webGL/001.WebGL 编程指南/assets",
     "前端/010.webGL/001.WebGL 编程指南",
-    "前端/007.React/001.官方文档/002.React DOM",
-    "前端/010.webGL",
-    "前端/007.React/001.官方文档/001.React",
     "未命名.canvas",
     "前端学习，漫漫长路/未命名.canvas",
     "数据结构与算法/代码随想录/链表/未命名.canvas"
