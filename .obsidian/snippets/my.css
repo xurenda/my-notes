@@ -16,6 +16,11 @@ body {
   margin-top: 1em;
 }
 
+/* 解决行号占用内容宽度，导致内容宽度变窄的问题 */
+.cm-contentContainer:has(> .cm-gutters) {
+  margin-left: -54px;
+}
+
 /* 笔记计数 */
 /* 需要 File Explorer Note Count 插件 */
 .nav-folder.oz-explorer-root-folder {
