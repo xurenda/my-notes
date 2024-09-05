@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bd1a9ff36a15d354",
+            "id": "7bda35ed24a39680",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/011.webGL/001.WebGL 编程指南/009.层次模型.md",
-                "mode": "source",
+                "file": "后端/003.中间件/Redis/000.目录.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/011.webGL/001.WebGL 编程指南/003.绘制和变换三角形.md",
+                "file": "后端/003.中间件/Redis/021.AOF 日志.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具/002.Markdown/001.markdown公式.md",
+                "file": "工具/003.Obsidian/001.Callouts.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "依赖 排序",
+                "query": "布隆过滤器",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 248.5
   },
   "right": {
     "id": "5e9aaa0ee861ee89",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/011.webGL/001.WebGL 编程指南/009.层次模型.md"
+                "file": "后端/003.中间件/Redis/000.目录.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/011.webGL/001.WebGL 编程指南/009.层次模型.md",
+                "file": "后端/003.中间件/Redis/000.目录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/011.webGL/001.WebGL 编程指南/009.层次模型.md",
+                "file": "后端/003.中间件/Redis/000.目录.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "前端/011.webGL/001.WebGL 编程指南/009.层次模型.md"
+                "file": "后端/003.中间件/Redis/000.目录.md"
               }
             }
           }
@@ -174,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 252.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,54 +189,54 @@
       "random-note:开始漫游笔记": true
     }
   },
-  "active": "bd1a9ff36a15d354",
+  "active": "7bda35ed24a39680",
   "lastOpenFiles": [
-    "前端/011.webGL/001.WebGL 编程指南/102.附录：金字塔纹理.md",
-    "前端/011.webGL/001.WebGL 编程指南/101.附录：本书涉及的数学知识.md",
-    "前端/011.webGL/001.WebGL 编程指南/009.层次模型.md",
-    "前端/011.webGL/001.WebGL 编程指南/008.光照.md",
-    "前端/011.webGL/001.WebGL 编程指南/007.进入三维世界.md",
-    "前端/011.webGL/001.WebGL 编程指南/006.GLSL ES.md",
-    "前端/011.webGL/001.WebGL 编程指南/005.颜色与纹理.md",
-    "前端/011.webGL/001.WebGL 编程指南/004.高级变换与动画基础.md",
-    "前端/011.webGL/001.WebGL 编程指南/003.绘制和变换三角形.md",
-    "前端/011.webGL/001.WebGL 编程指南/002.WebGL 入门.md",
-    "前端/011.webGL/001.WebGL 编程指南/001.WebGL 概述.md",
-    "前端/011.webGL/001.WebGL 编程指南/000.图书信息.md",
-    "前端/011.webGL/001.WebGL 编程指南/assets/Pasted image 20240826181040.png",
-    "前端/011.webGL/001.WebGL 编程指南/assets/Pasted image 20240826172302.png",
-    "前端/011.webGL/001.WebGL 编程指南/assets/Pasted image 20240826164622.png",
-    "前端/011.webGL/001.WebGL 编程指南/assets/Pasted image 20240826162154.png",
-    "前端/011.webGL/001.WebGL 编程指南/assets/Pasted image 20240826161540.png",
-    "前端/011.webGL/001.WebGL 编程指南/assets/Pasted image 20240826155943.png",
-    "前端/011.webGL/001.WebGL 编程指南/assets/Pasted image 20240826152633.png",
-    "前端/011.webGL/001.WebGL 编程指南/assets/Pasted image 20240826125207.png",
-    "前端/011.webGL/001.WebGL 编程指南/assets/Pasted image 20240826124724.png",
-    "前端/011.webGL/001.WebGL 编程指南/assets/Pasted image 20240826124612.png",
+    "后端/003.中间件/Redis/029.数据库和缓存如何保证一致性？.md",
+    "后端/003.中间件/Redis/028.缓存雪崩、击穿、穿透.md",
+    "后端/003.中间件/Redis/001.常见面试题.md",
+    "工具/004.其他/001.glob 模式匹配.md",
+    "后端/003.中间件/Redis/027.哨兵机制.md",
+    "后端/003.中间件/Redis/026.主从复制.md",
+    "后端/003.中间件/Redis/000.目录.md",
+    "后端/003.中间件/Redis/assets/Pasted image 20240905154025.png",
+    "后端/003.中间件/Redis/023.大 key 对持久化的影响.md",
+    "后端/003.中间件/Redis/021.AOF 日志.md",
+    "后端/003.中间件/Redis/022.RDB 快照.md",
     "工具/002.Markdown/001.markdown公式.md",
-    "工具/003.Obsidian/001.Callouts.md",
-    "前端/004.TypeScript/001.TypeScript 类型体操/001.简单/001.实现 Pick.md",
-    "前端/003.JavaScript/001.语言与通用/006.异步处理与 Promise.md",
-    "前端/003.JavaScript/001.语言与通用/007.手写 Promise.md",
-    "前端/003.JavaScript/001.语言与通用/008.二进制数据.md",
-    "前端/003.JavaScript/001.语言与通用/009.JS 模块化.md",
-    "语言学习/Java/001.JavaSE 语言基础/笔记/005.数组.md",
-    "未归档/原型链.excalidraw.md",
-    "语言学习/Java/001.JavaSE 语言基础/笔记/003.流程控制语句.md",
-    "语言学习/Java/001.JavaSE 语言基础/笔记/002.变量与运算符.md",
-    "语言学习/Java/001.JavaSE 语言基础/笔记/001.Java 语言概述.md",
-    "数据结构与算法/004.左程云算法通关/002.必备/041.建图、链式前向星、拓扑排序.md",
-    "数据结构与算法/004.左程云算法通关/999.个人补充/002.位移运算与乘除.md",
-    "前端/004.TypeScript",
-    "前端/004.TypeScript/001.TypeScript 类型体操/002.中等",
-    "前端/004.TypeScript/001.TypeScript 类型体操/001.简单",
-    "前端/004.TypeScript/001.TypeScript 类型体操",
-    "数学/初中数学/第5部分 图形的变化/第5课时 图形的相似.pdf",
-    "前端/003.JavaScript/001.语言与通用/assets",
-    "前端/003.JavaScript/004.实践与应用",
-    "前端/003.JavaScript/003.运行时之 Node.js",
-    "前端/010.webGL/001.WebGL 编程指南/001.WebGL 概述",
-    "前端/011.webGL/001.WebGL 编程指南/assets",
+    "工具/002.Markdown/002.markdown中如何写代码.md",
+    "工具/001.Git/001.commit message 规范.md",
+    "后端/003.中间件/Redis/016.哈希表.md",
+    "后端/003.中间件/Redis/013.SDS.md",
+    "后端/003.中间件/Redis/010.GEO.md",
+    "后端/003.中间件/Redis/007.Zset.md",
+    "后端/003.中间件/Redis/025.内存淘汰策略.md",
+    "后端/003.中间件/Redis/assets/Pasted image 20240905125553.png",
+    "后端/003.中间件/Redis/assets/Pasted image 20240905123703.png",
+    "后端/003.中间件/Redis/assets/Pasted image 20240905104321.png",
+    "后端/003.中间件/Redis/assets/Pasted image 20240905103727.png",
+    "后端/003.中间件/Redis/assets/Pasted image 20240905103313.png",
+    "后端/003.中间件/Redis/024.过期删除策略.md",
+    "后端/003.中间件/Redis/019.quicklist.md",
+    "后端/003.中间件/Redis/018.跳表.md",
+    "后端/003.中间件/Redis/017.整数集合.md",
+    "后端/003.中间件/Redis/015.压缩列表.md",
+    "后端/003.中间件/Redis/014.双向链表.md",
+    "后端/003.中间件/Redis/011.Stream.md",
+    "数据结构与算法/003.LeetCodeHot100/007.链表/014.LRU 缓存.md",
+    "后端/003.中间件/Redis/assets/Pasted image 20240904193708.png",
+    "后端/003.中间件/Redis/assets/Pasted image 20240904100506.png",
+    "后端/003.中间件/Redis/assets/Pasted image 20240904100423.png",
+    "后端/003.中间件/Redis/assets/Pasted image 20240903223158.png",
+    "后端/003.中间件/Redis/drawing",
+    "后端/中间件/Redis/assets/assets",
+    "后端/003.中间件/Redis/assets",
+    "后端/003.中间件/Redis",
+    "后端/003.中间件",
+    "未命名",
+    "后端",
+    "前端/005.浏览器/002.图解 Google V8/assets",
+    "前端/005.浏览器/002.图解 Google V8",
+    "前端/003.JavaScript/005.ES6+",
     "未命名.canvas",
     "前端学习，漫漫长路/未命名.canvas",
     "数据结构与算法/代码随想录/链表/未命名.canvas"
