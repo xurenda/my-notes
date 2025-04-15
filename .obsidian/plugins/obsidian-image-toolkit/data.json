@@ -1,5 +1,5 @@
 {
-  "viewMode": "Normal",
+  "viewMode": "Pin",
   "viewImageInEditor": true,
   "viewImageInCPB": true,
   "viewImageWithLink": true,
@@ -21,6 +21,6 @@
   "galleryImgBorderActiveColor": "#FF0000",
   "moveTheImageHotkey": "NONE",
   "switchTheImageHotkey": "CTRL",
-  "doubleClickToolbar": "toolbar_full_screen",
+  "doubleClickToolbar": "toolbar_close",
   "viewTriggerHotkey": "NONE"
 }

@@ -4,46 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "33883682c7824dbf",
+        "id": "65891061f35eb356",
         "type": "tabs",
         "children": [
           {
-            "id": "7bda35ed24a39680",
+            "id": "9d9fe365ae7b13d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "后端/003.中间件/Redis/000.目录.md",
+                "file": "前端/011.WebGL/001.面试题.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "058de1520d8f901a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "后端/003.中间件/Redis/021.AOF 日志.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4aa408d1748941e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "工具/003.Obsidian/001.Callouts.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "001.面试题"
             }
           }
         ]
@@ -66,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -75,13 +53,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "布隆过滤器",
+                "query": "字符集",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -92,7 +72,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           }
         ]
@@ -115,8 +97,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "后端/003.中间件/Redis/000.目录.md"
-              }
+                "file": "前端/011.WebGL/001.面试题.md"
+              },
+              "icon": "lucide-list",
+              "title": "001.面试题 的大纲"
             }
           },
           {
@@ -125,10 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "后端/003.中间件/Redis/000.目录.md",
+                "file": "数据结构与算法/004.左程云算法通关/002.必备/021.嵌套类问题的递归解题套路.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "021.嵌套类问题的递归解题套路 的出链列表"
             }
           },
           {
@@ -137,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "后端/003.中间件/Redis/000.目录.md",
+                "file": "数据结构与算法/004.左程云算法通关/002.必备/021.嵌套类问题的递归解题套路.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +131,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "021.嵌套类问题的递归解题套路 的反向链接列表"
             }
           },
           {
@@ -157,7 +145,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
             }
           },
           {
@@ -166,8 +156,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "后端/003.中间件/Redis/000.目录.md"
-              }
+                "file": "数据结构与算法/004.左程云算法通关/002.必备/021.嵌套类问题的递归解题套路.md"
+              },
+              "icon": "lucide-info",
+              "title": "021.嵌套类问题的递归解题套路的笔记属性"
             }
           }
         ]
@@ -186,57 +178,58 @@
       "command-palette:打开命令面板": true,
       "templates:插入模板": true,
       "workspaces:管理工作区布局": true,
-      "random-note:开始漫游笔记": true
+      "random-note:开始漫游笔记": true,
+      "callout-manager:Insert Callout": false
     }
   },
-  "active": "7bda35ed24a39680",
+  "active": "9d9fe365ae7b13d9",
   "lastOpenFiles": [
-    "后端/003.中间件/Redis/029.数据库和缓存如何保证一致性？.md",
-    "后端/003.中间件/Redis/028.缓存雪崩、击穿、穿透.md",
-    "后端/003.中间件/Redis/001.常见面试题.md",
-    "工具/004.其他/001.glob 模式匹配.md",
-    "后端/003.中间件/Redis/027.哨兵机制.md",
-    "后端/003.中间件/Redis/026.主从复制.md",
-    "后端/003.中间件/Redis/000.目录.md",
-    "后端/003.中间件/Redis/assets/Pasted image 20240905154025.png",
-    "后端/003.中间件/Redis/023.大 key 对持久化的影响.md",
-    "后端/003.中间件/Redis/021.AOF 日志.md",
-    "后端/003.中间件/Redis/022.RDB 快照.md",
-    "工具/002.Markdown/001.markdown公式.md",
-    "工具/002.Markdown/002.markdown中如何写代码.md",
-    "工具/001.Git/001.commit message 规范.md",
-    "后端/003.中间件/Redis/016.哈希表.md",
-    "后端/003.中间件/Redis/013.SDS.md",
-    "后端/003.中间件/Redis/010.GEO.md",
-    "后端/003.中间件/Redis/007.Zset.md",
-    "后端/003.中间件/Redis/025.内存淘汰策略.md",
-    "后端/003.中间件/Redis/assets/Pasted image 20240905125553.png",
-    "后端/003.中间件/Redis/assets/Pasted image 20240905123703.png",
-    "后端/003.中间件/Redis/assets/Pasted image 20240905104321.png",
-    "后端/003.中间件/Redis/assets/Pasted image 20240905103727.png",
-    "后端/003.中间件/Redis/assets/Pasted image 20240905103313.png",
-    "后端/003.中间件/Redis/024.过期删除策略.md",
-    "后端/003.中间件/Redis/019.quicklist.md",
-    "后端/003.中间件/Redis/018.跳表.md",
-    "后端/003.中间件/Redis/017.整数集合.md",
-    "后端/003.中间件/Redis/015.压缩列表.md",
-    "后端/003.中间件/Redis/014.双向链表.md",
-    "后端/003.中间件/Redis/011.Stream.md",
-    "数据结构与算法/003.LeetCodeHot100/007.链表/014.LRU 缓存.md",
-    "后端/003.中间件/Redis/assets/Pasted image 20240904193708.png",
-    "后端/003.中间件/Redis/assets/Pasted image 20240904100506.png",
-    "后端/003.中间件/Redis/assets/Pasted image 20240904100423.png",
-    "后端/003.中间件/Redis/assets/Pasted image 20240903223158.png",
-    "后端/003.中间件/Redis/drawing",
-    "后端/中间件/Redis/assets/assets",
-    "后端/003.中间件/Redis/assets",
-    "后端/003.中间件/Redis",
-    "后端/003.中间件",
-    "未命名",
-    "后端",
-    "前端/005.浏览器/002.图解 Google V8/assets",
-    "前端/005.浏览器/002.图解 Google V8",
-    "前端/003.JavaScript/005.ES6+",
+    "前端/011.WebGL/001.WebGL 编程指南/009.层次模型.md",
+    "前端/011.WebGL/001.WebGL 编程指南/101.附录：本书涉及的数学知识.md",
+    "前端/011.WebGL/001.WebGL 编程指南/102.附录：金字塔纹理.md",
+    "前端/011.WebGL/001.WebGL 编程指南/008.光照.md",
+    "前端/011.WebGL/001.WebGL 编程指南/002.WebGL 入门.md",
+    "前端/013.干货知识/001.Web API.md",
+    "前端/011.WebGL/001.WebGL 编程指南/000.图书信息.md",
+    "前端/006.网络/012.CSRF 攻击.md",
+    "英语/单词.md",
+    "数据结构与算法/004.左程云算法通关/999.个人补充/001.位清除.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/assets/Pasted image 20240202150701.png",
+    "数据结构与算法/004.左程云算法通关/002.必备/assets/Pasted image 20240305111333.png",
+    "数据结构与算法/004.左程云算法通关/002.必备/assets/Pasted image 20231229154245.png",
+    "数据结构与算法/004.左程云算法通关/002.必备/assets/Pasted image 20231231154254.png",
+    "数据结构与算法/004.左程云算法通关/002.必备/assets/Pasted image 20240102155843.png",
+    "数据结构与算法/004.左程云算法通关/002.必备/assets/Pasted image 20240111150908.png",
+    "数据结构与算法/004.左程云算法通关/002.必备/assets/Pasted image 20240111150952.png",
+    "数据结构与算法/004.左程云算法通关/002.必备/assets/Pasted image 20240102092733.png",
+    "数据结构与算法/004.左程云算法通关/002.必备/assets/Pasted image 20231229154540.png",
+    "数据结构与算法/004.左程云算法通关/002.必备/assets/Pasted image 20231220160729.png",
+    "数据结构与算法/001.代码随想录/010.动态规划/003.打家劫舍.md",
+    "数据结构与算法/001.代码随想录/010.动态规划/004.买卖股票.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/056.分组背包、完全背包.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/057.多重背包、混合背包.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/055.01背包、有依赖的背包.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/054.最长递增子序列问题与扩展.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/061.树型dp-下.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/062.状压dp-上.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/063.状压dp-下.md",
+    "数据结构与算法/004.左程云算法通关/001.入门/016.双端队列-双链表和固定数组实现.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/011.重要排序算法的总结.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/007.堆结构和堆排序.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/059.区间dp-下.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/043.最小生成树.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/045.双向广搜.md",
+    "数据结构与算法/004.左程云算法通关/002.必备/047.A星、Floyd、Bellman-Ford 与 SPFA.md",
+    "数学/初中数学/第2部分 方程与不等式/第2课时 一元二次方程.pdf",
+    "数学/初中数学/第2部分 方程与不等式/第1课时 一次方程（组）.pdf",
+    "数学/初中数学/第1部分 数与式/第2课时 整式及因式分解.pdf",
+    "数学/初中数学/第1部分 数与式/第1课时 实数.pdf",
+    "前端/003.JavaScript/003.运行时之 Node.js/assets",
+    "后端/Rust/Rust 编程第一课",
+    "后端/Rust",
+    "操作系统",
+    "后端/003.中间件/MySQL/assets",
+    "后端/003.中间件/MySQL",
     "未命名.canvas",
     "前端学习，漫漫长路/未命名.canvas",
     "数据结构与算法/代码随想录/链表/未命名.canvas"

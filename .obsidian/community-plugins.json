@@ -8,5 +8,7 @@
   "obsidian-image-toolkit",
   "obsidian-linter",
   "number-headings-obsidian",
-  "quickadd"
+  "quickadd",
+  "callout-manager",
+  "callout-integrator"
 ]
