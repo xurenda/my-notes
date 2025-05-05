@@ -11,5 +11,6 @@
   "baseFontSize": 14,
   "textFontFamily": "",
   "interfaceFontFamily": "",
-  "monospaceFontFamily": "JetBrains Mono"
+  "monospaceFontFamily": "JetBrains Mono",
+  "showRibbon": false
 }

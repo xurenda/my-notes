@@ -21,6 +21,5 @@
     "downscalePercent": 100
   },
   "spellcheck": true,
-  "showUnsupportedFiles": true,
-  "showRibbon": false
+  "showUnsupportedFiles": true
 }
