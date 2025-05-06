@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英语/001.单词/002.词缀/003.词缀.md",
+                "file": "英语/001.单词/001.词根/008.press.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "003.词缀"
+              "title": "008.press"
             }
           },
           {
@@ -87,10 +87,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "owned",
+                "query": "\"able 后缀\"",
                 "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
+                "explainSearch": true,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -131,13 +131,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "英语/001.单词/002.词缀/003.词缀.md",
+                "file": "英语/001.单词/001.词根/008.press.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "003.词缀 的大纲"
+              "title": "008.press 的大纲"
             }
           },
           {
@@ -221,18 +221,22 @@
   },
   "active": "8e4c1ba305af1af9",
   "lastOpenFiles": [
-    "英语/001.单词/002.词缀/002.后缀.md",
     "英语/001.单词/002.词缀/001.前缀.md",
-    "英语/001.单词/001.词根/006.maj-max-magn.md",
-    "英语/001.单词/001.词根/005.min-mini.md",
-    "英语/001.单词/001.词根/004.ag-act.md",
+    "英语/001.单词/001.词根/008.press.md",
+    "英语/001.单词/002.词缀/002.后缀.md",
     "英语/001.单词/001.词根/003.us-ut-uti-util.md",
-    "英语/001.单词/001.词根/002.car-cur-cour.md",
     "英语/001.单词/001.词根/001.port.md",
+    "英语/001.单词/000.目录.md",
+    "英语/001.单词/001.词根/004.ag-act.md",
+    "英语/001.单词/001.词根/002.car-cur-cour.md",
+    "后端/003.中间件/Redis/021.listpack.md",
+    "英语/001.单词/001.词根/007.medi.md",
+    "英语/001.单词/001.词根/005.min-mini.md",
+    "英语/001.单词/001.词根/006.maj-max-magn.md",
     "英语/001.单词/002.词缀/003.词缀.md",
+    "操作系统/001.CPU 是如何执行程序的？.md",
     "前端/005.浏览器/002.资源提示关键词.md",
     "前端/002.CSS/003.花里胡哨/001.形状.md",
-    "英语/001.单词/000.目录.md",
     "英语/背单词.md",
     "后端/001.Java/001.JavaSE 语言基础/笔记/016.网络编程.md",
     "英语/001.单词/002.词缀",
@@ -246,14 +250,10 @@
     "前端/003.JavaScript/001.语言与通用/002.数据类型.md",
     "前端/003.JavaScript/001.语言与通用/001.词法结构.md",
     "前端/001.HTML/000.占位.md",
-    "未归档/doc/OKR.md",
-    "未归档/doc/新人串讲.md",
-    "前端/011.WebGL/001.面试题.md",
     "未归档/doc/assets/Roadmap.png",
     "未归档/doc/assets/JIMU 技术架构.png",
     "未归档/doc/assets/JIMU 低代码建设技术架构.png",
     "未归档/doc/assets",
-    "未归档/doc/离职流程指引.md",
     "未归档/doc",
     "数据结构与算法/004.左程云算法通关/002.必备/assets/Pasted image 20240202150701.png",
     "数据结构与算法/004.左程云算法通关/002.必备/assets/Pasted image 20240305111333.png",
