@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英语/001.单词/001.词根/008.press.md",
+                "file": "英语/001.单词/001.词根/009.man.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "008.press"
+              "title": "009.man"
             }
           },
           {
@@ -131,13 +131,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "英语/001.单词/001.词根/008.press.md",
+                "file": "英语/001.单词/001.词根/009.man.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "008.press 的大纲"
+              "title": "009.man 的大纲"
             }
           },
           {
@@ -221,12 +221,13 @@
   },
   "active": "8e4c1ba305af1af9",
   "lastOpenFiles": [
-    "英语/001.单词/002.词缀/001.前缀.md",
+    "英语/001.单词/000.目录.md",
+    "英语/001.单词/001.词根/009.man.md",
     "英语/001.单词/001.词根/008.press.md",
+    "英语/001.单词/002.词缀/001.前缀.md",
     "英语/001.单词/002.词缀/002.后缀.md",
     "英语/001.单词/001.词根/003.us-ut-uti-util.md",
     "英语/001.单词/001.词根/001.port.md",
-    "英语/001.单词/000.目录.md",
     "英语/001.单词/001.词根/004.ag-act.md",
     "英语/001.单词/001.词根/002.car-cur-cour.md",
     "后端/003.中间件/Redis/021.listpack.md",
@@ -249,7 +250,6 @@
     "前端/006.网络/018.Server-Sent Events.md",
     "前端/003.JavaScript/001.语言与通用/002.数据类型.md",
     "前端/003.JavaScript/001.语言与通用/001.词法结构.md",
-    "前端/001.HTML/000.占位.md",
     "未归档/doc/assets/Roadmap.png",
     "未归档/doc/assets/JIMU 技术架构.png",
     "未归档/doc/assets/JIMU 低代码建设技术架构.png",
