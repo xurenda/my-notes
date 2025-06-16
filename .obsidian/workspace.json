@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "代码片段/003.css/001.文本溢出省略.md",
+                "file": "工具/003.Obsidian/002.代码块.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "001.文本溢出省略"
+              "title": "002.代码块"
             }
           },
           {
@@ -131,13 +131,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "代码片段/003.css/001.文本溢出省略.md",
+                "file": "工具/003.Obsidian/002.代码块.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "001.文本溢出省略 的大纲"
+              "title": "002.代码块 的大纲"
             }
           },
           {
@@ -221,8 +221,16 @@
   },
   "active": "8e4c1ba305af1af9",
   "lastOpenFiles": [
-    "代码片段/001.js/009.sticky 模拟.md",
+    "前端/002.CSS/001.基础/002.属性值的计算过程.md",
+    "工具/003.Obsidian/002.代码块.md",
+    "工具/003.Obsidian/001.Callouts.md",
+    "前端/003.JavaScript/004.实践与应用/001.函数防抖与函数节流.md",
+    "前端/006.网络/009.文件下载、上传、断点续传.md",
+    "前端/003.JavaScript/004.实践与应用/008.大文件上传-分片上传+断点续传+Worker线程计算Hash.md",
+    "代码片段/001.js/003.SearchParams.md",
+    "设计模式/001.发布订阅.md",
     "代码片段/003.css/001.文本溢出省略.md",
+    "代码片段/001.js/009.sticky 模拟.md",
     "代码片段/003.css",
     "工具/001.Git/001.常见操作.md",
     "代码片段/001.js/008.canScroll.md",
@@ -230,7 +238,6 @@
     "代码片段/001.js/004.ResizeObserver.md",
     "代码片段/001.js/005.MutationObserver.md",
     "代码片段/001.js/006.关键词高亮.md",
-    "代码片段/001.js/003.SearchParams.md",
     "代码片段/001.js/002.file2url.md",
     "代码片段/001.js/001.刷新页面.md",
     "代码片段/002.ts/001.PartialByKeys.md",
@@ -244,13 +251,6 @@
     "英语/001.单词/002.词缀/001.前缀.md",
     "英语/001.单词/002.词缀/002.后缀.md",
     "英语/001.单词/001.词根/003.us-ut-uti-util.md",
-    "英语/001.单词/001.词根/001.port.md",
-    "英语/001.单词/001.词根/004.ag-act.md",
-    "英语/001.单词/001.词根/002.car-cur-cour.md",
-    "后端/003.中间件/Redis/021.listpack.md",
-    "英语/001.单词/001.词根/007.medi.md",
-    "英语/001.单词/001.词根/005.min-mini.md",
-    "英语/001.单词/001.词根/006.maj-max-magn.md",
     "英语/001.单词/002.词缀",
     "英语/001.单词/001.词根",
     "英语/001.单词",
