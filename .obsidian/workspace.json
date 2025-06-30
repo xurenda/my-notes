@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8e4c1ba305af1af9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "工具/003.Obsidian/002.代码块.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "002.代码块"
-            }
-          },
-          {
             "id": "9271e8b04f5e3fce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英语/001.单词/002.词缀/002.后缀.md",
+                "file": "前端/013.干货知识/006.移动端点击300ms延迟.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "002.后缀"
+              "title": "006.移动端点击300ms延迟"
             }
           }
         ]
@@ -131,13 +107,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工具/003.Obsidian/002.代码块.md",
+                "file": "前端/013.干货知识/006.移动端点击300ms延迟.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "002.代码块 的大纲"
+              "title": "006.移动端点击300ms延迟 的大纲"
             }
           },
           {
@@ -219,54 +195,54 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "8e4c1ba305af1af9",
+  "active": "9271e8b04f5e3fce",
   "lastOpenFiles": [
-    "前端/002.CSS/001.基础/002.属性值的计算过程.md",
+    "前端/013.干货知识/005.（转）前端知识点总结——VUE.md",
+    "前端/013.干货知识/004.（转）使用Flexible实现手淘H5页面的终端适配.md",
+    "前端/002.CSS/002.CSS 工程化/001.CSS 预处理语言：stylus.md",
+    "前端/002.CSS/001.基础/002.CSS Reset（CSS重置）.md",
+    "前端/002.CSS/002.CSS 工程化/002.Border.md",
+    "前端/002.CSS/001.基础/006.CSS 深入理解.md",
+    "前端/002.CSS/001.基础/assets/设置文本两端对齐效果.png",
+    "前端/013.干货知识/assets/跨域图片无法下载.gif",
+    "前端/013.干货知识/assets/跨域图片可下载.gif",
+    "前端/013.干货知识/assets/spellcheck=true效果.gif",
+    "前端/013.干货知识/assets/spellcheck=false效果.gif",
+    "前端/013.干货知识/assets/Pasted image 20231101174047.png",
+    "前端/013.干货知识/assets/Pasted image 20231101174037.png",
+    "前端/013.干货知识/assets/Pasted image 20231101173921.png",
+    "前端/013.干货知识/assets/Pasted image 20231101173913.png",
+    "前端/013.干货知识/assets/Pasted image 20231101173843.png",
+    "前端/002.CSS/001.基础/005.CSS TIPS.md",
+    "前端/013.干货知识/006.移动端点击300ms延迟.md",
+    "前端/002.CSS/001.基础/003.CSS 布局（Flex & Grid）.md",
+    "前端/002.CSS/001.基础/001.属性值的计算过程.md",
+    "前端/002.CSS/001.基础/assets",
+    "前端/013.干货知识/002.个人的 JS 写法规范.md",
+    "前端/013.干货知识/001.Web API.md",
+    "设计模式/001.发布订阅.md",
+    "前端/002.CSS/001.基础/004.position-sticky.md",
+    "代码片段/001.js/009.sticky 模拟.md",
+    "代码片段/003.css/001.文本溢出省略.md",
     "工具/003.Obsidian/002.代码块.md",
     "工具/003.Obsidian/001.Callouts.md",
     "前端/003.JavaScript/004.实践与应用/001.函数防抖与函数节流.md",
     "前端/006.网络/009.文件下载、上传、断点续传.md",
     "前端/003.JavaScript/004.实践与应用/008.大文件上传-分片上传+断点续传+Worker线程计算Hash.md",
     "代码片段/001.js/003.SearchParams.md",
-    "设计模式/001.发布订阅.md",
-    "代码片段/003.css/001.文本溢出省略.md",
-    "代码片段/001.js/009.sticky 模拟.md",
     "代码片段/003.css",
     "工具/001.Git/001.常见操作.md",
     "代码片段/001.js/008.canScroll.md",
     "代码片段/001.js/007.removeChild 安全处理.md",
     "代码片段/001.js/004.ResizeObserver.md",
-    "代码片段/001.js/005.MutationObserver.md",
-    "代码片段/001.js/006.关键词高亮.md",
-    "代码片段/001.js/002.file2url.md",
-    "代码片段/001.js/001.刷新页面.md",
-    "代码片段/002.ts/001.PartialByKeys.md",
     "代码片段/002.ts",
     "代码片段/001.js",
-    "工具/001.Git/002.commit message 规范.md",
-    "英语/001.单词/001.词根/009.man.md",
     "代码片段",
-    "英语/001.单词/000.目录.md",
-    "英语/001.单词/001.词根/008.press.md",
-    "英语/001.单词/002.词缀/001.前缀.md",
-    "英语/001.单词/002.词缀/002.后缀.md",
-    "英语/001.单词/001.词根/003.us-ut-uti-util.md",
     "英语/001.单词/002.词缀",
     "英语/001.单词/001.词根",
     "英语/001.单词",
-    "未归档/doc/assets/Roadmap.png",
-    "未归档/doc/assets/JIMU 技术架构.png",
-    "未归档/doc/assets/JIMU 低代码建设技术架构.png",
     "未归档/doc/assets",
     "未归档/doc",
-    "数据结构与算法/004.左程云算法通关/002.必备/assets/Pasted image 20240202150701.png",
-    "数据结构与算法/004.左程云算法通关/002.必备/assets/Pasted image 20240305111333.png",
-    "数据结构与算法/004.左程云算法通关/002.必备/assets/Pasted image 20231229154245.png",
-    "数据结构与算法/004.左程云算法通关/002.必备/assets/Pasted image 20231231154254.png",
-    "数据结构与算法/004.左程云算法通关/002.必备/assets/Pasted image 20240102155843.png",
-    "数据结构与算法/004.左程云算法通关/002.必备/assets/Pasted image 20240111150908.png",
-    "数据结构与算法/004.左程云算法通关/002.必备/assets/Pasted image 20240111150952.png",
-    "数学/初中数学/第2部分 方程与不等式/第2课时 一元二次方程.pdf",
     "未命名.canvas",
     "前端学习，漫漫长路/未命名.canvas",
     "数据结构与算法/代码随想录/链表/未命名.canvas"
