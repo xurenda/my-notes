@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "db7bfff385be3ac4",
+        "id": "90b81146da8d4286",
         "type": "tabs",
         "children": [
           {
-            "id": "9271e8b04f5e3fce",
+            "id": "f3f6b7668ed7c4db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/013.干货知识/006.移动端点击300ms延迟.md",
+                "file": "前端/003.JavaScript/001.语言与通用/007.作用域.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "006.移动端点击300ms延迟"
+              "title": "007.作用域"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"able 后缀\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -107,13 +107,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/013.干货知识/006.移动端点击300ms延迟.md",
+                "file": "前端/003.JavaScript/001.语言与通用/007.作用域.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "006.移动端点击300ms延迟 的大纲"
+              "title": "007.作用域 的大纲"
             }
           },
           {
@@ -195,54 +195,54 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "9271e8b04f5e3fce",
+  "active": "f3f6b7668ed7c4db",
   "lastOpenFiles": [
-    "前端/013.干货知识/005.（转）前端知识点总结——VUE.md",
-    "前端/013.干货知识/004.（转）使用Flexible实现手淘H5页面的终端适配.md",
-    "前端/002.CSS/002.CSS 工程化/001.CSS 预处理语言：stylus.md",
-    "前端/002.CSS/001.基础/002.CSS Reset（CSS重置）.md",
-    "前端/002.CSS/002.CSS 工程化/002.Border.md",
-    "前端/002.CSS/001.基础/006.CSS 深入理解.md",
+    "前端/003.JavaScript/001.语言与通用/008.原型与原型链.md",
+    "前端/003.JavaScript/001.语言与通用/007.作用域.md",
+    "前端/003.JavaScript/001.语言与通用/006.Generator 函数.md",
+    "工具/003.Obsidian/001.Callouts.md",
+    "前端/003.JavaScript/001.语言与通用/005.函数.md",
+    "前端/003.JavaScript/001.语言与通用/014.元编程.md",
+    "代码片段/001.js/010.promise 限制最大并发.md",
+    "代码片段/003.css/001.文本溢出省略.md",
+    "前端/003.JavaScript/001.语言与通用/drawing/函数运行的三种状态.excalidraw.svg",
+    "前端/003.JavaScript/001.语言与通用/001.词法结构.md",
+    "前端/003.JavaScript/001.语言与通用/drawing/函数运行的三种状态.excalidraw.md",
+    "前端/003.JavaScript/001.语言与通用/drawing/二进制数据.excalidraw.md",
+    "前端/003.JavaScript/001.语言与通用/drawing/二进制数据.excalidraw.svg",
+    "前端/003.JavaScript/004.实践与应用/008.大文件上传-分片上传+断点续传+Worker线程计算Hash.md",
+    "工具/001.Git/002.commit message 规范.md",
+    "前端/003.JavaScript/001.语言与通用/002.数据类型.md",
+    "前端/003.JavaScript/001.语言与通用/003.变量与函数声明.md",
+    "前端/003.JavaScript/001.语言与通用/004.表达式与运算符.md",
+    "前端/003.JavaScript/001.语言与通用/009.事件循环.md",
+    "后端/001.Java/001.JavaSE 语言基础/题目与扩展/010.多线程.md",
+    "后端/001.Java/001.JavaSE 语言基础/题目与扩展/005.数组.md",
+    "前端/003.JavaScript/004.实践与应用/004.定高虚拟列表.md",
+    "后端/001.Java/004.SSM/002.SpringFramework实战指南.md",
+    "前端/003.JavaScript/001.语言与通用/013.模块化.md",
+    "前端/004.TypeScript/000.TS 速览.md",
+    "前端/004.TypeScript/001.官方文档/000.文档信息.md",
+    "前端/004.TypeScript/001.官方文档/001.手册/001.常用类型.md",
+    "前端/006.网络/021.小知识-localhost 设置二级域名.md",
+    "前端/006.网络/assets/Pasted image 20250701143029.png",
+    "数据结构与算法/004.左程云算法通关/002.必备/drawing/01bfs.excalidraw.svg",
+    "数据结构与算法/004.左程云算法通关/002.必备/drawing/01bfs 为什么不能用传统 bfs.excalidraw.svg",
+    "前端/003.JavaScript/001.语言与通用/drawing",
+    "架构设计/assets/Pasted image 20250630204545.png",
+    "架构设计/assets",
+    "架构设计",
     "前端/002.CSS/001.基础/assets/设置文本两端对齐效果.png",
     "前端/013.干货知识/assets/跨域图片无法下载.gif",
     "前端/013.干货知识/assets/跨域图片可下载.gif",
     "前端/013.干货知识/assets/spellcheck=true效果.gif",
-    "前端/013.干货知识/assets/spellcheck=false效果.gif",
-    "前端/013.干货知识/assets/Pasted image 20231101174047.png",
-    "前端/013.干货知识/assets/Pasted image 20231101174037.png",
-    "前端/013.干货知识/assets/Pasted image 20231101173921.png",
-    "前端/013.干货知识/assets/Pasted image 20231101173913.png",
-    "前端/013.干货知识/assets/Pasted image 20231101173843.png",
-    "前端/002.CSS/001.基础/005.CSS TIPS.md",
-    "前端/013.干货知识/006.移动端点击300ms延迟.md",
-    "前端/002.CSS/001.基础/003.CSS 布局（Flex & Grid）.md",
-    "前端/002.CSS/001.基础/001.属性值的计算过程.md",
     "前端/002.CSS/001.基础/assets",
-    "前端/013.干货知识/002.个人的 JS 写法规范.md",
-    "前端/013.干货知识/001.Web API.md",
-    "设计模式/001.发布订阅.md",
-    "前端/002.CSS/001.基础/004.position-sticky.md",
-    "代码片段/001.js/009.sticky 模拟.md",
-    "代码片段/003.css/001.文本溢出省略.md",
-    "工具/003.Obsidian/002.代码块.md",
-    "工具/003.Obsidian/001.Callouts.md",
-    "前端/003.JavaScript/004.实践与应用/001.函数防抖与函数节流.md",
-    "前端/006.网络/009.文件下载、上传、断点续传.md",
-    "前端/003.JavaScript/004.实践与应用/008.大文件上传-分片上传+断点续传+Worker线程计算Hash.md",
-    "代码片段/001.js/003.SearchParams.md",
     "代码片段/003.css",
-    "工具/001.Git/001.常见操作.md",
-    "代码片段/001.js/008.canScroll.md",
-    "代码片段/001.js/007.removeChild 安全处理.md",
-    "代码片段/001.js/004.ResizeObserver.md",
     "代码片段/002.ts",
     "代码片段/001.js",
     "代码片段",
     "英语/001.单词/002.词缀",
     "英语/001.单词/001.词根",
-    "英语/001.单词",
-    "未归档/doc/assets",
-    "未归档/doc",
     "未命名.canvas",
     "前端学习，漫漫长路/未命名.canvas",
     "数据结构与算法/代码随想录/链表/未命名.canvas"
