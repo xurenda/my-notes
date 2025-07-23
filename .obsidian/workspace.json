@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4e1875b199688000",
+            "id": "8431d0a1a975d16e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/012.前端架构/022.前端工程化深度实践：构建、发布、CICD 流程指南.md",
+                "file": "前端/008.React/002.从零实现 React18/001.搭建项目架构.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "022.前端工程化深度实践：构建、发布、CICD 流程指南"
-            }
-          },
-          {
-            "id": "8431d0a1a975d16e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "工具/002.Markdown/003.Mermaid.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "003.Mermaid"
+              "title": "001.搭建项目架构"
             }
           }
         ]
@@ -131,13 +107,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/012.前端架构/022.前端工程化深度实践：构建、发布、CICD 流程指南.md",
+                "file": "前端/008.React/002.从零实现 React18/001.搭建项目架构.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "022.前端工程化深度实践：构建、发布、CICD 流程指南 的大纲"
+              "title": "001.搭建项目架构 的大纲"
             }
           },
           {
@@ -219,54 +195,54 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "4e1875b199688000",
+  "active": "8431d0a1a975d16e",
   "lastOpenFiles": [
-    "前端/012.前端架构/021.前端权限体系设计：动态路由、按钮级权限与灰度控制.md",
-    "前端/012.前端架构/022.前端工程化深度实践：构建、发布、CICD 流程指南.md",
-    "前端/012.前端架构/020.模块拆分、包管理与微前端架构实战.md",
-    "工具/002.Markdown/003.Mermaid.md",
-    "前端/012.前端架构/019.高并发与大数据量下的前端架构优化.md",
-    "前端/003.JavaScript/004.实践与应用/003.高性能渲染十万条数据.md",
+    "前端/008.React/002.从零实现 React18/002.JSX 转换.md",
+    "前端/008.React/002.从零实现 React18/001.搭建项目架构.md",
+    "工程架构/001.DDD-领域驱动设计.md",
+    "代码片段/003.css/001.文本溢出省略.md",
+    "代码片段/002.ts/001.PartialByKeys.md",
+    "代码片段/001.js/012.number 格式化输出.md",
+    "代码片段/001.js/011.可取消的 promise.md",
     "代码片段/001.js/010.promise 限制最大并发.md",
-    "前端/012.前端架构/018.前端测试体系构建：组件测试、集成测试与 E2E.md",
-    "前端/012.前端架构/017.前端缓存设计全攻略：本地缓存 + 接口缓存.md",
-    "前端/012.前端架构/009.前端日志埋点系统的架构设计.md",
-    "前端/012.前端架构/011.统一状态管理架构.md",
-    "前端/012.前端架构/004.模块解耦与职责分离.md",
-    "前端/012.前端架构/002.前端架构三要素：模块化、工程化、平台化.md",
-    "前端/012.前端架构/003.大型项目中的目录结构设计与复用策略.md",
-    "前端/012.前端架构/007.模块联邦和微前端架构实战.md",
-    "前端/012.前端架构/016.前端性能优化全景图与落地方案.md",
-    "前端/012.前端架构/015.前端可配置化系统设计：从硬编码到可视化配置.md",
-    "前端/012.前端架构/014.前端多语言国际化架构设计.md",
-    "前端/012.前端架构/013.表格系统架构：列配置、嵌套数据、复杂交互.md",
-    "前端/012.前端架构/012.表单系统设计：动态表单 + 校验 + 可配置化.md",
-    "前端/012.前端架构/010.前端权限系统的设计与实现.md",
-    "前端/012.前端架构/005.组件架构设计模式：可复用、可扩展、可插拔.md",
-    "前端/012.前端架构/008.前端 CICD 流程全解析与实战部署.md",
-    "前端/012.前端架构/006.从零配置到高可控：构建你的前端脚手架.md",
-    "前端/012.前端架构/001.为什么需要成为前端架构师.md",
-    "前端/013.综合/010.用户无操作监测方案.md",
+    "代码片段/001.js/009.sticky 模拟.md",
+    "代码片段/001.js/008.canScroll.md",
+    "代码片段/001.js/007.removeChild 安全处理.md",
+    "代码片段/001.js/006.关键词高亮.md",
+    "代码片段/001.js/005.MutationObserver.md",
+    "代码片段/001.js/004.ResizeObserver.md",
+    "代码片段/001.js/003.SearchParams.md",
+    "代码片段/001.js/002.file2url.md",
+    "前端/014.综合/013.中台 VS. 后台.md",
+    "index.md",
+    "README.md",
+    "代码片段/001.js/001.刷新页面.md",
+    "前端/003.JavaScript/004.实践与应用/016.手写系列：深拷贝.md",
+    "前端/003.JavaScript/004.实践与应用/015.手写系列：函数防抖与节流.md",
+    "前端/003.JavaScript/004.实践与应用/014.手写系列：Object.create.md",
+    "前端/003.JavaScript/004.实践与应用/013.手写系列：instanceof 操作符.md",
+    "前端/003.JavaScript/004.实践与应用/012.手写系列：new 操作符.md",
+    "前端/003.JavaScript/004.实践与应用/011.手写系列：call、apply、bind.md",
+    "前端/013.开源库/未命名",
+    "前端/013.开源库",
+    "前端/003.JavaScript/002.运行时之浏览器/assets/Pasted image 20250717182812.png",
+    "前端/003.JavaScript/002.运行时之浏览器/assets/Pasted image 20250717182615.png",
+    "前端/003.JavaScript/002.运行时之浏览器/assets/Pasted image 20250717181656.png",
+    "前端/009.性能优化/assets/Pasted image 20250717152826.png",
+    "前端/009.性能优化/assets/Pasted image 20250717152735.png",
+    "前端/009.性能优化/assets/Pasted image 20250717152528.png",
+    "前端/009.性能优化/assets/Pasted image 20250717152453.png",
+    "前端/009.性能优化/assets/Pasted image 20250717152334.png",
+    "前端/009.性能优化/assets/Pasted image 20250717152257.png",
+    "前端/009.性能优化/assets/Pasted image 20250717152141.png",
     "前端/007.工程化/004.Webpack & Vite",
-    "前端/002.CSS/001.基础/assets/Pasted image 20250715155628.png",
-    "前端/002.CSS/001.基础/assets/Pasted image 20250715153835.png",
-    "前端/013.综合/assets/绕过进阶版无限 debuger.webp",
-    "前端/013.综合/assets/绕过基础版无限 debuger.webp",
     "前端/012.前端架构",
     "软技能",
-    "前端/013.综合/assets/Pasted image 20250711112231.png",
-    "前端/013.综合/assets/Pasted image 20250711112140.png",
-    "前端/013.综合/assets/Pasted image 20250711105004.png",
-    "前端/013.综合/assets/Pasted image 20250711102302.png",
-    "前端/013.综合/assets/Pasted image 20250710203754.png",
-    "前端/013.综合/assets/Pasted image 20250710203327.png",
     "前端/009.Vue",
     "前端/004.TypeScript/001.基础",
     "LLM/001.Happy-LLM/assets",
     "LLM/001.开源大模型食用指南",
     "LLM/001.Happy-LLM",
-    "LLM",
-    "前端/003.JavaScript/001.语言与通用/drawing",
     "未命名.canvas",
     "前端学习，漫漫长路/未命名.canvas",
     "数据结构与算法/代码随想录/链表/未命名.canvas"
