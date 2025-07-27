@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "224224b5cc55f06d",
+        "id": "705f2c6a8b41f9d4",
         "type": "tabs",
         "children": [
           {
-            "id": "378a0ee99144734e",
+            "id": "08513073833344cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "005.职场实践/004.技术娱乐圈/001.这可能是 2025 年最荒谬的前端灾难.md",
+                "file": "004.LLM/001.生成式人工智能导论/000.课程内容说明.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "001.这可能是 2025 年最荒谬的前端灾难"
+              "title": "000.课程内容说明"
             }
           }
         ]
@@ -107,13 +107,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "005.职场实践/004.技术娱乐圈/001.这可能是 2025 年最荒谬的前端灾难.md",
+                "file": "004.LLM/001.生成式人工智能导论/000.课程内容说明.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "001.这可能是 2025 年最荒谬的前端灾难 的大纲"
+              "title": "000.课程内容说明 的大纲"
             }
           },
           {
@@ -183,28 +183,42 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "oz-clear-unused-images:Clear Unused Images": true,
-      "cmdr:导出为 PDF": true,
-      "obsidian-excalidraw-plugin:新建绘图文件": true,
       "switcher:打开快速切换": true,
       "graph:查看关系图谱": true,
       "command-palette:打开命令面板": true,
       "templates:插入模板": true,
       "workspaces:管理工作区布局": true,
       "random-note:开始漫游笔记": true,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "cmdr:导出为 PDF": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "378a0ee99144734e",
+  "active": "08513073833344cb",
   "lastOpenFiles": [
+    "004.LLM/001.生成式人工智能导论/002.今日的生成式 AI 厉害在哪里.md",
+    "004.LLM/001.生成式人工智能导论/001.什么是生成式 AI.md",
+    "004.LLM/001.生成式人工智能导论/assets/Pasted image 20250727223509.png",
+    "004.LLM/001.生成式人工智能导论/assets/Pasted image 20250727223159.png",
+    "004.LLM/001.生成式人工智能导论/assets/Pasted image 20250727223017.png",
+    "004.LLM/001.生成式人工智能导论/assets/Pasted image 20250727222536.png",
+    "004.LLM/001.生成式人工智能导论/assets/Pasted image 20250727222410.png",
+    "004.LLM/001.生成式人工智能导论/assets/Pasted image 20250727222313.png",
+    "004.LLM/001.生成式人工智能导论/assets/Pasted image 20250727222226.png",
+    "004.LLM/001.生成式人工智能导论/assets/Pasted image 20250727220107.png",
+    "004.LLM/001.生成式人工智能导论/assets/Pasted image 20250727215827.png",
+    "004.LLM/001.生成式人工智能导论/assets/Pasted image 20250727215545.png",
+    "002.前端/014.综合/014.中台 VS. 后台.md",
+    "004.LLM/001.生成式人工智能导论/000.课程内容说明.md",
+    "005.职场实践/004.技术娱乐圈/001.这可能是 2025 年最荒谬的前端灾难.md",
+    "004.LLM/001.生成式人工智能导论/assets",
+    "004.LLM/001.生成式人工智能导论",
+    "README.md",
     "index.md",
     "002.前端/012.前端架构/019.高并发与大数据量下的前端架构优化.md",
     "005.职场实践/001.代码片段/001.js/010.promise 限制最大并发.md",
     "005.职场实践/001.代码片段/001.js/011.可取消的 promise.md",
-    "005.职场实践/004.技术娱乐圈/001.这可能是 2025 年最荒谬的前端灾难.md",
-    "005.职场实践/004.技术娱乐圈/assets/Pasted image 20250725114138.png",
-    "005.职场实践/004.技术娱乐圈/assets/Pasted image 20250725113554.png",
-    "005.职场实践/004.技术娱乐圈/assets/Pasted image 20250725112049.png",
     "005.职场实践/004.技术娱乐圈/assets",
     "001.计算机基础/002.数据结构与算法/学习规划.md",
     "计算机基础/Drawing.excalidraw.md",
@@ -213,36 +227,21 @@
     "007.数学/学习规划.md",
     "数学/初中数学/初中数学.md",
     "008.英语/001.单词/000.目录.md",
-    "README.md",
     "001.计算机基础",
     "未归档/fastgpt.md",
     "005.职场实践/003.软技能/001.Leader-技术选型、排期、带新人.md",
     "002.前端/014.综合/016.Base64.md",
-    "前端/014.综合/assets/Pasted image 20250725114138.png",
-    "前端/014.综合/assets/Pasted image 20250725113554.png",
-    "前端/014.综合/assets/Pasted image 20250725112049.png",
     "002.前端/013.开源库/004.ZoteroReader.md",
     "002.前端/014.综合/015.PDF reader and annotator.md",
     "002.前端/013.开源库/005.SnapDOM：网页截图.md",
-    "002.前端/013.开源库/assets/Pasted image 20250725104318.png",
     "002.前端/013.开源库/assets",
     "002.前端/013.开源库/003.dndkit：React 拖放工具包.md",
     "002.前端/003.JavaScript/001.语言与通用/012.二进制数据.md",
     "006.工具/003.Obsidian/001.Callouts.md",
     "002.前端/006.网络/012.CSRF 攻击.md",
-    "002.前端/006.网络/005.JWT.md",
-    "002.前端/006.网络/009.文件下载、上传、断点续传.md",
-    "002.前端/007.工程化/004.Webpack & Vite/003.Vite 为何速度碾压 Webpack.md",
-    "002.前端/009.性能优化/006.前端 JS 瘦身.md",
-    "002.前端/014.综合/008.B 站前端错误监控实践.md",
-    "002.前端/014.综合/assets/Pasted image 20250724203325.png",
-    "002.前端/014.综合/assets/Pasted image 20250724195950.png",
-    "002.前端/014.综合/assets/Pasted image 20250724195936.png",
     "前端/003.JavaScript/002.运行时之浏览器/assets/chrome 124.0.6367.62.awebp",
     "前端/013.开源库/未命名",
     "002.前端/013.开源库",
-    "002.前端/007.工程化/004.Webpack & Vite",
-    "002.前端/012.前端架构",
     "未命名.canvas",
     "前端学习，漫漫长路/未命名.canvas",
     "数据结构与算法/代码随想录/链表/未命名.canvas"
