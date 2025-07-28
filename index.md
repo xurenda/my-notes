@@ -50,7 +50,7 @@ GitHub 地址：[https://github.com/xurenda/my-notes](https://github.com/xurenda
 
 ## LLM 系统学习
 
-- [[004.LLM/002.Happy-LLM/000.项目信息|笔记]]
+- [[004.AI/002.Happy-LLM/000.项目信息|笔记]]
 - 优先级：⭐️⭐️⭐️⭐️⭐️
 
 ## 英语单词
