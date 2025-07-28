@@ -1,7 +1,7 @@
 ---
 title: My Notes
 date: 2023-11-24 16:47
-modified: 2025-07-25 14:39
+modified: 2025-07-27 18:45
 ---
 
 > [!warning] 注意
@@ -50,7 +50,7 @@ GitHub 地址：[https://github.com/xurenda/my-notes](https://github.com/xurenda
 
 ## LLM 系统学习
 
-- [[004.LLM/001.Happy-LLM/000.项目信息|笔记]]
+- [[004.LLM/002.Happy-LLM/000.项目信息|笔记]]
 - 优先级：⭐️⭐️⭐️⭐️⭐️
 
 ## 英语单词
