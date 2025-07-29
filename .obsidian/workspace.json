@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "002.前端/003.JavaScript/005.ES6+/006.ES10 (2019).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "006.ES10 (2019)"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002.前端/003.JavaScript/005.ES6+/002.ES6(2015).md",
+                "file": "002.前端/003.JavaScript/005.ES6+/002.ES6 (2015).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "002.ES6(2015)"
+              "title": "002.ES6 (2015)"
             }
           },
           {
@@ -179,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "002.前端/003.JavaScript/005.ES6+/006.ES10 (2019).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "index 的大纲"
+              "title": "006.ES10 (2019) 的大纲"
             }
           },
           {
@@ -269,10 +269,14 @@
   },
   "active": "f8f1f590d43ab0b5",
   "lastOpenFiles": [
-    "003.后端/001.Java/Java 路线.md",
+    "002.前端/003.JavaScript/005.ES6+/005.ES9 (2018).md",
+    "002.前端/003.JavaScript/005.ES6+/006.ES10 (2019).md",
+    "002.前端/003.JavaScript/005.ES6+/002.ES6 (2015).md",
+    "002.前端/003.JavaScript/005.ES6+/004.ES8 (2017).md",
+    "002.前端/003.JavaScript/005.ES6+/003.ES7 (2016).md",
     "index.md",
+    "003.后端/001.Java/Java 路线.md",
     "003.后端/001.Java/001.JavaSE 语言基础/笔记/001.Java 语言概述.md",
-    "002.前端/003.JavaScript/005.ES6+/002.ES6(2015).md",
     "004.AI/002.Happy-LLM/assets/图7.9 Agent 工作流程.png",
     "004.AI/002.Happy-LLM/assets/图7.8 效果示意图.png",
     "004.AI/002.Happy-LLM/assets/图7.7 Agent 工作原理.png",
@@ -306,10 +310,6 @@
     "002.前端/003.JavaScript/001.语言与通用/010.Generator 函数.md",
     "002.前端/003.JavaScript/001.语言与通用/009.异步处理与 Promise.md",
     "未归档/().md",
-    "002.前端/003.JavaScript/001.语言与通用/015.元编程.md",
-    "002.前端/003.JavaScript/005.ES6+/001.ES5.md",
-    "002.前端/003.JavaScript/001.语言与通用/003.变量与函数声明.md",
-    "002.前端/003.JavaScript/001.语言与通用/006.作用域与 this.md",
     "004.LLM/002.Happy-LLM/assets",
     "004.LLM/002.Happy-LLM",
     "004.LLM/001.生成式人工智能导论/assets",
