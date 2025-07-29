@@ -5,6 +5,7 @@
     "children": [
       {
         "id": "84ab364611eea1f7",
+        "id": "705f2c6a8b41f9d4",
         "type": "tabs",
         "children": [
           {
@@ -57,11 +58,13 @@
           },
           {
             "id": "e3343ab76dd14914",
+            "id": "08513073833344cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "002.前端/003.JavaScript/001.语言与通用/009.异步处理与 Promise.md",
+                "file": "004.AI/001.生成式人工智能导论/003.提示工程.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -77,6 +80,31 @@
               },
               "icon": "lucide-file",
               "title": "009.异步处理与 Promise"
+              "title": "003.提示工程"
+            }
+          },
+          {
+            "id": "e64b1e60a5a58763",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "004.AI/001.生成式人工智能导论/002.今日的生成式 AI 厉害在哪里.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "002.今日的生成式 AI 厉害在哪里"
             }
           }
         ]
@@ -139,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5
+    "width": 283.5
   },
   "right": {
     "id": "5e9aaa0ee861ee89",
@@ -156,12 +184,14 @@
               "type": "outline",
               "state": {
                 "file": "002.前端/003.JavaScript/005.ES6+/002.ES6(2015).md",
+                "file": "004.AI/001.生成式人工智能导论/003.提示工程.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "002.ES6(2015) 的大纲"
+              "title": "003.提示工程 的大纲"
             }
           },
           {
@@ -244,53 +274,54 @@
     }
   },
   "active": "f8f1f590d43ab0b5",
+  "active": "08513073833344cb",
   "lastOpenFiles": [
-    "002.前端/003.JavaScript/001.语言与通用/011.迭代协议.md",
-    "002.前端/003.JavaScript/001.语言与通用/010.Generator 函数.md",
-    "002.前端/003.JavaScript/005.ES6+/002.ES6(2015).md",
-    "002.前端/003.JavaScript/001.语言与通用/009.异步处理与 Promise.md",
-    "未归档/().md",
-    "002.前端/003.JavaScript/001.语言与通用/015.元编程.md",
-    "002.前端/003.JavaScript/005.ES6+/001.ES5.md",
-    "002.前端/003.JavaScript/001.语言与通用/003.变量与函数声明.md",
-    "002.前端/003.JavaScript/001.语言与通用/006.作用域与 this.md",
-    "002.前端/003.JavaScript/004.实践与应用/017.手写系列：ES5 实现继承.md",
+    "004.AI/001.生成式人工智能导论/004.延申：能够使用工具的 AI.md",
+    "004.AI/001.生成式人工智能导论/003.提示工程.md",
+    "004.AI/001.生成式人工智能导论/002.今日的生成式 AI 厉害在哪里.md",
+    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250728234528.png",
+    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250728234224.png",
+    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250728234003.png",
+    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250728233858.png",
+    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250728233821.png",
+    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250728233738.png",
+    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250728233704.png",
+    "004.AI/001.生成式人工智能导论/000.课程内容说明.md",
+    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250728232917.png",
+    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250728232846.png",
+    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250728232452.png",
+    "002.前端/014.综合/014.中台 VS. 后台.md",
     "002.前端/014.综合/015.PDF reader and annotator.md",
-    "002.前端/013.开源库/004.ZoteroReader.md",
-    "002.前端/003.JavaScript/004.实践与应用/018.手写系列：Promise.md",
-    "003.后端/001.Java/001.JavaSE 语言基础/笔记/007.面向对象编程-进阶.md",
-    "003.后端/001.Java/001.JavaSE 语言基础/笔记/008.面向对象编程-高级.md",
-    "index.md",
-    "004.LLM/001.生成式人工智能导论/000.课程内容说明.md",
-    "004.LLM/001.生成式人工智能导论/002.今日的生成式 AI 厉害在哪里.md",
-    "004.LLM/001.生成式人工智能导论/001.什么是生成式 AI.md",
-    "002.前端/003.JavaScript/004.实践与应用/019.手写系列：promise 限制最大并发.md",
+    "002.前端/014.综合/017.网页渲染方案.md",
+    "002.前端/012.前端架构/023.可配置平台架构设计：从组件化到 DSL 的演进之路.md",
+    "002.前端/012.前端架构/024.前端性能优化体系：从指标定义到监控闭环的实战指南.md",
+    "005.职场实践/004.技术娱乐圈/002.这可能是 2025 年最荒谬的前端灾难.md",
+    "005.职场实践/004.技术娱乐圈/001.全新自主研发的超强CEC-IDE，打破国外垄断.md",
+    "005.职场实践/001.代码片段/001.js/010.number 格式化输出.md",
     "002.前端/003.JavaScript/004.实践与应用/020.手写系列：可取消的 promise.md",
-    "004.LLM/002.Happy-LLM/assets/图7.9 Agent 工作流程.png",
-    "004.LLM/002.Happy-LLM/assets/图7.8 效果示意图.png",
-    "004.LLM/002.Happy-LLM/assets/图7.7 Agent 工作原理.png",
-    "004.LLM/002.Happy-LLM/assets/图7.6 RAG 流程图.png",
-    "004.LLM/002.Happy-LLM/assets/图7.5 TinyRAG 项目结构.png",
-    "004.LLM/002.Happy-LLM/assets/图7.4 垂直领域榜单.png",
-    "004.LLM/002.Happy-LLM/assets/图7.3 OpenCompass.png",
-    "004.LLM/002.Happy-LLM/assets/图7.2 Lmsys Chatbot Arena Leaderboard.png",
-    "004.LLM/002.Happy-LLM/assets/图7.1 Open LLM Leaderboard.png",
-    "004.LLM/002.Happy-LLM/assets/图6.6 LoRA.png",
-    "004.LLM/002.Happy-LLM/assets",
-    "004.LLM/002.Happy-LLM/008.第七章 大模型应用.md",
-    "004.LLM/002.Happy-LLM/007.第六章 大模型训练流程实践.md",
-    "004.LLM/002.Happy-LLM/006.第五章 动手搭建大模型.md",
-    "004.LLM/002.Happy-LLM/005.第四章 大语言模型.md",
-    "004.LLM/002.Happy-LLM/004.第三章 预训练语言模型.md",
-    "004.LLM/002.Happy-LLM",
-    "004.LLM/001.生成式人工智能导论/assets",
-    "004.LLM/001.生成式人工智能导论",
+    "002.前端/003.JavaScript/004.实践与应用/019.手写系列：promise 限制最大并发.md",
+    "002.前端/003.JavaScript/004.实践与应用/018.手写系列：Promise.md",
+    "002.前端/003.JavaScript/004.实践与应用/017.手写系列：ES5 实现继承.md",
+    "002.前端/003.JavaScript/004.实践与应用/016.手写系列：深、浅拷贝.md",
+    "002.前端/003.JavaScript/004.实践与应用/001.动态运行 JS 字符串.md",
+    "002.前端/003.JavaScript/001.语言与通用/014.元编程.md",
+    "002.前端/003.JavaScript/001.语言与通用/013.Object.defineProperty.md",
+    "002.前端/003.JavaScript/001.语言与通用/012.模块化.md",
+    "002.前端/003.JavaScript/001.语言与通用/011.二进制数据.md",
+    "004.AI/001.生成式人工智能导论/001.什么是生成式 AI.md",
+    "005.职场实践/004.技术娱乐圈/001.这可能是 2025 年最荒谬的前端灾难.md",
+    "004.AI/001.生成式人工智能导论/assets",
+    "004.AI/001.生成式人工智能导论",
+    "README.md",
+    "index.md",
     "005.职场实践/004.技术娱乐圈/assets",
     "005.职场实践/004.技术娱乐圈",
     "005.职场实践",
     "001.计算机基础",
     "002.前端/013.开源库/assets",
     "前端/003.JavaScript/002.运行时之浏览器/assets/chrome 124.0.6367.62.awebp",
+    "前端/013.开源库/未命名",
+    "002.前端/013.开源库",
     "未命名.canvas",
     "前端学习，漫漫长路/未命名.canvas",
     "数据结构与算法/代码随想录/链表/未命名.canvas"
