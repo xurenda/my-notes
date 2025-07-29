@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004.AI/001.生成式人工智能导论/003.提示工程.md",
+                "file": "004.AI/001.生成式人工智能导论/006.LLM 训练史 1：预训练.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "003.提示工程"
+              "title": "006.LLM 训练史 1：预训练"
             }
           },
           {
@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004.AI/001.生成式人工智能导论/002.今日的生成式 AI 厉害在哪里.md",
-                "mode": "preview",
+                "file": "004.AI/001.生成式人工智能导论/000.课程内容说明.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "002.今日的生成式 AI 厉害在哪里"
+              "title": "000.课程内容说明"
             }
           }
         ]
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "base64",
+                "query": "\"测试\" \"推论\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -131,13 +131,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004.AI/001.生成式人工智能导论/003.提示工程.md",
+                "file": "004.AI/001.生成式人工智能导论/006.LLM 训练史 1：预训练.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "003.提示工程 的大纲"
+              "title": "006.LLM 训练史 1：预训练 的大纲"
             }
           },
           {
@@ -221,20 +221,24 @@
   },
   "active": "08513073833344cb",
   "lastOpenFiles": [
-    "004.AI/001.生成式人工智能导论/004.延申：能够使用工具的 AI.md",
-    "004.AI/001.生成式人工智能导论/003.提示工程.md",
-    "004.AI/001.生成式人工智能导论/002.今日的生成式 AI 厉害在哪里.md",
-    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250728234528.png",
-    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250728234224.png",
-    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250728234003.png",
-    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250728233858.png",
-    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250728233821.png",
-    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250728233738.png",
-    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250728233704.png",
+    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250729235141.png",
+    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250729234701.png",
+    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250729234428.png",
+    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250729233406.png",
+    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250729233214.png",
+    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250729231659.png",
+    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250729231455.png",
+    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250729230927.png",
+    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250729230115.png",
+    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250729225055.png",
+    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250729224902.png",
     "004.AI/001.生成式人工智能导论/000.课程内容说明.md",
-    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250728232917.png",
-    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250728232846.png",
-    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250728232452.png",
+    "004.AI/001.生成式人工智能导论/006.LLM 训练史 1：预训练.md",
+    "004.AI/001.生成式人工智能导论/001.什么是生成式 AI.md",
+    "004.AI/001.生成式人工智能导论/002.今日的生成式 AI 厉害在哪里.md",
+    "004.AI/001.生成式人工智能导论/003.提示工程.md",
+    "004.AI/001.生成式人工智能导论/005.延申：由 AI 组成的社区.md",
+    "004.AI/001.生成式人工智能导论/004.延申：能够使用工具的 AI.md",
     "002.前端/014.综合/014.中台 VS. 后台.md",
     "002.前端/014.综合/015.PDF reader and annotator.md",
     "002.前端/014.综合/017.网页渲染方案.md",
@@ -253,12 +257,8 @@
     "002.前端/003.JavaScript/001.语言与通用/013.Object.defineProperty.md",
     "002.前端/003.JavaScript/001.语言与通用/012.模块化.md",
     "002.前端/003.JavaScript/001.语言与通用/011.二进制数据.md",
-    "004.AI/001.生成式人工智能导论/001.什么是生成式 AI.md",
-    "005.职场实践/004.技术娱乐圈/001.这可能是 2025 年最荒谬的前端灾难.md",
     "004.AI/001.生成式人工智能导论/assets",
     "004.AI/001.生成式人工智能导论",
-    "README.md",
-    "index.md",
     "005.职场实践/004.技术娱乐圈/assets",
     "005.职场实践/004.技术娱乐圈",
     "005.职场实践",
