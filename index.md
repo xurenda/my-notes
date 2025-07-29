@@ -1,7 +1,7 @@
 ---
 title: My Notes
 date: 2023-11-24 16:47
-modified: 2025-07-28 14:15
+modified: 2025-07-29 11:30
 ---
 
 > [!warning] 注意
@@ -50,8 +50,27 @@ GitHub 地址：[https://github.com/xurenda/my-notes](https://github.com/xurenda
 
 ## LLM 系统学习
 
-- [[004.AI/002.Happy-LLM/000.项目信息|笔记]]
+- [[000.课程内容说明|笔记]]
 - 优先级：⭐️⭐️⭐️⭐️⭐️
+
+## 现代 JavaScript 教程
+
+- [网址](https://zh.javascript.info/)
+- 优先级：⭐️⭐️⭐️
+
+## Node.js
+
+- [[001.介绍|笔记]]
+- 优先级：⭐️⭐️
+
+## Java 体系
+
+- [[Java 路线]]
+- 优先级：⭐️⭐️
+
+Java SE 语言核心 -> Java Web -> JDBC -> SSM -> SpringBoot -> SpringCloud（AliBaba）
+
+当前：笔记记到了 SSM
 
 ## 英语单词
 
@@ -59,7 +78,7 @@ GitHub 地址：[https://github.com/xurenda/my-notes](https://github.com/xurenda
 - [视频](https://www.bilibili.com/video/BV1aQ3EzSEgd/)
 - 优先级：⭐️
 
-下一步：语法、音标、...
+英语单词进行中，下一步：语法、音标、...
 
 ## 高中数学
 
