@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004.AI/001.生成式人工智能导论/007.LLM 训练史 2：指令微调.md",
+                "file": "004.AI/001.生成式人工智能导论/009.AI Agent.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "007.LLM 训练史 2：指令微调"
+              "title": "009.AI Agent"
+            }
+          },
+          {
+            "id": "0ec0e8caef0da6b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "006.工具/003.Obsidian/001.Callouts.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "001.Callouts"
             }
           }
         ]
@@ -63,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"测试\" \"推论\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -107,13 +131,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004.AI/001.生成式人工智能导论/007.LLM 训练史 2：指令微调.md",
+                "file": "004.AI/001.生成式人工智能导论/009.AI Agent.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "007.LLM 训练史 2：指令微调 的大纲"
+              "title": "009.AI Agent 的大纲"
             }
           },
           {
@@ -197,52 +221,51 @@
   },
   "active": "e64b1e60a5a58763",
   "lastOpenFiles": [
-    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250731133317.png",
-    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250731132649.png",
-    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250731132253.png",
-    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250731131731.png",
-    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250731131625.png",
-    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250731131552.png",
-    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250731131340.png",
-    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250731123312.png",
-    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250731122736.png",
-    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250730214640.png",
-    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250730214525.png",
-    "004.AI/001.生成式人工智能导论/006.LLM 训练史 1：预训练.md",
-    "004.AI/001.生成式人工智能导论/007.LLM 训练史 2：指令微调.md",
     "004.AI/001.生成式人工智能导论/005.延申：由 AI 组成的社区.md",
+    "004.AI/001.生成式人工智能导论/004.延申：能够使用工具的 AI.md",
+    "004.AI/001.生成式人工智能导论/009.AI Agent.md",
+    "004.AI/001.生成式人工智能导论/assets/Pasted image 20250802230019.png",
+    "004.AI/003.RAG/006.项目：中医临床诊疗智能助手.md",
+    "004.AI/003.RAG/001.RAG 工作流.md",
+    "004.AI/003.RAG/002.向量检索 & 向量数据库.md",
+    "004.AI/003.RAG/003.RAG 的缺陷与评估.md",
+    "004.AI/003.RAG/004.RAG 系统的进阶知识.md",
+    "004.AI/003.RAG/005.总结.md",
+    "006.工具/003.Obsidian/002.代码块.md",
+    "Extra/fonts/字体.md",
+    "006.工具/003.Obsidian/001.Callouts.md",
+    "002.前端/014.综合/014.中台 VS. 后台.md",
+    "未归档/未命名.md",
+    "004.AI/003.RAG/002.向量数据库.md",
+    "004.AI/003.RAG/assets/vector.png",
+    "004.AI/003.RAG/assets/table_rag.png",
+    "004.AI/003.RAG/assets/sim.png",
+    "004.AI/003.RAG/assets/sbert-rerank.png",
+    "004.AI/003.RAG/assets/sbert.png",
+    "004.AI/003.RAG/assets/rag.png",
+    "004.AI/003.RAG/assets/Pasted image 20250802161545.png",
+    "004.AI/003.RAG/assets/Pasted image 20250802161535.png",
+    "004.AI/003.RAG/assets/Pasted image 20250802161124.png",
+    "004.AI/003.RAG/assets/RAG.mp4",
+    "004.AI/003.RAG/assets/RAG 1.mp4",
+    "004.AI/001.生成式人工智能导论/008.LLM 训练史 3：强化学习.md",
+    "004.AI/002.Happy-LLM/001.前言.md",
+    "004.AI/003.RAG/assets",
+    "004.AI/002.Happy-LLM/002.第一章 NLP 基础概念.md",
+    "004.AI/003.RAG",
+    "004.AI/002.Happy-LLM/008.第七章 大模型应用.md",
+    "004.AI/001.生成式人工智能导论/001.什么是生成式 AI.md",
+    "004.AI/001.生成式人工智能导论/007.LLM 训练史 2：指令微调.md",
+    "004.AI/001.生成式人工智能导论/006.LLM 训练史 1：预训练.md",
     "002.前端/008.React/003.Next.js/003.Layouts and Pages.md",
     "002.前端/008.React/003.Next.js/assets",
     "002.前端/008.React/003.Next.js/002.项目结构.md",
     "002.前端/008.React/003.Next.js/001.安装.md",
-    "002.前端/008.React/003.Next.js/000.文档信息.md",
     "002.前端/008.React/003.Next.js",
-    "002.前端/003.JavaScript/001.语言与通用/011.迭代协议.md",
-    "004.AI/001.生成式人工智能导论/002.今日的生成式 AI 厉害在哪里.md",
-    "004.AI/001.生成式人工智能导论/001.什么是生成式 AI.md",
-    "004.AI/001.生成式人工智能导论/003.提示工程.md",
-    "004.AI/001.生成式人工智能导论/004.延申：能够使用工具的 AI.md",
-    "004.AI/001.生成式人工智能导论/000.课程内容说明.md",
-    "002.前端/013.开源库/004.ZoteroReader.md",
-    "002.前端/014.综合/015.PDF reader and annotator.md",
-    "未归档/().md",
-    "002.前端/003.JavaScript/005.ES6+/006.ES10 (2019).md",
-    "002.前端/003.JavaScript/005.ES6+/005.ES9 (2018).md",
-    "002.前端/003.JavaScript/001.语言与通用/008.事件循环.md",
-    "002.前端/003.JavaScript/001.语言与通用/007.原型与原型链.md",
-    "002.前端/003.JavaScript/001.语言与通用/006.作用域与 this.md",
-    "002.前端/014.综合/014.中台 VS. 后台.md",
-    "002.前端/014.综合/017.网页渲染方案.md",
-    "002.前端/012.前端架构/023.可配置平台架构设计：从组件化到 DSL 的演进之路.md",
-    "002.前端/012.前端架构/024.前端性能优化体系：从指标定义到监控闭环的实战指南.md",
     "004.AI/001.生成式人工智能导论/assets",
     "004.AI/001.生成式人工智能导论",
     "005.职场实践/004.技术娱乐圈/assets",
     "005.职场实践/004.技术娱乐圈",
-    "005.职场实践",
-    "001.计算机基础",
-    "002.前端/013.开源库/assets",
-    "前端/003.JavaScript/002.运行时之浏览器/assets/chrome 124.0.6367.62.awebp",
     "未命名.canvas",
     "前端学习，漫漫长路/未命名.canvas",
     "数据结构与算法/代码随想录/链表/未命名.canvas"
