@@ -1,7 +1,7 @@
 ---
 title: My Notes
 date: 2023-11-24 16:47
-modified: 2025-07-29 11:33
+modified: 2025-08-03 15:17
 ---
 
 > [!warning] 注意
@@ -50,7 +50,7 @@ GitHub 地址：[https://github.com/xurenda/my-notes](https://github.com/xurenda
 
 ## LLM 系统学习
 
-- [[000.课程内容说明|笔记]]
+- [[001.大模型学习路线]]
 - 优先级：⭐️⭐️⭐️⭐️⭐️
 
 ## 现代 JavaScript 教程
