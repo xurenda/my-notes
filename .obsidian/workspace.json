@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "705f2c6a8b41f9d4",
+        "id": "84ab364611eea1f7",
         "type": "tabs",
         "children": [
           {
+            "id": "f8f1f590d43ab0b5",
             "id": "0ec0e8caef0da6b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "004.AI/002.机器学习与深度学习/001.机器学习/009.过拟合与欠拟合.md",
+                "file": "002.前端/006.网络/020.Streamable HTTP.md",
+                "file": "004.AI/002.机器学习与深度学习/001.机器学习/006.实践中的梯度下降.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,6 +32,8 @@
               },
               "icon": "lucide-file",
               "title": "009.过拟合与欠拟合"
+              "title": "020.Streamable HTTP"
+              "title": "006.实践中的梯度下降"
             }
           },
           {
@@ -38,6 +43,9 @@
               "type": "markdown",
               "state": {
                 "file": "006.工具/002.Markdown/001.markdown公式.md",
+                "file": "006.工具/002.Markdown/003.Mermaid.md",
+                "mode": "source",
+                "file": "006.工具/004.其他/002.笔记常用字符.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -53,6 +61,8 @@
               },
               "icon": "lucide-file",
               "title": "001.markdown公式"
+              "title": "003.Mermaid"
+              "title": "002.笔记常用字符"
             }
           }
         ]
@@ -87,6 +97,7 @@
             "state": {
               "type": "search",
               "state": {
+                "query": "BEM",
                 "query": "\"->\"",
                 "matchingCase": false,
                 "explainSearch": true,
@@ -115,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 338.5
   },
   "right": {
     "id": "5e9aaa0ee861ee89",
@@ -132,12 +143,16 @@
               "type": "outline",
               "state": {
                 "file": "004.AI/002.机器学习与深度学习/001.机器学习/009.过拟合与欠拟合.md",
+                "file": "002.前端/006.网络/020.Streamable HTTP.md",
+                "file": "004.AI/002.机器学习与深度学习/001.机器学习/006.实践中的梯度下降.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "009.过拟合与欠拟合 的大纲"
+              "title": "020.Streamable HTTP 的大纲"
+              "title": "006.实践中的梯度下降 的大纲"
             }
           },
           {
@@ -207,23 +222,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "oz-clear-unused-images:Clear Unused Images": true,
+      "cmdr:导出为 PDF": true,
+      "obsidian-excalidraw-plugin:新建绘图文件": true,
       "switcher:打开快速切换": true,
       "graph:查看关系图谱": true,
       "command-palette:打开命令面板": true,
       "templates:插入模板": true,
       "workspaces:管理工作区布局": true,
       "random-note:开始漫游笔记": true,
-      "oz-clear-unused-images:Clear Unused Images": false,
-      "cmdr:导出为 PDF": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "callout-manager:Insert Callout": false
     }
   },
+  "active": "f8f1f590d43ab0b5",
   "active": "0ec0e8caef0da6b0",
   "lastOpenFiles": [
-    "004.AI/002.机器学习与深度学习/001.机器学习/assets/Pasted image 20250813134508.png",
-    "004.AI/002.机器学习与深度学习/001.机器学习/003.成本函数.md",
-    "004.AI/002.机器学习与深度学习/001.机器学习/009.过拟合与欠拟合.md",
+    "006.工具/004.其他/002.笔记常用字符.md",
     "006.工具/002.Markdown/001.markdown公式.md",
     "004.AI/002.机器学习与深度学习/001.机器学习/008.逻辑回归.md",
     "004.AI/002.机器学习与深度学习/001.机器学习/004.梯度下降.md",
@@ -231,20 +245,6 @@
     "004.AI/002.机器学习与深度学习/001.机器学习/006.实践中的梯度下降.md",
     "004.AI/002.机器学习与深度学习/001.机器学习/002.线性回归模型.md",
     "004.AI/002.机器学习与深度学习/001.机器学习/001.引言.md",
-    "004.AI/002.机器学习与深度学习/001.机器学习/assets/Pasted image 20250813125759.png",
-    "004.AI/002.机器学习与深度学习/001.机器学习/assets/Pasted image 20250813121934.png",
-    "004.AI/002.机器学习与深度学习/001.机器学习/assets/Pasted image 20250813121706.png",
-    "004.AI/002.机器学习与深度学习/001.机器学习/assets/Pasted image 20250813120931.png",
-    "004.AI/002.机器学习与深度学习/001.机器学习/assets/Pasted image 20250812215212.png",
-    "004.AI/002.机器学习与深度学习/001.机器学习/assets/Pasted image 20250812213336.png",
-    "004.AI/002.机器学习与深度学习/001.机器学习/assets/Pasted image 20250812213007.png",
-    "004.AI/002.机器学习与深度学习/001.机器学习/007.特征工程.md",
-    "004.AI/002.机器学习与深度学习/001.机器学习/assets/Pasted image 20250812212523.png",
-    "004.AI/002.机器学习与深度学习/001.机器学习/assets/Pasted image 20250812211629.png",
-    "004.AI/002.机器学习与深度学习/001.机器学习/assets/Pasted image 20250812211424.png",
-    "006.工具/004.其他/001.glob 模式匹配.md",
-    "006.工具/004.其他/002.笔记常用字符.md",
-    "004.AI/002.机器学习与深度学习/assets",
     "004.AI/001.生成式人工智能导论/010.Transformer 简介.md",
     "004.AI/002.机器学习与深度学习/001.机器学习/assets",
     "README.md",
@@ -256,9 +256,6 @@
     "008.英语/001.单词/000.目录.md",
     "002.前端/014.综合/014.中台 VS. 后台.md",
     "002.前端/003.JavaScript/005.ES6+/002.ES6 (2015).md",
-    "002.前端/003.JavaScript/005.ES6+/003.ES7 (2016).md",
-    "002.前端/012.前端架构/024.前端性能优化体系：从指标定义到监控闭环的实战指南.md",
-    "004.AI/004.RAG/001.RAG 工作流.md",
     "004.AI/005.Agent",
     "004.AI/001.生成式人工智能导论/007.LLM 训练史 2：指令微调.md",
     "index.md",
