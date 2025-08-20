@@ -4,47 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "59de1f2fdc094c56",
         "id": "84ab364611eea1f7",
         "type": "tabs",
         "children": [
           {
-            "id": "8aa5853ffba7c316",
-            "id": "f8f1f590d43ab0b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "004.AI/002.机器学习与深度学习/002.深度学习/001.神经网络.md",
-                "file": "002.前端/012.前端架构/002.Headless UI/002.在 React 和 Vue3 中使用 Headless UI 组件库.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "001.神经网络"
-              "title": "002.在 React 和 Vue3 中使用 Headless UI 组件库"
-            }
-          },
-          {
-            "id": "2eef08d63cfb19fa",
             "id": "fad7a0bedf1e1629",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "006.工具/002.Markdown/001.markdown公式.md",
-                "mode": "preview",
-                "file": "006.工具/002.Markdown/003.Mermaid.md",
+                "file": "002.前端/012.前端架构/002.Headless UI/002.在 React 和 Vue3 中使用.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -59,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "003.Mermaid"
+              "title": "002.在 React 和 Vue3 中使用"
             }
           }
         ]
@@ -82,7 +51,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -94,7 +63,6 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "曼哈顿距离",
                 "query": "BEM",
                 "matchingCase": false,
                 "explainSearch": true,
@@ -139,15 +107,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004.AI/002.机器学习与深度学习/002.深度学习/001.神经网络.md",
-                "file": "002.前端/012.前端架构/002.Headless UI/002.在 React 和 Vue3 中使用 Headless UI 组件库.md",
+                "file": "002.前端/012.前端架构/002.Headless UI/002.在 React 和 Vue3 中使用.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "001.神经网络 的大纲"
-              "title": "002.在 React 和 Vue3 中使用 Headless UI 组件库 的大纲"
+              "title": "002.在 React 和 Vue3 中使用 的大纲"
             }
           },
           {
@@ -229,27 +195,46 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "8aa5853ffba7c316",
-  "active": "f8f1f590d43ab0b5",
+  "active": "fad7a0bedf1e1629",
   "lastOpenFiles": [
-    "002.前端/012.前端架构/002.Headless UI/assets/样式Tooltip.webp",
-    "002.前端/012.前端架构/002.Headless UI/assets/基础样式Tooltip.webp",
-    "002.前端/012.前端架构/002.Headless UI/assets/样式Select.webp",
-    "002.前端/012.前端架构/002.Headless UI/assets/基础样式Select.webp",
     "002.前端/012.前端架构/002.Headless UI/001.Headless UI 介绍.md",
-    "002.前端/012.前端架构/002.Headless UI/002.在 React 和 Vue3 中使用 Headless UI 组件库.md",
-    "002.前端/014.综合/assets/Pasted image 20250815162315.png",
-    "002.前端/014.综合/assets/Pasted image 20250815162500.png",
-    "002.前端/014.综合/assets/Pasted image 20250815172043.png",
+    "002.前端/012.前端架构/002.Headless UI/003.动手实现 Headless UI 组件库.md",
+    "002.前端/012.前端架构/002.Headless UI/002.在 React 和 Vue3 中使用.md",
+    "002.前端/004.TypeScript/001.基础/001.TS 速览.md",
     "002.前端/012.前端架构/002.Headless UI/assets/Pasted image 20250815172632.png",
     "002.前端/012.前端架构/002.Headless UI/assets/Pasted image 20250815172121.png",
     "002.前端/012.前端架构/002.Headless UI/assets/Pasted image 20250815172043.png",
-    "002.前端/014.综合/assets/Pasted image 20250815172121.png",
-    "002.前端/012.前端架构/002.Headless UI/assets",
+    "002.前端/012.前端架构/002.Headless UI/assets/样式Select.webp",
+    "002.前端/012.前端架构/002.Headless UI/assets/样式Tooltip.webp",
+    "004.AI/001.生成式人工智能导论/003.提示工程.md",
+    "002.前端/013.开源库/008.Tailwind 组件库：DaisyUI.md",
+    "003.后端/004.开源库/002.海狸 IM.md",
+    "003.后端/004.开源库/001.文件在线预览：kkFileView.md",
+    "006.工具/002.Markdown/003.Mermaid.md",
+    "003.后端/004.开源库",
+    "002.前端/013.开源库/002.LogicFlow：流程图编辑框架.md",
+    "002.前端/013.开源库/006.动效 components.md",
+    "002.前端/013.开源库/007.Galaxy：UI 元素.md",
+    "007.数学/002.程序员数学/assets/Pasted image 20250816143453.png",
+    "007.数学/002.程序员数学/assets/9-极值.png",
+    "007.数学/002.程序员数学/assets/9-余子式.png",
+    "007.数学/002.程序员数学/assets/9-不定.png",
+    "007.数学/002.程序员数学/assets/8-单调性.png",
+    "007.数学/002.程序员数学/assets",
+    "007.数学/002.程序员数学/003.多元函数微分学.md",
+    "007.数学/002.程序员数学/002.微积分基础.md",
+    "007.数学/002.程序员数学/001.线性代数基础.md",
+    "007.数学/002.程序员数学",
+    "007.数学/001.初中数学/第6部分 统计与概率/第3课时 概率.pdf",
+    "007.数学/001.初中数学/第6部分 统计与概率/第2课时 数据的分析.pdf",
+    "007.数学/001.初中数学/第6部分 统计与概率/第1课时 数据的收集与整理.pdf",
+    "007.数学/001.初中数学/第6部分 统计与概率",
+    "007.数学/001.初中数学/第5部分 图形的变化/第5课时 图形的相似.pdf",
+    "007.数学/001.初中数学/第5部分 图形的变化/第4课时 图形的平移和旋转.pdf",
+    "007.数学/001.初中数学/第5部分 图形的变化/第3课时 图形的轴对称与中心对称.pdf",
+    "004.AI/002.机器学习与深度学习/002.深度学习/001.神经网络.md",
     "002.前端/012.前端架构/001.前端架构师之路/001.为什么需要成为前端架构师.md",
-    "002.前端/012.前端架构/002.Headless UI",
     "002.前端/012.前端架构/001.前端架构师之路/006.从零配置到高可控：构建你的前端脚手架.md",
-    "002.前端/012.前端架构/001.前端架构师之路",
     "002.前端/014.综合/019.浏览器翻译可能引发的页面问题.md",
     "004.AI/002.机器学习与深度学习/001.机器学习/010.应用正则化.md",
     "002.前端/008.React/003.Next.js/006.部分预渲染.md",
@@ -257,27 +242,6 @@
     "004.AI/002.机器学习与深度学习/001.机器学习/008.逻辑回归.md",
     "004.AI/002.机器学习与深度学习/001.机器学习/007.特征工程.md",
     "002.前端/008.React/003.Next.js/007.fetch 数据.md",
-    "002.前端/008.React/003.Next.js/005.服务端和客户端组件.md",
-    "002.前端/008.React/003.Next.js/004.链接和导航.md",
-    "002.前端/008.React/003.Next.js/003.Layouts and Pages.md",
-    "002.前端/008.React/003.Next.js/002.项目结构.md",
-    "004.AI/001.生成式人工智能导论/000.课程内容说明.md",
-    "002.前端/004.TypeScript/001.基础/001.TS 速览.md",
-    "004.AI/002.机器学习与深度学习/001.机器学习/006.实践中的梯度下降.md",
-    "002.前端/006.网络/020.Streamable HTTP.md",
-    "006.工具/004.其他/002.笔记常用字符.md",
-    "004.AI/005.Agent/001.Agent.md",
-    "004.AI/005.Agent",
-    "004.AI/004.RAG/assets/RAG.mp4",
-    "004.AI/004.RAG/assets",
-    "004.AI/004.RAG/006.项目：中医临床诊疗智能助手.md",
-    "004.AI/004.RAG/005.总结.md",
-    "004.AI/004.RAG/004.RAG 系统的进阶知识.md",
-    "004.AI/004.RAG/003.RAG 的缺陷与评估.md",
-    "004.AI/004.RAG",
-    "004.AI/003.Happy-LLM/assets",
-    "004.AI/003.Happy-LLM",
-    "004.AI/002.机器学习与深度学习/001.机器学习/assets",
     "未命名.canvas",
     "前端学习，漫漫长路/未命名.canvas",
     "数据结构与算法/代码随想录/链表/未命名.canvas"
