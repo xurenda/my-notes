@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fad7a0bedf1e1629",
+            "id": "b0fcc200aa2b1efd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002.前端/012.前端架构/002.Headless UI/002.在 React 和 Vue3 中使用.md",
+                "file": "004.AI/004.LLMForEverybody/001.预训练/004.Attention 机制/001.FlashAttention.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "002.在 React 和 Vue3 中使用"
+              "title": "001.FlashAttention"
+            }
+          },
+          {
+            "id": "24cb12319aa6a049",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "006.工具/002.Markdown/001.markdown公式.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "001.markdown公式"
             }
           }
         ]
@@ -107,13 +131,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002.前端/012.前端架构/002.Headless UI/002.在 React 和 Vue3 中使用.md",
+                "file": "004.AI/004.LLMForEverybody/001.预训练/004.Attention 机制/001.FlashAttention.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "002.在 React 和 Vue3 中使用 的大纲"
+              "title": "001.FlashAttention 的大纲"
             }
           },
           {
@@ -195,53 +219,54 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "fad7a0bedf1e1629",
+  "active": "b0fcc200aa2b1efd",
   "lastOpenFiles": [
-    "002.前端/012.前端架构/002.Headless UI/001.Headless UI 介绍.md",
-    "002.前端/012.前端架构/002.Headless UI/003.动手实现 Headless UI 组件库.md",
-    "002.前端/012.前端架构/002.Headless UI/002.在 React 和 Vue3 中使用.md",
-    "002.前端/004.TypeScript/001.基础/001.TS 速览.md",
-    "002.前端/012.前端架构/002.Headless UI/assets/Pasted image 20250815172632.png",
-    "002.前端/012.前端架构/002.Headless UI/assets/Pasted image 20250815172121.png",
-    "002.前端/012.前端架构/002.Headless UI/assets/Pasted image 20250815172043.png",
-    "002.前端/012.前端架构/002.Headless UI/assets/样式Select.webp",
-    "002.前端/012.前端架构/002.Headless UI/assets/样式Tooltip.webp",
-    "004.AI/001.生成式人工智能导论/003.提示工程.md",
-    "002.前端/013.开源库/008.Tailwind 组件库：DaisyUI.md",
-    "003.后端/004.开源库/002.海狸 IM.md",
-    "003.后端/004.开源库/001.文件在线预览：kkFileView.md",
-    "006.工具/002.Markdown/003.Mermaid.md",
-    "003.后端/004.开源库",
-    "002.前端/013.开源库/002.LogicFlow：流程图编辑框架.md",
-    "002.前端/013.开源库/006.动效 components.md",
-    "002.前端/013.开源库/007.Galaxy：UI 元素.md",
-    "007.数学/002.程序员数学/assets/Pasted image 20250816143453.png",
-    "007.数学/002.程序员数学/assets/9-极值.png",
-    "007.数学/002.程序员数学/assets/9-余子式.png",
-    "007.数学/002.程序员数学/assets/9-不定.png",
-    "007.数学/002.程序员数学/assets/8-单调性.png",
-    "007.数学/002.程序员数学/assets",
-    "007.数学/002.程序员数学/003.多元函数微分学.md",
-    "007.数学/002.程序员数学/002.微积分基础.md",
-    "007.数学/002.程序员数学/001.线性代数基础.md",
-    "007.数学/002.程序员数学",
-    "007.数学/001.初中数学/第6部分 统计与概率/第3课时 概率.pdf",
-    "007.数学/001.初中数学/第6部分 统计与概率/第2课时 数据的分析.pdf",
-    "007.数学/001.初中数学/第6部分 统计与概率/第1课时 数据的收集与整理.pdf",
-    "007.数学/001.初中数学/第6部分 统计与概率",
-    "007.数学/001.初中数学/第5部分 图形的变化/第5课时 图形的相似.pdf",
-    "007.数学/001.初中数学/第5部分 图形的变化/第4课时 图形的平移和旋转.pdf",
-    "007.数学/001.初中数学/第5部分 图形的变化/第3课时 图形的轴对称与中心对称.pdf",
+    "004.AI/004.LLMForEverybody/001.预训练/004.Attention 机制/assets/Pasted image 20250822185924.png",
+    "004.AI/004.LLMForEverybody/001.预训练/004.Attention 机制/assets/Pasted image 20250822185756.png",
+    "006.工具/002.Markdown/001.markdown公式.md",
+    "004.AI/004.LLMForEverybody/001.预训练/004.Attention 机制/001.FlashAttention.md",
+    "004.AI/004.LLMForEverybody/001.预训练/003.激活函数/014.Sigmiod、Softmax、Tanh.md",
+    "004.AI/004.LLMForEverybody/001.预训练/004.Attention 机制/assets/Pasted image 20250822183343.png",
+    "004.AI/004.LLMForEverybody/001.预训练/004.Attention 机制/assets",
     "004.AI/002.机器学习与深度学习/002.深度学习/001.神经网络.md",
-    "002.前端/012.前端架构/001.前端架构师之路/001.为什么需要成为前端架构师.md",
-    "002.前端/012.前端架构/001.前端架构师之路/006.从零配置到高可控：构建你的前端脚手架.md",
-    "002.前端/014.综合/019.浏览器翻译可能引发的页面问题.md",
-    "004.AI/002.机器学习与深度学习/001.机器学习/010.应用正则化.md",
-    "002.前端/008.React/003.Next.js/006.部分预渲染.md",
-    "004.AI/002.机器学习与深度学习/001.机器学习/009.过拟合与欠拟合.md",
-    "004.AI/002.机器学习与深度学习/001.机器学习/008.逻辑回归.md",
-    "004.AI/002.机器学习与深度学习/001.机器学习/007.特征工程.md",
-    "002.前端/008.React/003.Next.js/007.fetch 数据.md",
+    "004.AI/001.生成式人工智能导论/000.课程内容说明.md",
+    "004.AI/003.Happy-LLM/000.项目信息.md",
+    "004.AI/004.LLMForEverybody/001.预训练/001.架构/004.多模态大模型 (MM-LLMs).md",
+    "004.AI/004.LLMForEverybody/001.预训练/004.Attention 机制",
+    "004.AI/004.LLMForEverybody/001.预训练/001.架构/assets/Pasted image 20250822182431.png",
+    "004.AI/004.LLMForEverybody/001.预训练/001.架构/assets/Pasted image 20250822182354.png",
+    "004.AI/004.LLMForEverybody/001.预训练/001.架构/assets/Pasted image 20250822180138.png",
+    "004.AI/004.LLMForEverybody/001.预训练/001.架构/assets/Pasted image 20250822180008.png",
+    "004.AI/004.LLMForEverybody/001.预训练/001.架构/003.最简单的方式理解 Mamba.md",
+    "004.AI/004.LLMForEverybody/001.预训练/001.架构/assets/Pasted image 20250822174946.png",
+    "004.AI/004.LLMForEverybody/001.预训练/001.架构/assets/Pasted image 20250822174831.png",
+    "004.AI/004.LLMForEverybody/001.预训练/001.架构/assets/Pasted image 20250822174631.png",
+    "004.AI/004.LLMForEverybody/001.预训练/001.架构/assets/Pasted image 20250822174432.png",
+    "004.AI/004.LLMForEverybody/001.预训练/001.架构/002.混合专家模型 (MoE).md",
+    "004.AI/004.LLMForEverybody/001.预训练/001.架构/001.LayerNorm VS. BatchNorm.md",
+    "004.AI/004.LLMForEverybody/001.预训练/001.架构/assets",
+    "004.AI/004.LLMForEverybody/001.预训练/003.激活函数/018.GELU、Mish.md",
+    "004.AI/004.LLMForEverybody/001.预训练/003.激活函数/017.门控系列 GLU、Swish、SwiGLU.md",
+    "004.AI/004.LLMForEverybody/001.预训练/003.激活函数/016.ELU 及其变种 SELU.md",
+    "004.AI/004.LLMForEverybody/001.预训练/003.激活函数/015.ReLU 及其变种 Leaky-ReLU、PReLU.md",
+    "004.AI/004.LLMForEverybody/001.预训练/003.激活函数/013.综述.md",
+    "004.AI/004.LLMForEverybody/001.预训练/003.激活函数",
+    "004.AI/004.LLMForEverybody/001.预训练/002.优化器/002.SGD.md",
+    "004.AI/004.LLMForEverybody/001.预训练/002.优化器/001.发展历史.md",
+    "004.AI/004.LLMForEverybody/001.预训练/002.优化器/assets",
+    "004.AI/004.LLMForEverybody/001.预训练/002.优化器/012.RAdam.md",
+    "004.AI/004.LLMForEverybody/001.预训练/002.优化器/011.AdamW.md",
+    "004.AI/004.LLMForEverybody/001.预训练/002.优化器/010.Nadam.md",
+    "004.AI/004.LLMForEverybody/001.预训练/002.优化器/009.Adam.md",
+    "004.AI/004.LLMForEverybody/001.预训练/002.优化器/008.RMSprop.md",
+    "004.AI/004.LLMForEverybody/001.预训练/002.优化器/007.AdaDelta.md",
+    "004.AI/004.LLMForEverybody/001.预训练/002.优化器/006.AdaGrad.md",
+    "004.AI/004.LLMForEverybody/001.预训练/002.优化器/005.Rprop.md",
+    "004.AI/004.LLMForEverybody/001.预训练/002.优化器",
+    "004.AI/004.LLMForEverybody/001.预训练/001.架构",
+    "004.AI/004.LLMForEverybody/001.预训练/003.激活函数/assets",
+    "004.AI/004.LLMForEverybody/001.预训练",
+    "004.AI/004.LLMForEverybody",
     "未命名.canvas",
     "前端学习，漫漫长路/未命名.canvas",
     "数据结构与算法/代码随想录/链表/未命名.canvas"
