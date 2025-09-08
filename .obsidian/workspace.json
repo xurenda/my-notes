@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004.AI/003.李沐动手学深度学习/003.安装.md",
+                "file": "004.AI/003.李沐动手学深度学习/004.数据操作、数据预处理.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "003.安装"
+              "title": "004.数据操作、数据预处理"
             }
           },
           {
@@ -131,13 +131,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004.AI/003.李沐动手学深度学习/003.安装.md",
+                "file": "004.AI/003.李沐动手学深度学习/004.数据操作、数据预处理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "003.安装 的大纲"
+              "title": "004.数据操作、数据预处理 的大纲"
             }
           },
           {
@@ -221,8 +221,9 @@
   },
   "active": "8aa5853ffba7c316",
   "lastOpenFiles": [
-    "004.AI/003.李沐动手学深度学习/002.深度学习介绍.md",
     "004.AI/003.李沐动手学深度学习/003.安装.md",
+    "004.AI/003.李沐动手学深度学习/004.数据操作、数据预处理.md",
+    "004.AI/003.李沐动手学深度学习/002.深度学习介绍.md",
     "004.AI/003.李沐动手学深度学习/assets/Pasted image 20250907124853.png",
     "004.AI/003.李沐动手学深度学习/001.课程介绍.md",
     "004.AI/003.李沐动手学深度学习/assets/Pasted image 20250907105506.png",
