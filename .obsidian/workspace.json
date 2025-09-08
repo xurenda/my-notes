@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "59de1f2fdc094c56",
+        "id": "84ab364611eea1f7",
         "type": "tabs",
         "children": [
           {
-            "id": "8aa5853ffba7c316",
+            "id": "b0fcc200aa2b1efd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004.AI/003.李沐动手学深度学习/004.数据操作、数据预处理.md",
-                "mode": "source",
+                "file": "004.AI/005.LLMForEverybody/001.预训练/003.激活函数/015.ReLU 及其变种 Leaky-ReLU、PReLU.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "004.数据操作、数据预处理"
-            }
-          },
-          {
-            "id": "2eef08d63cfb19fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "006.工具/002.Markdown/001.markdown公式.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "001.markdown公式"
+              "title": "015.ReLU 及其变种 Leaky-ReLU、PReLU"
             }
           }
         ]
@@ -75,7 +51,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -87,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "迁移学习",
+                "query": "BEM",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -115,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 338.5
   },
   "right": {
     "id": "5e9aaa0ee861ee89",
@@ -131,13 +107,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004.AI/003.李沐动手学深度学习/004.数据操作、数据预处理.md",
+                "file": "004.AI/005.LLMForEverybody/001.预训练/003.激活函数/015.ReLU 及其变种 Leaky-ReLU、PReLU.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "004.数据操作、数据预处理 的大纲"
+              "title": "015.ReLU 及其变种 Leaky-ReLU、PReLU 的大纲"
             }
           },
           {
@@ -208,65 +184,65 @@
   "left-ribbon": {
     "hiddenItems": {
       "bases:创建新数据库": false,
+      "oz-clear-unused-images:Clear Unused Images": true,
+      "obsidian-excalidraw-plugin:新建绘图文件": true,
       "switcher:打开快速切换": true,
       "graph:查看关系图谱": true,
       "command-palette:打开命令面板": true,
       "templates:插入模板": true,
       "workspaces:管理工作区布局": true,
       "random-note:开始漫游笔记": true,
-      "oz-clear-unused-images:Clear Unused Images": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "8aa5853ffba7c316",
+  "active": "b0fcc200aa2b1efd",
   "lastOpenFiles": [
-    "004.AI/003.李沐动手学深度学习/003.安装.md",
-    "004.AI/003.李沐动手学深度学习/004.数据操作、数据预处理.md",
-    "004.AI/003.李沐动手学深度学习/002.深度学习介绍.md",
-    "004.AI/003.李沐动手学深度学习/assets/Pasted image 20250907124853.png",
-    "004.AI/003.李沐动手学深度学习/001.课程介绍.md",
-    "004.AI/003.李沐动手学深度学习/assets/Pasted image 20250907105506.png",
-    "004.AI/003.李沐动手学深度学习/assets/Pasted image 20250907105411.png",
-    "004.AI/003.李沐动手学深度学习/assets/Pasted image 20250907105307.png",
-    "004.AI/003.李沐动手学深度学习/assets/Pasted image 20250907105116.png",
-    "004.AI/003.李沐动手学深度学习/assets/Pasted image 20250907104923.png",
-    "004.AI/003.李沐动手学深度学习/assets/Pasted image 20250907104732.png",
-    "004.AI/003.李沐动手学深度学习/assets/Pasted image 20250907104658.png",
-    "004.AI/003.李沐动手学深度学习/assets/Pasted image 20250907104628.png",
-    "004.AI/003.李沐动手学深度学习/assets/Pasted image 20250907104222.png",
-    "004.AI/003.李沐动手学深度学习/assets",
-    "004.AI/001.生成式人工智能导论/010.Transformer 简介.md",
-    "004.AI/003.李沐动手学深度学习",
-    "004.AI/002.机器学习与深度学习/003.强化学习/001.聚类算法.md",
-    "004.AI/002.机器学习与深度学习/002.深度学习/010.决策树.md",
-    "004.AI/002.机器学习与深度学习/002.深度学习/011.回归树.md",
-    "004.AI/002.机器学习与深度学习/001.机器学习/001.引言.md",
-    "004.AI/002.机器学习与深度学习/002.深度学习/001.神经网络.md",
-    "004.AI/002.机器学习与深度学习/003.强化学习",
-    "006.工具/002.Markdown/001.markdown公式.md",
-    "004.AI/002.机器学习与深度学习/002.深度学习/009.精准率和召回率.md",
-    "004.AI/002.机器学习与深度学习/002.深度学习/008.机器学习开发实践技巧.md",
-    "004.AI/002.机器学习与深度学习/002.深度学习/007.偏差和方差.md",
-    "004.AI/007.Agent/001.Agent.md",
-    "004.AI/007.Agent",
-    "004.AI/006.RAG/assets/RAG.mp4",
-    "004.AI/006.RAG/004.RAG 系统的进阶知识.md",
-    "004.AI/006.RAG/assets",
-    "004.AI/006.RAG/006.项目：中医临床诊疗智能助手.md",
-    "004.AI/006.RAG/005.总结.md",
-    "004.AI/006.RAG/003.RAG 的缺陷与评估.md",
-    "004.AI/006.RAG/002.向量检索 & 向量数据库.md",
-    "004.AI/006.RAG/001.RAG 工作流.md",
-    "004.AI/006.RAG",
+    "004.AI/005.LLMForEverybody/001.预训练/003.激活函数/017.门控系列 GLU、Swish、SwiGLU.md",
     "004.AI/005.LLMForEverybody/001.预训练/004.Attention 机制/001.FlashAttention.md",
-    "004.AI/005.LLMForEverybody/001.预训练/004.Attention 机制/assets",
-    "004.AI/005.LLMForEverybody/001.预训练/002.优化器/assets",
+    "004.AI/005.LLMForEverybody/001.预训练/004.Attention 机制/002.FlashAttention V2 有哪些更新.md",
+    "004.AI/005.LLMForEverybody/001.预训练/004.Attention 机制/003.Multi-Query-Attention、Group-Query-Attention.md",
+    "004.AI/005.LLMForEverybody/001.预训练/004.Attention 机制/004.Deepseek 系列中的 MLA 技术.md",
+    "004.AI/005.LLMForEverybody/001.预训练/005.位置编码/002.旋转位置编码.md",
+    "004.AI/005.LLMForEverybody/001.预训练/005.位置编码/001.位置编码.md",
+    "004.AI/005.LLMForEverybody/001.预训练/003.激活函数/014.Sigmiod、Softmax、Tanh.md",
+    "004.AI/005.LLMForEverybody/001.预训练/003.激活函数/013.综述.md",
     "004.AI/005.LLMForEverybody/001.预训练/002.优化器/012.RAdam.md",
+    "004.AI/005.LLMForEverybody/001.预训练/002.优化器/005.Rprop.md",
+    "004.AI/005.LLMForEverybody/001.预训练/002.优化器/003.Momentum.md",
+    "004.AI/005.LLMForEverybody/001.预训练/001.架构/002.混合专家模型 (MoE).md",
+    "004.AI/005.LLMForEverybody/001.预训练/001.架构/001.LayerNorm VS. BatchNorm.md",
+    "004.AI/005.LLMForEverybody/001.预训练/004.Attention 机制/assets/Pasted image 20250825110602.png",
+    "004.AI/005.LLMForEverybody/001.预训练/004.Attention 机制/assets/Pasted image 20250825110547.png",
+    "004.AI/005.LLMForEverybody/001.预训练/004.Attention 机制/assets/Pasted image 20250825110511.png",
+    "004.AI/005.LLMForEverybody/001.预训练/004.Attention 机制/assets/Pasted image 20250825105741.png",
+    "004.AI/005.LLMForEverybody/001.预训练/004.Attention 机制/assets/Pasted image 20250825104731.png",
+    "004.AI/005.LLMForEverybody/001.预训练/004.Attention 机制/assets/Pasted image 20250825104136.png",
+    "004.AI/005.LLMForEverybody/001.预训练/004.Attention 机制/assets/Pasted image 20250825103611.png",
+    "004.AI/005.LLMForEverybody/001.预训练/004.Attention 机制/assets/Pasted image 20250825103430.png",
+    "004.AI/005.LLMForEverybody/001.预训练/004.Attention 机制/assets/Pasted image 20250825103402.png",
+    "004.AI/005.LLMForEverybody/001.预训练/004.Attention 机制/assets/Pasted image 20250825103113.png",
+    "004.AI/005.LLMForEverybody/001.预训练/004.Attention 机制/assets",
+    "004.AI/005.LLMForEverybody/001.预训练/004.Attention 机制",
+    "004.AI/005.LLMForEverybody/001.预训练/003.激活函数/018.GELU、Mish.md",
+    "004.AI/005.LLMForEverybody/001.预训练/003.激活函数/assets",
+    "004.AI/005.LLMForEverybody/001.预训练/003.激活函数/016.ELU 及其变种 SELU.md",
+    "004.AI/005.LLMForEverybody/001.预训练/003.激活函数/015.ReLU 及其变种 Leaky-ReLU、PReLU.md",
+    "004.AI/005.LLMForEverybody/001.预训练/003.激活函数",
+    "004.AI/005.LLMForEverybody/001.预训练/002.优化器/007.AdaDelta.md",
+    "004.AI/005.LLMForEverybody/001.预训练/002.优化器/assets",
     "004.AI/005.LLMForEverybody/001.预训练/002.优化器/011.AdamW.md",
     "004.AI/005.LLMForEverybody/001.预训练/002.优化器/010.Nadam.md",
     "004.AI/005.LLMForEverybody/001.预训练/002.优化器/009.Adam.md",
-    "004.AI/005.LLMForEverybody/001.预训练/003.激活函数/assets",
+    "004.AI/005.LLMForEverybody/001.预训练/002.优化器/008.RMSprop.md",
+    "004.AI/005.LLMForEverybody/001.预训练/002.优化器/006.AdaGrad.md",
+    "004.AI/005.LLMForEverybody/001.预训练/002.优化器/004.ASGD.md",
+    "004.AI/005.LLMForEverybody/001.预训练/002.优化器/002.SGD.md",
+    "004.AI/005.LLMForEverybody/001.预训练/002.优化器/001.发展历史.md",
+    "004.AI/005.LLMForEverybody/001.预训练/002.优化器",
+    "004.AI/005.LLMForEverybody/001.预训练/001.架构/assets",
+    "004.AI/005.LLMForEverybody/001.预训练/001.架构",
+    "004.AI/007.Agent",
+    "004.AI/006.RAG/assets/RAG.mp4",
     "未命名.canvas",
     "前端学习，漫漫长路/未命名.canvas",
     "数据结构与算法/代码随想录/链表/未命名.canvas"
