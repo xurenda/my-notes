@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004.AI/005.LLMForEverybody/001.预训练/003.激活函数/015.ReLU 及其变种 Leaky-ReLU、PReLU.md",
+                "file": "004.AI/005.LLMForEverybody/001.预训练/004.Attention 机制/001.FlashAttention.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "015.ReLU 及其变种 Leaky-ReLU、PReLU"
+              "title": "001.FlashAttention"
             }
           }
         ]
@@ -107,13 +107,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004.AI/005.LLMForEverybody/001.预训练/003.激活函数/015.ReLU 及其变种 Leaky-ReLU、PReLU.md",
+                "file": "004.AI/005.LLMForEverybody/001.预训练/004.Attention 机制/001.FlashAttention.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "015.ReLU 及其变种 Leaky-ReLU、PReLU 的大纲"
+              "title": "001.FlashAttention 的大纲"
             }
           },
           {
@@ -197,10 +197,20 @@
   },
   "active": "b0fcc200aa2b1efd",
   "lastOpenFiles": [
-    "004.AI/005.LLMForEverybody/001.预训练/003.激活函数/017.门控系列 GLU、Swish、SwiGLU.md",
-    "004.AI/005.LLMForEverybody/001.预训练/004.Attention 机制/001.FlashAttention.md",
     "004.AI/005.LLMForEverybody/001.预训练/004.Attention 机制/002.FlashAttention V2 有哪些更新.md",
+    "004.AI/005.LLMForEverybody/001.预训练/004.Attention 机制/001.FlashAttention.md",
     "004.AI/005.LLMForEverybody/001.预训练/004.Attention 机制/003.Multi-Query-Attention、Group-Query-Attention.md",
+    "004.AI/005.LLMForEverybody/002.部署与推理/002.推理框架/006.Ollama.md",
+    "004.AI/005.LLMForEverybody/003.微调",
+    "004.AI/005.LLMForEverybody/002.部署与推理/001.知识点/005.DevOps、AIOps、MLOps、LLMOps.md",
+    "004.AI/005.LLMForEverybody/001.预训练/002.优化器/011.AdamW.md",
+    "004.AI/005.LLMForEverybody/001.预训练/002.优化器/007.AdaDelta.md",
+    "004.AI/005.LLMForEverybody/001.预训练/002.优化器/003.Momentum.md",
+    "004.AI/005.LLMForEverybody/001.预训练/002.优化器/004.ASGD.md",
+    "004.AI/005.LLMForEverybody/002.部署与推理/001.知识点/001.私有化部署大模型性能估计.md",
+    "004.AI/005.LLMForEverybody/002.部署与推理/001.知识点/002.大模型 output-token 为什么比 input-token 贵.md",
+    "004.AI/005.LLMForEverybody/001.预训练/003.激活函数/015.ReLU 及其变种 Leaky-ReLU、PReLU.md",
+    "004.AI/005.LLMForEverybody/001.预训练/003.激活函数/017.门控系列 GLU、Swish、SwiGLU.md",
     "004.AI/005.LLMForEverybody/001.预训练/004.Attention 机制/004.Deepseek 系列中的 MLA 技术.md",
     "004.AI/005.LLMForEverybody/001.预训练/005.位置编码/002.旋转位置编码.md",
     "004.AI/005.LLMForEverybody/001.预训练/005.位置编码/001.位置编码.md",
@@ -208,7 +218,6 @@
     "004.AI/005.LLMForEverybody/001.预训练/003.激活函数/013.综述.md",
     "004.AI/005.LLMForEverybody/001.预训练/002.优化器/012.RAdam.md",
     "004.AI/005.LLMForEverybody/001.预训练/002.优化器/005.Rprop.md",
-    "004.AI/005.LLMForEverybody/001.预训练/002.优化器/003.Momentum.md",
     "004.AI/005.LLMForEverybody/001.预训练/001.架构/002.混合专家模型 (MoE).md",
     "004.AI/005.LLMForEverybody/001.预训练/001.架构/001.LayerNorm VS. BatchNorm.md",
     "004.AI/005.LLMForEverybody/001.预训练/004.Attention 机制/assets/Pasted image 20250825110602.png",
@@ -226,23 +235,14 @@
     "004.AI/005.LLMForEverybody/001.预训练/003.激活函数/018.GELU、Mish.md",
     "004.AI/005.LLMForEverybody/001.预训练/003.激活函数/assets",
     "004.AI/005.LLMForEverybody/001.预训练/003.激活函数/016.ELU 及其变种 SELU.md",
-    "004.AI/005.LLMForEverybody/001.预训练/003.激活函数/015.ReLU 及其变种 Leaky-ReLU、PReLU.md",
     "004.AI/005.LLMForEverybody/001.预训练/003.激活函数",
-    "004.AI/005.LLMForEverybody/001.预训练/002.优化器/007.AdaDelta.md",
     "004.AI/005.LLMForEverybody/001.预训练/002.优化器/assets",
-    "004.AI/005.LLMForEverybody/001.预训练/002.优化器/011.AdamW.md",
     "004.AI/005.LLMForEverybody/001.预训练/002.优化器/010.Nadam.md",
     "004.AI/005.LLMForEverybody/001.预训练/002.优化器/009.Adam.md",
-    "004.AI/005.LLMForEverybody/001.预训练/002.优化器/008.RMSprop.md",
-    "004.AI/005.LLMForEverybody/001.预训练/002.优化器/006.AdaGrad.md",
-    "004.AI/005.LLMForEverybody/001.预训练/002.优化器/004.ASGD.md",
-    "004.AI/005.LLMForEverybody/001.预训练/002.优化器/002.SGD.md",
-    "004.AI/005.LLMForEverybody/001.预训练/002.优化器/001.发展历史.md",
     "004.AI/005.LLMForEverybody/001.预训练/002.优化器",
     "004.AI/005.LLMForEverybody/001.预训练/001.架构/assets",
     "004.AI/005.LLMForEverybody/001.预训练/001.架构",
     "004.AI/007.Agent",
-    "004.AI/006.RAG/assets/RAG.mp4",
     "未命名.canvas",
     "前端学习，漫漫长路/未命名.canvas",
     "数据结构与算法/代码随想录/链表/未命名.canvas"
