@@ -8,7 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b0fcc200aa2b1efd",
+            "id": "8aa5853ffba7c316",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "004.AI/003.李沐动手学深度学习/006.线性代数.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "006.线性代数"
+            }
+          },
+          {
+            "id": "2eef08d63cfb19fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,6 +53,30 @@
               },
               "icon": "lucide-file",
               "title": "001.markdown公式"
+            }
+          },
+          {
+            "id": "a1c62acee6c6a1e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "007.数学/002.程序员数学/001.线性代数基础.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "001.线性代数基础"
             }
           }
         ]
@@ -107,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004.AI/005.LLMForEverybody/001.预训练/003.激活函数/015.ReLU 及其变种 Leaky-ReLU、PReLU.md",
+                "file": "004.AI/003.李沐动手学深度学习/006.线性代数.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "015.ReLU 及其变种 Leaky-ReLU、PReLU 的大纲"
+              "title": "006.线性代数 的大纲"
             }
           },
           {
@@ -197,52 +245,51 @@
   },
   "active": "8aa5853ffba7c316",
   "lastOpenFiles": [
-    "004.AI/005.LLMForEverybody/001.预训练/003.激活函数/017.门控系列 GLU、Swish、SwiGLU.md",
+    "004.AI/003.李沐动手学深度学习/002.深度学习介绍.md",
+    "004.AI/003.李沐动手学深度学习/001.课程介绍.md",
+    "004.AI/003.李沐动手学深度学习/003.安装.md",
+    "004.AI/003.李沐动手学深度学习/004.数据操作.md",
+    "004.AI/003.李沐动手学深度学习/005.数据预处理.md",
+    "004.AI/003.李沐动手学深度学习/006.线性代数.md",
+    "004.AI/003.李沐动手学深度学习/drawing/按特定轴求和.excalidraw.svg",
+    "004.AI/003.李沐动手学深度学习/drawing/按特定轴求和.excalidraw.md",
+    "001.计算机基础/002.数据结构与算法/004.左程云算法通关/002.必备/drawing/一群人落水.excalidraw.md",
+    "001.计算机基础/002.数据结构与算法/004.左程云算法通关/002.必备/drawing/移除盒子.excalidraw.md",
+    "001.计算机基础/002.数据结构与算法/004.左程云算法通关/002.必备/drawing/01bfs 为什么不能用传统 bfs.excalidraw.md",
+    "004.AI/003.李沐动手学深度学习/drawing/按特定轴求和.md",
+    "004.AI/003.李沐动手学深度学习/drawing",
+    "006.工具/002.Markdown/001.markdown公式.md",
+    "004.AI/003.李沐动手学深度学习/assets/Pasted image 20250909215659.png",
+    "007.数学/002.程序员数学/001.线性代数基础.md",
+    "004.AI/003.李沐动手学深度学习/assets/Pasted image 20250909211012.png",
+    "004.AI/003.李沐动手学深度学习/assets/Pasted image 20250909211148.png",
+    "004.AI/003.李沐动手学深度学习/assets/Pasted image 20250909210505.png",
+    "004.AI/003.李沐动手学深度学习/assets/Pasted image 20250909210133.png",
+    "007.数学/002.程序员数学/002.微积分基础.md",
+    "004.AI/002.机器学习与深度学习/003.强化学习/001.聚类算法.md",
+    "004.AI/005.LLMForEverybody/003.微调/004.微调框架/003.LLama-Factory.md",
     "004.AI/005.LLMForEverybody/001.预训练/004.Attention 机制/001.FlashAttention.md",
     "004.AI/005.LLMForEverybody/001.预训练/004.Attention 机制/002.FlashAttention V2 有哪些更新.md",
-    "004.AI/005.LLMForEverybody/001.预训练/004.Attention 机制/003.Multi-Query-Attention、Group-Query-Attention.md",
-    "004.AI/005.LLMForEverybody/001.预训练/004.Attention 机制/004.Deepseek 系列中的 MLA 技术.md",
-    "004.AI/005.LLMForEverybody/001.预训练/005.位置编码/002.旋转位置编码.md",
-    "004.AI/005.LLMForEverybody/001.预训练/005.位置编码/001.位置编码.md",
-    "004.AI/005.LLMForEverybody/001.预训练/003.激活函数/014.Sigmiod、Softmax、Tanh.md",
-    "004.AI/005.LLMForEverybody/001.预训练/003.激活函数/013.综述.md",
-    "004.AI/005.LLMForEverybody/001.预训练/002.优化器/012.RAdam.md",
-    "004.AI/005.LLMForEverybody/001.预训练/002.优化器/005.Rprop.md",
-    "004.AI/005.LLMForEverybody/001.预训练/002.优化器/003.Momentum.md",
-    "004.AI/005.LLMForEverybody/001.预训练/001.架构/002.混合专家模型 (MoE).md",
-    "004.AI/005.LLMForEverybody/001.预训练/001.架构/001.LayerNorm VS. BatchNorm.md",
-    "004.AI/005.LLMForEverybody/001.预训练/004.Attention 机制/assets/Pasted image 20250825110602.png",
-    "004.AI/005.LLMForEverybody/001.预训练/004.Attention 机制/assets/Pasted image 20250825110547.png",
-    "004.AI/005.LLMForEverybody/001.预训练/004.Attention 机制/assets/Pasted image 20250825110511.png",
-    "004.AI/005.LLMForEverybody/001.预训练/004.Attention 机制/assets/Pasted image 20250825105741.png",
-    "004.AI/005.LLMForEverybody/001.预训练/004.Attention 机制/assets/Pasted image 20250825104731.png",
-    "004.AI/005.LLMForEverybody/001.预训练/004.Attention 机制/assets/Pasted image 20250825104136.png",
-    "004.AI/005.LLMForEverybody/001.预训练/004.Attention 机制/assets/Pasted image 20250825103611.png",
-    "004.AI/005.LLMForEverybody/001.预训练/004.Attention 机制/assets/Pasted image 20250825103430.png",
-    "004.AI/005.LLMForEverybody/001.预训练/004.Attention 机制/assets/Pasted image 20250825103402.png",
-    "004.AI/005.LLMForEverybody/001.预训练/004.Attention 机制/assets/Pasted image 20250825103113.png",
-    "004.AI/005.LLMForEverybody/001.预训练/004.Attention 机制/assets",
-    "004.AI/005.LLMForEverybody/001.预训练/004.Attention 机制",
-    "004.AI/005.LLMForEverybody/001.预训练/003.激活函数/018.GELU、Mish.md",
-    "004.AI/005.LLMForEverybody/001.预训练/003.激活函数/assets",
-    "004.AI/005.LLMForEverybody/001.预训练/003.激活函数/016.ELU 及其变种 SELU.md",
-    "004.AI/005.LLMForEverybody/001.预训练/003.激活函数/015.ReLU 及其变种 Leaky-ReLU、PReLU.md",
-    "004.AI/005.LLMForEverybody/001.预训练/003.激活函数",
-    "004.AI/005.LLMForEverybody/001.预训练/002.优化器/007.AdaDelta.md",
-    "004.AI/005.LLMForEverybody/001.预训练/002.优化器/assets",
-    "004.AI/005.LLMForEverybody/001.预训练/002.优化器/011.AdamW.md",
-    "004.AI/005.LLMForEverybody/001.预训练/002.优化器/010.Nadam.md",
-    "004.AI/005.LLMForEverybody/001.预训练/002.优化器/009.Adam.md",
-    "004.AI/005.LLMForEverybody/001.预训练/002.优化器/008.RMSprop.md",
-    "004.AI/005.LLMForEverybody/001.预训练/002.优化器/006.AdaGrad.md",
-    "004.AI/005.LLMForEverybody/001.预训练/002.优化器/004.ASGD.md",
-    "004.AI/005.LLMForEverybody/001.预训练/002.优化器/002.SGD.md",
-    "004.AI/005.LLMForEverybody/001.预训练/002.优化器/001.发展历史.md",
-    "004.AI/005.LLMForEverybody/001.预训练/002.优化器",
-    "004.AI/005.LLMForEverybody/001.预训练/001.架构/assets",
-    "004.AI/005.LLMForEverybody/001.预训练/001.架构",
-    "004.AI/007.Agent",
-    "004.AI/006.RAG/assets/RAG.mp4",
+    "004.AI/005.LLMForEverybody/003.微调/001.知识点/assets/Pasted image 20250909102323.png",
+    "004.AI/005.LLMForEverybody/003.微调/003.Adapters/assets/LoRA.gif",
+    "004.AI/005.LLMForEverybody/003.微调/004.微调框架/assets/Pasted image 20250909114830.png",
+    "004.AI/005.LLMForEverybody/003.微调/002.Soft Prompts/assets/Pasted image 20250909103328.png",
+    "004.AI/005.LLMForEverybody/003.微调/004.微调框架/assets",
+    "004.AI/005.LLMForEverybody/003.微调/004.微调框架/002.Huggingface-PEFT.md",
+    "004.AI/005.LLMForEverybody/003.微调/002.Soft Prompts/005.Multitask prompt tuning.md",
+    "004.AI/005.LLMForEverybody/003.微调/004.微调框架/001.综述.md",
+    "004.AI/005.LLMForEverybody/003.微调/002.Soft Prompts/assets",
+    "004.AI/005.LLMForEverybody/003.微调/002.Soft Prompts/004.P-Tuning.md",
+    "004.AI/005.LLMForEverybody/003.微调/002.Soft Prompts/003.Prefix-Tuning.md",
+    "004.AI/005.LLMForEverybody/003.微调/002.Soft Prompts/002.Prompt Tuning.md",
+    "004.AI/005.LLMForEverybody/003.微调/002.Soft Prompts/001.综述.md",
+    "004.AI/005.LLMForEverybody/003.微调/003.Adapters/assets",
+    "004.AI/005.LLMForEverybody/003.微调/001.知识点/assets",
+    "004.AI/005.LLMForEverybody/003.微调/004.微调框架",
+    "004.AI/005.LLMForEverybody/003.微调/002.Soft Prompts",
+    "004.AI/005.LLMForEverybody/003.微调/003.Adapters",
+    "004.AI/005.LLMForEverybody/003.微调/001.知识点",
+    "004.AI/005.LLMForEverybody/003.微调",
     "未命名.canvas",
     "前端学习，漫漫长路/未命名.canvas",
     "数据结构与算法/代码随想录/链表/未命名.canvas"
