@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "59de1f2fdc094c56",
+        "id": "84ab364611eea1f7",
         "type": "tabs",
         "children": [
           {
-            "id": "8aa5853ffba7c316",
+            "id": "b0fcc200aa2b1efd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004.AI/003.李沐动手学深度学习/001.预备知识/007.自动求导.md",
+                "file": "004.AI/002.个人学习路线.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "007.自动求导"
+              "title": "002.个人学习路线"
             }
           },
           {
-            "id": "2eef08d63cfb19fa",
+            "id": "f84b7c512c545213",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "006.工具/002.Markdown/001.markdown公式.md",
+                "file": "004.AI/002.个人学习路线.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "001.markdown公式"
+              "title": "002.个人学习路线"
             }
           }
         ]
@@ -75,7 +75,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "迁移学习",
+                "query": "BEM",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -115,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 338.5
   },
   "right": {
     "id": "5e9aaa0ee861ee89",
@@ -131,13 +131,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004.AI/003.李沐动手学深度学习/001.预备知识/007.自动求导.md",
+                "file": "004.AI/002.个人学习路线.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "007.自动求导 的大纲"
+              "title": "002.个人学习路线 的大纲"
             }
           },
           {
@@ -208,65 +208,65 @@
   "left-ribbon": {
     "hiddenItems": {
       "bases:创建新数据库": false,
+      "oz-clear-unused-images:Clear Unused Images": true,
+      "obsidian-excalidraw-plugin:新建绘图文件": true,
       "switcher:打开快速切换": true,
       "graph:查看关系图谱": true,
       "command-palette:打开命令面板": true,
       "templates:插入模板": true,
       "workspaces:管理工作区布局": true,
       "random-note:开始漫游笔记": true,
-      "oz-clear-unused-images:Clear Unused Images": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "100ae5ead0fcd227",
+  "active": "b0fcc200aa2b1efd",
   "lastOpenFiles": [
+    "004.AI/004.面向开发者的大模型手册/000.课程介绍.md",
+    "004.AI/004.面向开发者的大模型手册/001.面向开发者的提示工程/002.提示原则.md",
+    "004.AI/004.面向开发者的大模型手册/001.面向开发者的提示工程/001.简介.md",
+    "004.AI/004.面向开发者的大模型手册/未命名.md",
+    "004.AI/004.面向开发者的大模型手册/001.面向开发者的提示工程",
+    "004.AI/003.李沐动手学深度学习/001.预备知识/007.自动求导.md",
+    "004.AI/004.面向开发者的大模型手册",
+    "004.AI/003.李沐动手学深度学习/001.预备知识/006.矩阵求导.md",
+    "004.AI/003.李沐动手学深度学习/001.预备知识/005.线性代数.md",
+    "004.AI/003.李沐动手学深度学习/001.预备知识/004.数据预处理.md",
+    "004.AI/003.李沐动手学深度学习/001.预备知识/003.数据操作.md",
+    "004.AI/003.李沐动手学深度学习/001.预备知识/002.安装.md",
+    "004.AI/003.李沐动手学深度学习/001.预备知识/001.深度学习介绍.md",
+    "004.AI/003.李沐动手学深度学习/001.预备知识/drawing/按特定轴求和.excalidraw.md",
+    "004.AI/003.李沐动手学深度学习/001.预备知识/drawing/按特定轴求和.excalidraw.svg",
+    "004.AI/003.李沐动手学深度学习/000.课程介绍.md",
+    "004.AI/002.个人学习路线.md",
     "004.AI/003.李沐动手学深度学习/001.预备知识/assets/反向累计过程.gif",
     "004.AI/003.李沐动手学深度学习/001.预备知识/assets/Pasted image 20250910133523.png",
     "004.AI/003.李沐动手学深度学习/001.预备知识/assets/Pasted image 20250910133013.png",
-    "006.工具/002.Markdown/001.markdown公式.md",
-    "004.AI/003.李沐动手学深度学习/001.预备知识/007.自动求导.md",
     "004.AI/003.李沐动手学深度学习/001.预备知识/assets/Pasted image 20250910132608.png",
-    "004.AI/003.李沐动手学深度学习/001.预备知识/006.矩阵求导.md",
     "004.AI/003.李沐动手学深度学习/001.预备知识/assets/Pasted image 20250910132319.png",
     "004.AI/003.李沐动手学深度学习/001.预备知识/assets/Pasted image 20250910132158.png",
     "004.AI/003.李沐动手学深度学习/001.预备知识/assets/Pasted image 20250910132027.png",
     "004.AI/003.李沐动手学深度学习/001.预备知识/assets/Pasted image 20250910131628.png",
     "004.AI/003.李沐动手学深度学习/001.预备知识/assets/Pasted image 20250910131253.png",
-    "004.AI/003.李沐动手学深度学习/001.预备知识/assets/Pasted image 20250910124924.png",
-    "004.AI/003.李沐动手学深度学习/001.预备知识/assets/Pasted image 20250910124731.png",
-    "007.数学/002.程序员数学/001.线性代数基础.md",
-    "004.AI/003.李沐动手学深度学习/001.预备知识/005.线性代数.md",
-    "004.AI/002.个人学习路线.md",
-    "004.AI/002.吴恩达机器学习/003.强化学习/001.聚类算法.md",
-    "004.AI/003.李沐动手学深度学习/000.课程介绍.md",
-    "004.AI/003.李沐动手学深度学习/001.预备知识/001.深度学习介绍.md",
+    "004.AI/003.李沐动手学深度学习/001.预备知识/drawing",
+    "004.AI/003.李沐动手学深度学习/001.预备知识/assets",
     "004.AI/003.李沐动手学深度学习/001.预备知识",
     "004.AI/002.吴恩达机器学习/000.课程介绍.md",
-    "004.AI/005.LLMForEverybody/004.量化/assets",
-    "004.AI/005.LLMForEverybody/004.量化/002.大模型量化认知的三重境界.md",
-    "004.AI/005.LLMForEverybody/004.量化/001.10 分钟理解大模型的量化.md",
-    "004.AI/005.LLMForEverybody/004.量化",
-    "004.AI/002.吴恩达机器学习/003.强化学习",
-    "004.AI/002.吴恩达机器学习/002.深度学习/assets",
-    "004.AI/002.吴恩达机器学习/002.深度学习/011.回归树.md",
-    "004.AI/002.吴恩达机器学习/002.深度学习/010.决策树.md",
-    "004.AI/002.吴恩达机器学习/002.深度学习/009.精准率和召回率.md",
-    "004.AI/002.吴恩达机器学习/002.深度学习/008.机器学习开发实践技巧.md",
-    "004.AI/002.吴恩达机器学习/002.深度学习/007.偏差和方差.md",
-    "004.AI/002.吴恩达机器学习/002.深度学习/004.模型训练.md",
-    "004.AI/002.吴恩达机器学习/002.深度学习/006.实践中的神经网络.md",
-    "004.AI/002.吴恩达机器学习/002.深度学习/005.多分类问题.md",
-    "004.AI/002.吴恩达机器学习/002.深度学习/003.前向传播.md",
-    "004.AI/002.吴恩达机器学习/002.深度学习/002.通用人工智能.md",
-    "004.AI/002.吴恩达机器学习/002.深度学习/001.神经网络.md",
-    "004.AI/002.吴恩达机器学习/002.深度学习",
-    "004.AI/002.吴恩达机器学习/001.机器学习/assets",
-    "004.AI/002.吴恩达机器学习/001.机器学习/010.正则化.md",
-    "004.AI/002.吴恩达机器学习/001.机器学习/009.过拟合与欠拟合.md",
-    "004.AI/002.吴恩达机器学习/001.机器学习",
-    "004.AI/002.吴恩达机器学习",
-    "004.AI/003.李沐动手学深度学习/001.预备知识/drawing",
+    "004.AI/003.李沐动手学深度学习/001.课程介绍.md",
+    "004.AI/001.生成式人工智能导论/000.课程内容说明.md",
+    "004.AI/001.大模型学习路线.md",
+    "004.AI/003.李沐动手学深度学习/004.数据操作.md",
+    "004.AI/003.李沐动手学深度学习/005.数据预处理.md",
+    "004.AI/003.李沐动手学深度学习/003.安装.md",
+    "004.AI/006.LLMForEverybody/004.量化/002.大模型量化认知的三重境界.md",
+    "004.AI/006.LLMForEverybody/004.量化/001.10 分钟理解大模型的量化.md",
+    "004.AI/006.LLMForEverybody/004.量化/assets",
+    "004.AI/006.LLMForEverybody/004.量化",
+    "004.AI/006.LLMForEverybody/003.微调/004.微调框架/003.LLama-Factory.md",
+    "004.AI/006.LLMForEverybody/003.微调/004.微调框架/002.Huggingface-PEFT.md",
+    "004.AI/006.LLMForEverybody/003.微调/004.微调框架/001.综述.md",
+    "004.AI/006.LLMForEverybody/003.微调/004.微调框架/assets",
+    "004.AI/006.LLMForEverybody/003.微调/004.微调框架",
+    "004.AI/006.LLMForEverybody/003.微调/003.Adapters/assets",
     "未命名.canvas",
     "前端学习，漫漫长路/未命名.canvas",
     "数据结构与算法/代码随想录/链表/未命名.canvas"
