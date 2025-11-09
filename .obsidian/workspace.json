@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "84ab364611eea1f7",
+        "id": "59de1f2fdc094c56",
         "type": "tabs",
         "children": [
           {
-            "id": "b0fcc200aa2b1efd",
+            "id": "8aa5853ffba7c316",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "f84b7c512c545213",
+            "id": "2eef08d63cfb19fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004.AI/002.个人学习路线.md",
+                "file": "006.工具/002.Markdown/001.markdown公式.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "002.个人学习路线"
+              "title": "001.markdown公式"
+            }
+          },
+          {
+            "id": "131f07cfcc7bd327",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "006.工具/004.其他/002.笔记常用字符.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "002.笔记常用字符"
             }
           }
         ]
@@ -75,7 +99,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -87,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "BEM",
+                "query": "激活函数",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -115,7 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5
+    "width": 283.5
   },
   "right": {
     "id": "5e9aaa0ee861ee89",
@@ -208,64 +232,65 @@
   "left-ribbon": {
     "hiddenItems": {
       "bases:创建新数据库": false,
-      "oz-clear-unused-images:Clear Unused Images": true,
-      "obsidian-excalidraw-plugin:新建绘图文件": true,
       "switcher:打开快速切换": true,
       "graph:查看关系图谱": true,
       "command-palette:打开命令面板": true,
       "templates:插入模板": true,
       "workspaces:管理工作区布局": true,
       "random-note:开始漫游笔记": true,
-      "callout-manager:Insert Callout": false
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "callout-manager:Insert Callout": false,
+      "canvas:新建白板": false
     }
   },
-  "active": "b0fcc200aa2b1efd",
+  "active": "8aa5853ffba7c316",
   "lastOpenFiles": [
-    "002.前端/006.网络/019.Server-Sent Events.md",
-    "Extra/Template/python代码块.md",
-    "004.AI/003.李沐动手学深度学习/002.线性神经网络/assets/Pasted image 20250911231938.png",
-    "004.AI/003.李沐动手学深度学习/002.线性神经网络/assets/Pasted image 20250911223414.png",
-    "004.AI/003.李沐动手学深度学习/002.线性神经网络/assets/Pasted image 20250911231650.png",
-    "004.AI/003.李沐动手学深度学习/002.线性神经网络/assets/Pasted image 20250911133852.png",
-    "004.AI/003.李沐动手学深度学习/002.线性神经网络/assets/Pasted image 20250911134512.png",
-    "004.AI/003.李沐动手学深度学习/002.线性神经网络/assets/Pasted image 20250911122308.png",
-    "004.AI/003.李沐动手学深度学习/002.线性神经网络/assets/Pasted image 20250911133717.png",
-    "004.AI/003.李沐动手学深度学习/002.线性神经网络/assets/Pasted image 20250911122454.png",
-    "004.AI/003.李沐动手学深度学习/002.线性神经网络/assets/Pasted image 20250910231959.png",
-    "004.AI/003.李沐动手学深度学习/002.线性神经网络/assets/Pasted image 20250910234227.png",
-    "004.AI/003.李沐动手学深度学习/002.线性神经网络/assets",
-    "004.AI/003.李沐动手学深度学习/002.线性神经网络/008.softmax 回归简洁实现.md",
-    "004.AI/003.李沐动手学深度学习/002.线性神经网络/007.softmax 回归从零开始实现.md",
-    "004.AI/003.李沐动手学深度学习/002.线性神经网络/006.图像分类数据集.md",
-    "004.AI/003.李沐动手学深度学习/002.线性神经网络/005.损失函数.md",
-    "004.AI/003.李沐动手学深度学习/002.线性神经网络/004.softmax 回归.md",
-    "004.AI/003.李沐动手学深度学习/002.线性神经网络/003.线性回归简洁实现.md",
-    "004.AI/003.李沐动手学深度学习/002.线性神经网络/002.线性回归从零开始实现.md",
-    "004.AI/003.李沐动手学深度学习/002.线性神经网络/001.线性回归.md",
-    "004.AI/003.李沐动手学深度学习/002.线性神经网络",
-    "004.AI/001.生成式人工智能导论/000.课程内容说明.md",
-    "004.AI/002.吴恩达机器学习/000.课程介绍.md",
+    "未归档/未命名.canvas",
+    "未归档/Drawing.excalidraw.md",
     "004.AI/002.个人学习路线.md",
-    "004.AI/004.面向开发者的大模型手册/000.课程介绍.md",
-    "004.AI/004.面向开发者的大模型手册/001.面向开发者的提示工程/002.提示原则.md",
-    "004.AI/004.面向开发者的大模型手册/001.面向开发者的提示工程/001.简介.md",
-    "004.AI/004.面向开发者的大模型手册/未命名.md",
-    "004.AI/004.面向开发者的大模型手册/001.面向开发者的提示工程",
+    "004.AI/003.李沐动手学深度学习/003.多层感知机/007.模型初始化和激活函数.md",
+    "004.AI/003.李沐动手学深度学习/003.多层感知机/006.数值稳定性.md",
+    "004.AI/003.李沐动手学深度学习/003.多层感知机/assets/Pasted image 20250914115533.png",
+    "004.AI/003.李沐动手学深度学习/003.多层感知机/assets/Pasted image 20250914115130.png",
+    "004.AI/003.李沐动手学深度学习/003.多层感知机/assets/Pasted image 20250914115032.png",
+    "006.工具/002.Markdown/001.markdown公式.md",
+    "004.AI/003.李沐动手学深度学习/003.多层感知机/assets/Pasted image 20250914112819.png",
+    "004.AI/003.李沐动手学深度学习/003.多层感知机/assets/Pasted image 20250914112708.png",
+    "006.工具/004.其他/002.笔记常用字符.md",
+    "004.AI/003.李沐动手学深度学习/003.多层感知机/assets/Pasted image 20250914110500.png",
+    "004.AI/003.李沐动手学深度学习/003.多层感知机/assets/Pasted image 20250914110108.png",
+    "004.AI/003.李沐动手学深度学习/003.多层感知机/assets/Pasted image 20250914102918.png",
+    "004.AI/003.李沐动手学深度学习/003.多层感知机/001.多层感知机.md",
+    "004.AI/003.李沐动手学深度学习/003.多层感知机/assets/Pasted image 20250914100415.png",
+    "004.AI/003.李沐动手学深度学习/003.多层感知机/005.Dropout.md",
+    "004.AI/003.李沐动手学深度学习/003.多层感知机/002.多层感知机代码实现.md",
+    "004.AI/003.李沐动手学深度学习/003.多层感知机/003.模型选择.md",
+    "004.AI/003.李沐动手学深度学习/003.多层感知机/004.权重衰退.md",
+    "004.AI/002.吴恩达机器学习/002.深度学习/006.实践中的神经网络.md",
+    "004.AI/002.吴恩达机器学习/002.深度学习/005.多分类问题.md",
+    "004.AI/002.吴恩达机器学习/002.深度学习/008.机器学习开发实践技巧.md",
+    "004.AI/001.大模型学习路线.md",
+    "004.AI/003.李沐动手学深度学习/003.多层感知机/assets/Pasted image 20250913224017.png",
+    "004.AI/006.LLMForEverybody/001.预训练/003.激活函数/015.ReLU 及其变种 Leaky-ReLU、PReLU.md",
+    "004.AI/003.李沐动手学深度学习/002.线性神经网络/006.图像分类数据集.md",
+    "004.AI/006.LLMForEverybody/001.预训练/003.激活函数/014.Sigmiod、Softmax、Tanh.md",
+    "004.AI/006.LLMForEverybody/001.预训练/001.架构/001.LayerNorm VS. BatchNorm.md",
+    "004.AI/002.吴恩达机器学习/002.深度学习/001.神经网络.md",
+    "004.AI/003.李沐动手学深度学习/003.多层感知机/assets",
+    "004.AI/003.李沐动手学深度学习/000.课程介绍.md",
+    "004.AI/003.李沐动手学深度学习/003.多层感知机",
     "004.AI/003.李沐动手学深度学习/001.预备知识/007.自动求导.md",
-    "004.AI/004.面向开发者的大模型手册",
     "004.AI/003.李沐动手学深度学习/001.预备知识/006.矩阵求导.md",
     "004.AI/003.李沐动手学深度学习/001.预备知识/005.线性代数.md",
     "004.AI/003.李沐动手学深度学习/001.预备知识/004.数据预处理.md",
-    "004.AI/003.李沐动手学深度学习/001.预备知识/003.数据操作.md",
-    "004.AI/003.李沐动手学深度学习/001.预备知识/002.安装.md",
-    "004.AI/003.李沐动手学深度学习/001.预备知识/001.深度学习介绍.md",
-    "004.AI/003.李沐动手学深度学习/001.预备知识/drawing/按特定轴求和.excalidraw.md",
-    "004.AI/003.李沐动手学深度学习/000.课程介绍.md",
-    "004.AI/003.李沐动手学深度学习/001.预备知识/drawing",
-    "004.AI/003.李沐动手学深度学习/001.预备知识/assets",
-    "004.AI/003.李沐动手学深度学习/001.预备知识",
-    "004.AI/006.LLMForEverybody/004.量化/assets",
-    "004.AI/006.LLMForEverybody/004.量化",
+    "004.AI/003.李沐动手学深度学习/002.线性神经网络/assets",
+    "004.AI/003.李沐动手学深度学习/002.线性神经网络",
+    "004.AI/008.Agent",
+    "004.AI/007.RAG/assets/RAG.mp4",
+    "004.AI/007.RAG/assets",
+    "004.AI/007.RAG",
+    "004.AI/006.LLMForEverybody/003.微调/003.Adapters/assets",
     "004.AI/006.LLMForEverybody/003.微调/004.微调框架/assets",
     "未命名.canvas",
     "前端学习，漫漫长路/未命名.canvas",
