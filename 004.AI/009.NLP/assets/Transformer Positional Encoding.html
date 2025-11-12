@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Transformer Positional Encoding</title>
+  <style>
+    body {
+      background-color: #fff;
+      color: #111;
+      font-family: 'Segoe UI', monospace;
+      text-align: center;
+      padding: 0 30px 30px 30px;
+    }
+
+    h1 {
+      color: #227b6c;
+      margin-bottom: 20px;
+    }
+
+    .controls {
+      display: flex;
+      justify-content: center;
+      margin-bottom: 20px;
+    }
+
+    .control-group {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+
+    label {
+      font-weight: bold;
+    }
+
+    input[type="range"] {
+      width: 200px;
+      accent-color: #e09926;
+    }
+
+    input[type="number"] {
+      width: 60px;
+      padding: 4px 8px 4px 6px;
+      font-size: 14px;
+      text-align: left;
+      border: 1px solid #227b6c;
+      border-radius: 4px;
+      background-color: #fff;
+      color: #111;
+    }
+
+    canvas {
+      display: block;
+      margin: 20px auto;
+      border: 1px solid #ccc;
+      background-color: #fff;
+      max-width: 100%;
+    }
+  </style>
+</head>
+<body>
+  <h1>Transformer Positional Encoding</h1>
+
+  <div class="controls">
+    <div class="control-group">
+      <label for="position">📍 position:</label>
+      <input type="range" id="position" min="0" max="511" value="256" step="1">
+      <input type="number" id="pos-number" min="0" max="511" value="256" step="1">
+      <div style="width: 40px;"></div>
+      <label for="dim">📐 d_model:</label>
+      <input type="range" id="dim" min="2" max="64" step="2" value="16">
+      <input type="number" id="dim-number" min="2" max="64" step="2" value="16">
+    </div>
+  </div>
+
+  <canvas id="encodingCanvas" style="width: 90vw; height: auto;"></canvas>
+
+  <script>
+    const canvas = document.getElementById('encodingCanvas');
+    const ctx = canvas.getContext('2d');
+    const positionSlider = document.getElementById('position');
+    const positionNumber = document.getElementById('pos-number');
+    const dimSlider = document.getElementById('dim');
+    const dimNumber = document.getElementById('dim-number');
+
+    const max_len = 512;
+    const marginLeft = 300;
+
+    function getTransformerPE(pos, d_model) {
+      const pe = new Array(d_model).fill(0);
+      for (let i = 0; i < d_model / 2; i++) {
+        const exponent = (2 * i) / d_model;
+        const denominator = Math.pow(10000, exponent);
+        pe[2 * i] = Math.sin(pos / denominator);
+        pe[2 * i + 1] = Math.cos(pos / denominator);
+      }
+      return pe;
+    }
+
+    function drawEncoding(pos, d_model) {
+      const heightPerLine = 60;
+      const totalHeight = heightPerLine * d_model;
+
+      const clientWidth = canvas.clientWidth;
+      const dpr = window.devicePixelRatio || 1;
+      canvas.width = clientWidth * dpr;
+      canvas.height = totalHeight * dpr;
+      ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+
+      const width = canvas.width / dpr;
+      ctx.clearRect(0, 0, width, totalHeight);
+      const pe = getTransformerPE(pos, d_model);
+
+      for (let i = 0; i < d_model / 2; i++) {
+        const exponent = (2 * i) / d_model;
+        const denominator = Math.pow(10000, exponent);
+
+        const indices = [2 * i, 2 * i + 1];
+        const funcs = ['sin', 'cos'];
+
+        indices.forEach((dimIndex, idx) => {
+          const func = funcs[idx];
+          const value = pe[dimIndex];
+          const color = func === 'sin' ? '#227b6c' : '#e09926';
+          const labelY = dimIndex * heightPerLine + 30;
+
+          ctx.strokeStyle = color;
+          ctx.lineWidth = 1;
+          ctx.beginPath();
+
+          for (let x = marginLeft; x < width; x++) {
+            const p = ((x - marginLeft) / (width - marginLeft)) * max_len;
+            const peX = getTransformerPE(p, d_model);
+            const y = dimIndex * heightPerLine + heightPerLine / 2 - peX[dimIndex] * (heightPerLine / 2 - 5);
+            if (x === marginLeft) ctx.moveTo(x, y);
+            else ctx.lineTo(x, y);
+          }
+
+          ctx.stroke();
+
+          const y = dimIndex * heightPerLine + heightPerLine / 2 - value * (heightPerLine / 2 - 5);
+          const x = (pos / max_len) * (width - marginLeft) + marginLeft;
+          ctx.beginPath();
+          ctx.arc(x, y, 3, 0, 2 * Math.PI);
+          ctx.fillStyle = color;
+          ctx.fill();
+
+          const paddedIndex = dimIndex.toString().padStart(2, '0');
+          const displayValue = (value >= 0 ? '+' : '') + value.toFixed(4);
+          let fx = 10;
+
+          ctx.font = 'bold 13px "Courier New", monospace';
+          ctx.textAlign = 'left';
+
+          function drawTextChunk(text, color) {
+            ctx.fillStyle = color;
+            ctx.fillText(text, fx, labelY);
+            fx += ctx.measureText(text).width;
+          }
+
+          drawTextChunk(`[${paddedIndex}]=${func}(`, '#444');
+          drawTextChunk(`${pos}`, '#d62728');
+          drawTextChunk(`/10000^(`, '#444');
+          drawTextChunk(`2*`, '#444');
+          drawTextChunk(`${i}`, '#1f77b4');
+          drawTextChunk(`/`, '#444');
+          drawTextChunk(`${d_model}`, '#2ca02c');
+          drawTextChunk(`))=`, '#444');
+          drawTextChunk(`${displayValue}`, color);
+        });
+      }
+    }
+
+    let pos = Number(positionSlider.value);
+    let d_model = Number(dimSlider.value);
+    drawEncoding(pos, d_model);
+
+    function updatePosition(newVal) {
+      pos = Number(newVal);
+      positionSlider.value = pos;
+      positionNumber.value = pos;
+      drawEncoding(pos, d_model);
+    }
+
+    function updateDim(newVal) {
+      d_model = Number(newVal);
+      dimSlider.value = d_model;
+      dimNumber.value = d_model;
+      drawEncoding(pos, d_model);
+    }
+
+    positionSlider.addEventListener('input', () => updatePosition(positionSlider.value));
+    positionNumber.addEventListener('input', () => updatePosition(positionNumber.value));
+    dimSlider.addEventListener('input', () => updateDim(dimSlider.value));
+    dimNumber.addEventListener('input', () => updateDim(dimNumber.value));
+    window.addEventListener('resize', () => drawEncoding(pos, d_model));
+  </script>
+</body>
+</html>

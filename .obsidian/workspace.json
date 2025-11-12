@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004.AI/009.NLP/005.传统序列模型之 RNN.md",
+                "file": "004.AI/009.NLP/018.Transformer 案例实操.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "005.传统序列模型之 RNN"
+              "title": "018.Transformer 案例实操"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004.AI/002.个人学习路线.md",
+                "file": "006.工具/004.其他/002.笔记常用字符.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "002.个人学习路线"
+              "title": "002.笔记常用字符"
+            }
+          },
+          {
+            "id": "bce53033881353a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "004.AI/009.NLP/009.传统序列模型之 GRU.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "009.传统序列模型之 GRU"
             }
           }
         ]
@@ -131,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004.AI/009.NLP/005.传统序列模型之 RNN.md",
+                "file": "004.AI/009.NLP/018.Transformer 案例实操.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "005.传统序列模型之 RNN 的大纲"
+              "title": "018.Transformer 案例实操 的大纲"
             }
           },
           {
@@ -207,6 +231,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "bases:创建新数据库": false,
       "oz-clear-unused-images:Clear Unused Images": true,
       "obsidian-excalidraw-plugin:新建绘图文件": true,
@@ -221,52 +246,51 @@
   },
   "active": "b0fcc200aa2b1efd",
   "lastOpenFiles": [
-    "004.AI/009.NLP/assets/Pasted image 20251110201615.png",
-    "004.AI/009.NLP/assets/Pasted image 20251110201555.png",
-    "004.AI/009.NLP/assets/Pasted image 20251110201533.png",
-    "004.AI/009.NLP/assets/Pasted image 20251110201513.png",
-    "004.AI/009.NLP/assets/Pasted image 20251110200322.png",
-    "004.AI/009.NLP/assets/Pasted image 20251110200217.png",
-    "004.AI/009.NLP/assets/Pasted image 20251110200115.png",
+    "004.AI/009.NLP/015.Transformer 模型.md",
+    "004.AI/009.NLP/016.Transformer Encoder.md",
+    "004.AI/009.NLP/017.Transformer Decoder.md",
+    "004.AI/009.NLP/018.Transformer 案例实操.md",
+    "004.AI/009.NLP/assets/Pasted image 20251112174744.png",
+    "004.AI/009.NLP/012.Seq2Seq 案例实操.md",
+    "004.AI/009.NLP/assets/Pasted image 20251112174255.png",
+    "004.AI/009.NLP/assets/Pasted image 20251112174206.png",
+    "004.AI/009.NLP/assets/Pasted image 20251112174200.png",
+    "004.AI/009.NLP/assets/Pasted image 20251112174153.png",
+    "004.AI/009.NLP/assets/Pasted image 20251112174146.png",
+    "004.AI/009.NLP/assets/Pasted image 20251112174142.png",
+    "004.AI/009.NLP/assets/Pasted image 20251112172817.png",
+    "004.AI/009.NLP/assets/Pasted image 20251112172727.png",
+    "004.AI/009.NLP/assets/Pasted image 20251112172255.png",
+    "006.工具/004.其他/002.笔记常用字符.md",
+    "006.工具/002.Markdown/001.markdown公式.md",
+    "004.AI/009.NLP/009.传统序列模型之 GRU.md",
+    "004.AI/009.NLP/007.传统序列模型之 LSTM.md",
+    "004.AI/009.NLP/008.LSTM 案例实操.md",
+    "004.AI/009.NLP/assets/Transformer Positional Encoding.html",
+    "004.AI/009.NLP/013.Attention 机制.md",
+    "004.AI/009.NLP/014.Attention 案例实操.md",
+    "004.AI/009.NLP/011.Seq2Seq 模型.md",
+    "004.AI/009.NLP/010.GRU 案例实操.md",
+    "004.AI/009.NLP/006.RNN 案例实操.md",
+    "004.AI/009.NLP/005.传统序列模型之 RNN.md",
+    "004.AI/002.个人学习路线.md",
     "004.AI/009.NLP/004.文本表示之词表示.md",
     "004.AI/009.NLP/003.文本表示之分词.md",
     "004.AI/009.NLP/002.环境准备.md",
     "004.AI/009.NLP/001.导论.md",
-    "004.AI/009.NLP/005.传统序列模型之 RNN.md",
-    "004.AI/009.NLP/assets/Pasted image 20251110191617.png",
-    "004.AI/009.NLP/assets/Pasted image 20251110191542.png",
-    "004.AI/009.NLP/assets/Pasted image 20251110191332.png",
-    "004.AI/009.NLP/assets/Pasted image 20251110190538.png",
     "004.AI/003.李沐动手学深度学习/001.预备知识/002.安装.md",
     "004.AI/009.NLP/assets",
     "004.AI/004.面向开发者的大模型手册/000.课程介绍.md",
     "004.AI/009.NLP",
     "004.AI/004.面向开发者的大模型手册/001.面向开发者的提示工程/002.提示原则.md",
     "004.AI/004.面向开发者的大模型手册/001.面向开发者的提示工程/001.简介.md",
-    "001.计算机基础/001.操作系统/001.CPU 是如何执行程序的？.md",
     "004.AI/003.李沐动手学深度学习/003.多层感知机/assets",
-    "004.AI/003.李沐动手学深度学习/003.多层感知机/007.模型初始化和激活函数.md",
-    "004.AI/003.李沐动手学深度学习/003.多层感知机/006.数值稳定性.md",
-    "004.AI/003.李沐动手学深度学习/003.多层感知机/005.Dropout.md",
-    "004.AI/003.李沐动手学深度学习/003.多层感知机/004.权重衰退.md",
-    "004.AI/003.李沐动手学深度学习/003.多层感知机/003.模型选择.md",
-    "004.AI/003.李沐动手学深度学习/003.多层感知机/002.多层感知机代码实现.md",
-    "004.AI/003.李沐动手学深度学习/003.多层感知机/001.多层感知机.md",
     "004.AI/003.李沐动手学深度学习/003.多层感知机",
-    "003.后端/001.Java/004.SSM/002.SpringFramework实战指南.md",
-    "003.后端/002.Go/Go 路线.md",
-    "003.后端/002.Go/Go语言学习笔记/001.概述/001.特征.md",
-    "003.后端/002.Go/Go语言学习笔记/004.函数/006.错误处理.md",
-    "003.后端/002.Go/Go语言101/001.目录/003.Go官方工具链.md",
-    "002.前端/004.TypeScript/001.基础/001.TS 速览.md",
-    "004.AI/002.个人学习路线.md",
-    "002.前端/006.网络/019.Server-Sent Events.md",
     "004.AI/003.李沐动手学深度学习/002.线性神经网络/assets",
     "004.AI/003.李沐动手学深度学习/002.线性神经网络",
     "004.AI/004.面向开发者的大模型手册/001.面向开发者的提示工程",
     "004.AI/004.面向开发者的大模型手册",
     "004.AI/003.李沐动手学深度学习/001.预备知识/drawing",
-    "004.AI/003.李沐动手学深度学习/001.预备知识/assets",
     "未命名.canvas",
     "前端学习，漫漫长路/未命名.canvas",
     "数据结构与算法/代码随想录/链表/未命名.canvas"
