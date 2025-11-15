@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "003.后端/003.中间件/002.Redis/032.缓存雪崩、击穿、穿透.md",
-                "mode": "preview",
+                "file": "008.英语/001.单词/001.词根/007.medi.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "032.缓存雪崩、击穿、穿透"
+              "title": "007.medi"
             }
           }
         ]
@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004.AI/005.Happy-LLM/008.第七章 大模型应用.md",
+                "file": "008.英语/000.单词本/001.常规.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "008.第七章 大模型应用 的大纲"
+              "title": "001.常规 的大纲"
             }
           },
           {
@@ -138,7 +138,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003.后端/003.中间件/002.Redis/032.缓存雪崩、击穿、穿透.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "032.缓存雪崩、击穿、穿透 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -192,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5
+    "width": 391.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,8 +208,11 @@
       "canvas:新建白板": false
     }
   },
-  "active": "100ae5ead0fcd227",
+  "active": "2eef08d63cfb19fa",
   "lastOpenFiles": [
+    "008.英语/001.单词/001.词根/009.man.md",
+    "008.英语/000.单词本/001.常规.canvas",
+    "003.后端/003.中间件/002.Redis/032.缓存雪崩、击穿、穿透.md",
     "004.AI/009.NLP/assets/Transformer Positional Encoding.html",
     "004.AI/009.NLP/assets/Pasted image 20251112174744.png",
     "004.AI/009.NLP/assets/Pasted image 20251112174255.png",
@@ -249,15 +251,12 @@
     "002.前端/012.前端架构/002.Headless UI/002.在 React 和 Vue3 中使用.md",
     "README.md",
     "index.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "008.英语/000.单词本/001.常规.canvas",
     "copilot/copilot-custom-prompts",
     "copilot",
     "008.英语/000.单词本",
     "003.后端/003.中间件/003.gRPC",
     "003.后端/002.Go/Web 开发/002.Gorm/未命名",
     "003.后端/002.Go/Web 开发/002.Gorm",
-    "003.后端/002.Go/Web 开发/001.Gin",
     "未归档/未命名.canvas",
     "未命名.canvas",
     "前端学习，漫漫长路/未命名.canvas",
