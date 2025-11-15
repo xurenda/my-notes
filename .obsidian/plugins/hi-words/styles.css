@@ -1,0 +1,1096 @@
+/* HiWords Plugin Styles */
+
+/* 词汇高亮样式 */
+.hi-words-highlight {
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+/* 下划线样式 */
+.hi-words-highlight[data-style="underline"] {
+    border-bottom: 2px dashed var(--word-highlight-color, var(--text-muted));
+}
+
+.hi-words-highlight[data-style="underline"]:hover {
+    background-color: color-mix(in srgb, var(--word-highlight-color, var(--text-muted)) 15%, transparent);
+    border-bottom: 2px solid var(--word-highlight-color, var(--text-muted));
+}
+
+/* 背景高亮样式 */
+.hi-words-highlight[data-style="background"] {
+    background-color: color-mix(in srgb, var(--word-highlight-color, var(--text-muted)) 25%, transparent);
+    border-radius: 3px;
+    padding: 0 2px;
+}
+
+.hi-words-highlight[data-style="background"]:hover {
+    background-color: color-mix(in srgb, var(--word-highlight-color, var(--text-muted)) 35%, transparent);
+}
+
+/* 粗体样式 */
+.hi-words-highlight[data-style="bold"] {
+    font-weight: 600;
+    color: var(--word-highlight-color, var(--text-muted));
+}
+
+.hi-words-highlight[data-style="bold"]:hover {
+    background-color: color-mix(in srgb, var(--word-highlight-color, var(--text-muted)) 15%, transparent);
+}
+
+/* 点状下划线样式 */
+.hi-words-highlight[data-style="dotted"] {
+    border-bottom: 2px dotted var(--word-highlight-color, var(--text-muted));
+}
+
+.hi-words-highlight[data-style="dotted"]:hover {
+    background-color: color-mix(in srgb, var(--word-highlight-color, var(--text-muted)) 15%, transparent);
+    border-bottom: 2px solid var(--word-highlight-color, var(--text-muted));
+}
+
+/* 波浪线样式 */
+.hi-words-highlight[data-style="wavy"] {
+    text-decoration: wavy underline var(--word-highlight-color, var(--text-muted));
+    text-decoration-thickness: 1px;
+}
+
+.hi-words-highlight[data-style="wavy"]:hover {
+    background-color: color-mix(in srgb, var(--word-highlight-color, var(--text-muted)) 15%, transparent);
+}
+
+/* 工具提示样式 */
+.hi-words-tooltip {
+    position: absolute;
+    z-index: 1000;
+    background: var(--background-primary);
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 6px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    padding: 10px 14px;
+    max-width: 400px;
+    min-width: 200px;
+    font-size: 14px;
+    animation: hi-words-tooltip-fade-in 0.2s ease;
+    transition: opacity 0.2s ease;
+}
+
+@keyframes hi-words-tooltip-fade-in {
+    from { opacity: 0; transform: translateY(5px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.hi-words-tooltip-title {
+    font-weight: 600;
+    font-size: 15px;
+    color: var(--text-accent);
+    margin-bottom: 4px;
+    padding-bottom: 4px;
+    cursor: pointer;
+}
+
+/* 当标题在容器中时，移除下边距以保持对齐 */
+.hi-words-tooltip-title-container .hi-words-tooltip-title {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.hi-words-tooltip-content {
+    color: var(--text-muted);
+    line-height: 1.5;
+    font-size: 14px;
+    margin-bottom: 6px;
+    /* 限制悬停预览高度，避免过长内容撑开 */
+    max-height: 260px;
+    overflow: auto;
+}
+
+.hi-words-tooltip-source {
+    font-size: 12px;
+    color: var(--text-faint);
+    margin-top: 6px;
+    padding-top: 4px;
+    text-transform: uppercase;
+    border-radius: 4px;
+    padding: 2px 4px;
+    transition: background-color 0.2s ease;
+    cursor: pointer;
+}
+
+.hi-words-tooltip-source:hover {
+    background-color: var(--background-modifier-hover);
+}
+
+/* Markdown 内容样式 - Tooltip */
+.hi-words-tooltip-content p {
+    margin: 0 0 8px 0;
+}
+
+.hi-words-tooltip-content p:last-child {
+    margin-bottom: 0;
+}
+
+.hi-words-tooltip-content ul,
+.hi-words-tooltip-content ol {
+    margin: 4px 0;
+    padding-left: 20px;
+}
+
+.hi-words-tooltip-content code {
+    background: var(--background-secondary);
+    padding: 2px 4px;
+    border-radius: 3px;
+    font-size: 0.9em;
+}
+
+.hi-words-tooltip-content blockquote {
+    border-left: 3px solid var(--text-accent);
+    margin: 4px 0;
+    padding-left: 10px;
+    color: var(--text-muted);
+}
+
+/* Markdown 内容样式 - Tooltip 分隔线 */
+.hi-words-tooltip-content hr {
+    border: none;
+    border-top: 1px solid var(--background-modifier-border);
+    margin: 8px 0;
+}
+
+/* Markdown 标题间距优化 - Tooltip */
+.hi-words-tooltip-content h1,
+.hi-words-tooltip-content h2,
+.hi-words-tooltip-content h3,
+.hi-words-tooltip-content h4,
+.hi-words-tooltip-content h5,
+.hi-words-tooltip-content h6 {
+    margin: 6px 0 4px 0; /* 减小上下间距 */
+    line-height: 1.25;   /* 更紧凑的行高 */
+}
+.hi-words-tooltip-content > :first-child {
+    margin-top: 0 !important; /* 首元素无多余顶距 */
+}
+.hi-words-tooltip-content > :last-child {
+    margin-bottom: 0 !important; /* 尾元素无多余底距 */
+}
+
+/* Markdown 内容样式 - 侧边栏单词卡片 */
+.hi-words-definition p {
+    margin: 0 0 8px 0;
+}
+
+.hi-words-definition p:last-child {
+    margin-bottom: 0;
+}
+
+.hi-words-definition ul,
+.hi-words-definition ol {
+    margin: 4px 0;
+    padding-left: 20px;
+}
+
+.hi-words-definition code {
+    background: var(--background-secondary);
+    padding: 2px 4px;
+    border-radius: 3px;
+    font-size: 0.9em;
+}
+
+.hi-words-definition blockquote {
+    border-left: 3px solid var(--text-accent);
+    margin: 4px 0;
+    padding-left: 10px;
+    color: var(--text-muted);
+}
+
+/* Markdown 内容样式 - 侧边栏单词卡片 分隔线 */
+.hi-words-definition hr {
+    border: none;
+    border-top: 1px solid var(--background-modifier-border);
+    margin: 8px 0;
+}
+
+/* Markdown 标题间距优化 - 侧边栏定义 */
+.hi-words-definition h1,
+.hi-words-definition h2,
+.hi-words-definition h3,
+.hi-words-definition h4,
+.hi-words-definition h5,
+.hi-words-definition h6 {
+    margin: 6px 0 4px 0;
+    line-height: 1.25;
+}
+.hi-words-definition > :first-child {
+    margin-top: 0 !important;
+}
+.hi-words-definition > :last-child {
+    margin-bottom: 0 !important;
+}
+
+/* 侧边栏定义内容的可折叠容器 */
+.hi-words-collapsible {
+    position: relative;
+    transition: max-height 0.25s ease;
+}
+
+/* 折叠状态：限制高度并隐藏溢出 */
+.hi-words-collapsible.collapsed {
+    max-height: 140px;
+    overflow: hidden;
+}
+
+/* 渐变遮罩，提示可展开 */
+/* 取消渐变遮罩，交互改为悬停时覆盖叠层按钮 */
+
+/* 模糊定义内容功能 */
+.hi-words-definition.blur-enabled {
+    filter: blur(4px);
+    transition: filter 0.3s ease;
+    cursor: pointer;
+    user-select: none;
+    position: relative;
+}
+
+.hi-words-definition.blur-enabled:hover {
+    filter: blur(0px);
+    user-select: text;
+}
+
+.hi-words-definition.blur-enabled::before {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: var(--background-primary);
+    color: var(--text-muted);
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 0.8em;
+    pointer-events: none;
+    opacity: 0.8;
+    white-space: nowrap;
+    z-index: 1;
+}
+
+.hi-words-definition.blur-enabled:hover::before {
+    opacity: 0;
+    transition: opacity 0.2s ease;
+}
+
+/* 覆盖式展开/收起叠层（覆盖定义区域，卡片悬停时显示） */
+.hi-words-expand-overlay {
+    position: absolute;
+    left: auto;
+    right: 0px;
+    bottom: 0px;
+    height: auto;
+    min-height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    font-weight: 500;
+    color: white;
+    background: rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(8px);
+    z-index: 2;
+    border-radius: 4px;
+    padding: 2px 8px;
+    opacity: 0;
+    transition: opacity 0.15s ease;
+    pointer-events: auto; /* 始终可点击，避免首次点击丢失 */
+    user-select: none;
+}
+
+.hi-words-word-card:hover .hi-words-expand-overlay {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+/* 设置页面样式 */
+/* 标题和按钮容器 */
+.hi-words-header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* 按钮容器样式 */
+.hi-words-button-container {
+    display: flex;
+    align-items: center;
+}
+
+/* 移除 Setting 组件的默认样式 */
+.hi-words-add-button-setting {
+    border: none;
+    padding: 0;
+    margin: 0;
+}
+
+.hi-words-add-button-setting .setting-item-control {
+    padding: 0;
+}
+
+.hi-words-stats {
+    background: var(--background-secondary);
+    border-radius: 8px;
+    padding: 12px 16px;
+    margin-top: 8px;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 12px;
+}
+
+.hi-words-stats .stat-item {
+    background: var(--background-primary);
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 8px;
+    padding: 12px 14px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    min-height: 72px;
+}
+
+.hi-words-stats .stat-value {
+    font-size: 22px;
+    font-weight: 600;
+    color: var(--text-normal);
+    line-height: 1.2;
+}
+
+.hi-words-stats .stat-label {
+    margin-top: 4px;
+    font-size: 12px;
+    color: var(--text-muted);
+}
+
+@media (max-width: 900px) {
+    .hi-words-stats {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+}
+
+@media (max-width: 600px) {
+    .hi-words-stats {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* 添加词汇模态框样式 */
+.hiwords-word-definition-input {
+    width: 100%;
+    min-height: 100px;
+    margin: 8px 0;
+    
+}
+
+.hiwords-modal-button-container {
+    margin-top: 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hiwords-modal-button-container button.mod-cta {
+    margin-left: 8px;
+}
+
+/* 按钮容器左右分组 */
+.hiwords-modal-button-container .hiwords-button-group-left {
+    display: flex;
+    gap: 8px;
+}
+
+.hiwords-modal-button-container .hiwords-button-group-right {
+    display: flex;
+    gap: 8px;
+    margin-left: auto; /* 确保右侧按钮组始终在右侧 */
+}
+
+/* 表单元素样式 */
+.hiwords-form-item {
+    margin: 8px 0 20px 0;
+}
+
+.hiwords-form-item-label {
+    display: block;
+    margin-bottom: 6px;
+    font-weight: 400;
+    color: var(--text-normal);
+    font-size: 14px;
+    color: var(--text-muted);
+}
+
+.hiwords-form-item select,
+.hiwords-form-item textarea,
+.hiwords-form-item input {
+    width: 100%;
+}
+
+/* 侧边栏样式 */
+.hi-words-sidebar {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    height: 100%;
+    overflow-y: auto;
+    overflow-x: hidden;
+    box-sizing: border-box;
+}
+
+/* Tab 导航样式 - 现代化设计 */
+.hi-words-tab-nav {
+    display: flex;
+    flex-shrink: 0;
+    margin-bottom: 12px;
+    background: var(--background-primary);
+    border-radius: 12px;
+    padding: 4px;
+    border: 1px solid var(--background-modifier-border-hover);
+    position: relative;
+}
+
+.hi-words-tab {
+    flex: 1;
+    padding: 8px 16px;
+    text-align: center;
+    cursor: pointer;
+    background: transparent;
+    color: var(--text-muted);
+    font-size: 13px;
+    font-weight: 500;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    border-radius: 8px;
+    position: relative;
+    z-index: 1;
+    margin: 0 2px;
+    border: none;
+    outline: none;
+}
+
+.hi-words-tab:first-child {
+    margin-left: 0;
+}
+
+.hi-words-tab:last-child {
+    margin-right: 0;
+}
+
+.hi-words-tab:hover:not(.active) {
+    background: var(--background-modifier-hover);
+    color: var(--text-normal);
+    transform: translateY(-1px);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.hi-words-tab.active {
+    background: var(--interactive-accent);
+    color: var(--text-on-accent);
+    font-weight: 600;
+    box-shadow: 0 4px 12px rgba(var(--interactive-accent-rgb), 0.3);
+    transform: translateY(-1px);
+}
+
+.hi-words-tab.active::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0.1) 100%);
+    border-radius: 8px;
+    pointer-events: none;
+}
+
+/* 添加微妙的动画效果 */
+.hi-words-tab::after {
+    content: '';
+    position: absolute;
+    bottom: 2px;
+    left: 50%;
+    width: 0;
+    height: 2px;
+    background: var(--text-accent);
+    border-radius: 1px;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    transform: translateX(-50%);
+}
+
+.hi-words-tab:hover::after {
+    width: 16px;
+}
+
+.hi-words-tab.active::after {
+    width: 24px;
+    background: var(--text-on-accent);
+}
+
+/* 响应式设计 */
+@media (max-width: 480px) {
+    .hi-words-tab {
+        padding: 8px 12px;
+        font-size: 12px;
+    }
+    
+    .hi-words-tab-nav {
+        margin-bottom: 16px;
+        border-radius: 8px;
+        padding: 3px;
+    }
+    
+    /* 小屏幕下强制单栏布局 */
+    .hi-words-word-list {
+        column-count: 1;
+    }
+}
+
+.hi-words-word-list {
+    column-count: auto;
+    column-width: 280px;
+    column-gap: 8px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.hi-words-word-card {
+    background: var(--word-card-bg-color, var(--background-secondary));
+    border: 1px solid color-mix(in srgb, var(--word-card-accent-color, var(--text-muted)) 50%, transparent);
+    border-left: 4px solid var(--word-card-accent-color, var(--text-muted));
+    border-radius: 8px;
+    padding: 10px 14px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    box-sizing: border-box;
+    min-width: 0;
+    break-inside: avoid;
+    margin-bottom: 8px;
+    display: inline-block;
+}
+
+.hi-words-word-card:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
+
+.hi-words-word-card:hover .hi-words-word-definition {
+    color: var(--text-normal);
+}
+
+.hi-words-word-title {
+    margin-bottom: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    z-index: 1;
+    width: 100%;
+    min-height: 24px;
+}
+
+.hi-words-title-mastered-button {
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 20px;
+    height: 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    color: var(--color-green);
+}
+
+.hi-words-title-mastered-button:hover {
+    background-color: var(--background-modifier-hover);
+    color: var(--text-accent);
+}
+
+.hi-words-title-mastered-button:active {
+    background-color: var(--background-modifier-active);
+    transform: scale(0.95);
+}
+
+/* 已掌握状态的按钮样式 */
+.hi-words-word-card-mastered .hi-words-title-mastered-button {
+    color: var(--text-normal);
+}
+
+.hi-words-word-card-mastered .hi-words-title-mastered-button:hover {
+    color: var(--text-accent);
+    background-color: color-mix(in srgb, var(--color-green) 15%, transparent);
+}
+
+/* 弹出框标题容器样式 */
+.hi-words-tooltip-title-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    min-height: 24px;
+    margin-bottom: 4px;
+    padding-bottom: 4px;
+}
+
+/* 弹出框标题中的已掌握按钮样式 */
+.hi-words-tooltip-title-mastered-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 20px;
+    height: 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    color: var(--color-green);
+    flex-shrink: 0;
+}
+
+.hi-words-tooltip-title-mastered-button:hover {
+    background-color: var(--background-modifier-hover);
+    color: var(--text-accent);
+}
+
+.hi-words-tooltip-title-mastered-button:active {
+    background-color: var(--background-modifier-active);
+    transform: scale(0.95);
+}
+
+.hi-words-word-text {
+    font-size: 16px;
+    font-weight: 700;
+    color: var(--text-normal);
+    letter-spacing: 0.5px;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    min-width: 0;
+    cursor: pointer;
+}
+
+.hi-words-word-source {
+    margin-top: 6px;
+    position: relative;
+    z-index: 1;
+    flex: 1;
+    min-width: 0; /* 允许文本截断 */
+    border-radius: 4px;
+    padding: 2px 4px;
+    transition: background-color 0.2s ease;
+    cursor: pointer;
+}
+
+.hi-words-source-text {
+    font-size: 12px;
+    color: var(--text-faint);
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.hi-words-word-definition {
+    font-size: 14px;
+    color: var(--text-muted);
+    line-height: 1.5;
+    margin-top: 8px;
+    position: relative;
+    z-index: 1;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    min-width: 0;
+}
+
+.hi-words-empty-state {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 20px;
+    text-align: center;
+    height: 200px;
+}
+
+.hi-words-empty-text {
+    font-size: 14px;
+    color: var(--text-muted);
+    line-height: 1.5;
+}
+
+/* 响应式调整 */
+@media (max-width: 768px) {
+    .hi-words-sidebar {
+        padding: 12px;
+    }
+    
+    .hi-words-word-card {
+        padding: 12px;
+        border-radius: 10px;
+    }
+    
+    .hi-words-word-text {
+        font-size: 16px;
+    }
+    
+    .hi-words-word-list {
+        gap: 12px;
+    }
+    
+    .hi-words-word-card:hover {
+        transform: none; /* 移动设备上禁用变形效果 */
+    }
+}
+
+/* 已掌握分组样式 */
+.hi-words-mastered-section {
+    margin-top: 20px;
+    padding-top: 16px;
+    border-top: 1px solid var(--background-modifier-border);
+}
+
+.hi-words-mastered-section .hi-words-section-title {
+    color: var(--color-green);
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.hi-words-mastered-section .hi-words-section-title svg {
+    width: 16px;
+    height: 16px;
+    color: var(--color-green);
+}
+
+.hi-words-mastered-word-card {
+    opacity: 0.8;
+    border-left: 3px solid var(--color-green);
+}
+
+.hi-words-mastered-word-card:hover {
+    opacity: 1;
+}
+
+/* 已掌握单词的特殊样式 */
+.hi-words-mastered-word-card .hi-words-word-text {
+    text-decoration: line-through;
+    text-decoration-color: var(--color-green);
+    text-decoration-thickness: 1px;
+}
+
+/* 侧边栏分组样式 */
+.hi-words-section {
+    margin-bottom: 20px;
+}
+
+.hi-words-mastered-section {
+    margin-bottom: 20px;
+    opacity: 0.8;
+}
+
+.hi-words-section-title {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 0;
+    margin-bottom: 12px;
+    font-weight: 600;
+    font-size: 14px;
+    color: var(--text-muted);
+    border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.hi-words-section-icon {
+    width: 16px;
+    height: 16px;
+    color: var(--text-muted);
+}
+
+.hi-words-section-text {
+    flex: 1;
+}
+
+/* 已掌握分组特殊样式 */
+.hi-words-mastered-section .hi-words-section-title {
+    color: var(--color-green);
+}
+
+.hi-words-mastered-section .hi-words-section-icon {
+    color: var(--color-green);
+}
+
+.hi-words-word-source {
+    margin-top: 8px;
+}
+
+.hi-words-word-source:hover {
+    background-color: var(--background-modifier-hover);
+}
+
+/* 已掌握单词卡片样式 */
+.hi-words-word-card-mastered {
+    opacity: 0.7;
+    background-color: var(--background-secondary);
+}
+
+.hi-words-word-card-mastered .hi-words-word-text {
+    color: var(--text-muted);
+}
+
+.hi-words-word-card-mastered:hover {
+    opacity: 1;
+    background-color: var(--background-modifier-hover);
+}
+
+.hi-words-word-card-mastered:hover .hi-words-word-text {
+    color: var(--text-normal);
+}
+
+.hi-words-word-card-mastered:hover .hi-words-definition {
+    color: var(--text-normal);
+}
+
+/* PDF 高亮特定样式 */
+.hi-words-pdf-highlight {
+    /* 继承基础高亮样式，但针对 PDF 做优化 */
+    position: relative;
+    z-index: 1;
+}
+
+/* PDF 中的下划线样式 - 更明显的视觉效果 */
+.hi-words-pdf-highlight[data-style="underline"] {
+    border-bottom: 2px solid var(--word-highlight-color, var(--text-muted));
+    text-decoration: none; /* 避免与 PDF.js 的样式冲突 */
+}
+
+.hi-words-pdf-highlight[data-style="underline"]:hover {
+    background-color: color-mix(in srgb, var(--word-highlight-color, var(--text-muted)) 20%, transparent);
+    border-bottom: 2px solid var(--word-highlight-color, var(--text-muted));
+}
+
+/* PDF 中的背景高亮样式 */
+.hi-words-pdf-highlight[data-style="background"] {
+    background-color: color-mix(in srgb, var(--word-highlight-color, var(--text-muted)) 80%, transparent);
+    border-radius: 2px;
+    padding: 1px 2px;
+}
+
+.hi-words-pdf-highlight[data-style="background"]:hover {
+    background-color: color-mix(in srgb, var(--word-highlight-color, var(--text-muted)) 100%, transparent);
+}
+
+/* PDF 中的粗体样式 */
+.hi-words-pdf-highlight[data-style="bold"] {
+    font-weight: 700;
+    color: var(--word-highlight-color, var(--text-muted));
+}
+
+.hi-words-pdf-highlight[data-style="bold"]:hover {
+    background-color: color-mix(in srgb, var(--word-highlight-color, var(--text-muted)) 20%, transparent);
+}
+
+/* PDF 中的点状下划线样式 */
+.hi-words-pdf-highlight[data-style="dotted"] {
+    border-bottom: 2px dotted var(--word-highlight-color, var(--text-muted));
+    text-decoration: none;
+}
+
+.hi-words-pdf-highlight[data-style="dotted"]:hover {
+    background-color: color-mix(in srgb, var(--word-highlight-color, var(--text-muted)) 20%, transparent);
+    border-bottom: 2px solid var(--word-highlight-color, var(--text-muted));
+}
+
+/* PDF 中的波浪线样式 */
+.hi-words-pdf-highlight[data-style="wavy"] {
+    text-decoration: wavy underline var(--word-highlight-color, var(--text-muted));
+    text-decoration-thickness: 1.5px;
+}
+
+.hi-words-pdf-highlight[data-style="wavy"]:hover {
+    background-color: color-mix(in srgb, var(--word-highlight-color, var(--text-muted)) 20%, transparent);
+}
+
+/* PDF 文本层特殊处理 */
+.textLayer .hi-words-pdf-highlight {
+    /* 确保在 PDF 文本层中正确显示 */
+    display: inline;
+    line-height: inherit;
+    font-family: inherit;
+    font-size: inherit;
+}
+
+/* PDF 容器中的高亮优化 */
+.pdf-container .hi-words-pdf-highlight,
+.mod-pdf .hi-words-pdf-highlight {
+    /* 在 PDF 视图中的特殊优化 */
+    transition: all 0.2s ease;
+}
+
+/* 暗色主题下的 PDF 高亮优化 */
+.theme-dark .hi-words-pdf-highlight {
+    /* 在暗色主题下提供更好的对比度 */
+    opacity: 1;
+}
+
+.theme-dark .hi-words-pdf-highlight[data-style="background"] {
+    background-color: color-mix(in srgb, var(--word-highlight-color, var(--text-muted)) 25%, transparent);
+}
+
+.theme-dark .hi-words-pdf-highlight[data-style="background"]:hover {
+    background-color: color-mix(in srgb, var(--word-highlight-color, var(--text-muted)) 35%, transparent);
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+    /* PDF 高亮在移动设备上的优化 */
+    .hi-words-pdf-highlight {
+        /* 在小屏幕上稍微增加点击区域 */
+        padding: 1px 1px;
+    }
+    
+    .hi-words-pdf-highlight[data-style="background"] {
+        padding: 2px 3px;
+    }
+}
+
+/* 高亮范围设置文本域样式 */
+.hi-words-textarea-container {
+    margin-top: 8px;
+}
+
+.hi-words-textarea-container textarea {
+    width: 100%;
+    resize: vertical;
+    font-family: var(--font-monospace);
+    font-size: var(--font-ui-small);
+    padding: 8px;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 4px;
+    background-color: var(--background-primary);
+    color: var(--text-normal);
+}
+
+.hi-words-textarea-container textarea:focus {
+    outline: none;
+    border-color: var(--interactive-accent);
+}
+
+/* 添加生词本按钮样式 */
+.hi-words-add-book-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px 0;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.hi-words-add-book-container:hover .hi-words-add-book-icon {
+    background-color: var(--background-modifier-hover);
+    color: var(--interactive-accent);
+}
+
+.hi-words-add-book-label {
+    font-size: var(--font-ui-medium);
+    color: var(--text-normal);
+    font-weight: 500;
+}
+
+.hi-words-add-book-icon {
+    padding: 6px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--text-muted);
+    transition: all 0.2s ease;
+}
+
+.hi-words-add-book-icon svg {
+    width: 18px;
+    height: 18px;
+}
+
+/* 生词本图标样式 */
+.hi-words-book-icons {
+    display: flex;
+    gap: 4px;
+    align-items: center;
+}
+
+.hi-words-book-icons .clickable-icon {
+    cursor: pointer;
+    padding: 4px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--text-muted);
+    transition: all 0.2s ease;
+}
+
+.hi-words-book-icons .clickable-icon:hover {
+    background-color: var(--background-modifier-hover);
+    color: var(--text-normal);
+}
+
+.hi-words-book-icons .clickable-icon.mod-warning:hover {
+    color: var(--text-error);
+}
+
+.hi-words-book-icons .clickable-icon svg {
+    width: 16px;
+    height: 16px;
+}
+
+/* 自动填充释义按钮样式 */
+.hiwords-definition-label-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 8px;
+}
+
+.hiwords-auto-fill-btn {
+    cursor: pointer;
+    padding: 4px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--text-muted);
+    transition: all 0.2s ease;
+    position: relative;
+}
+
+.hiwords-auto-fill-btn:hover {
+    background-color: var(--background-modifier-hover);
+    color: var(--interactive-accent);
+}
+
+.hiwords-auto-fill-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hiwords-auto-fill-icon svg {
+    width: 16px;
+    height: 16px;
+}
+
+/* 加载状态 */
+.hiwords-auto-fill-btn.hiwords-loading {
+    pointer-events: none;
+}
+
+.hiwords-auto-fill-btn.hiwords-loading .hiwords-auto-fill-icon {
+    animation: hiwords-spin 1s linear infinite;
+}
+
+@keyframes hiwords-spin {
+    to {
+        transform: rotate(360deg);
+    }
+}

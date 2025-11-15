@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8aa5853ffba7c316",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "004.AI/002.个人学习路线.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "002.个人学习路线"
-            }
-          },
-          {
             "id": "2eef08d63cfb19fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "006.工具/002.Markdown/001.markdown公式.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "001.markdown公式"
-            }
-          },
-          {
-            "id": "131f07cfcc7bd327",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "006.工具/004.其他/002.笔记常用字符.md",
+                "file": "003.后端/003.中间件/002.Redis/032.缓存雪崩、击穿、穿透.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "002.笔记常用字符"
+              "title": "032.缓存雪崩、击穿、穿透"
             }
           }
         ]
@@ -111,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "激活函数",
+                "query": "tag:#word",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -129,7 +81,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "标签"
@@ -155,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004.AI/002.个人学习路线.md",
+                "file": "004.AI/005.Happy-LLM/008.第七章 大模型应用.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "002.个人学习路线 的大纲"
+              "title": "008.第七章 大模型应用 的大纲"
             }
           },
           {
@@ -170,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构与算法/004.左程云算法通关/002.必备/021.嵌套类问题的递归解题套路.md",
+                "file": "004.AI/005.Happy-LLM/008.第七章 大模型应用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "021.嵌套类问题的递归解题套路 的出链列表"
+              "title": "008.第七章 大模型应用 的出链列表"
             }
           },
           {
@@ -184,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构与算法/004.左程云算法通关/002.必备/021.嵌套类问题的递归解题套路.md",
+                "file": "003.后端/003.中间件/002.Redis/032.缓存雪崩、击穿、穿透.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +148,29 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "021.嵌套类问题的递归解题套路 的反向链接列表"
+              "title": "032.缓存雪崩、击穿、穿透 的反向链接列表"
+            }
+          },
+          {
+            "id": "cc2d9dc33ff04713",
+            "type": "leaf",
+            "state": {
+              "type": "hi-words-sidebar",
+              "state": {},
+              "icon": "book-open",
+              "title": "HiWords"
+            }
+          },
+          {
+            "id": "7026712e83a97b39",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "003.后端/003.中间件/002.Redis/032.缓存雪崩、击穿、穿透.md"
+              },
+              "icon": "lucide-info",
+              "title": "032.缓存雪崩、击穿、穿透的笔记属性"
             }
           },
           {
@@ -210,24 +186,13 @@
               "icon": "lucide-archive",
               "title": "添加笔记属性"
             }
-          },
-          {
-            "id": "7026712e83a97b39",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "数据结构与算法/004.左程云算法通关/002.必备/021.嵌套类问题的递归解题套路.md"
-              },
-              "icon": "lucide-info",
-              "title": "021.嵌套类问题的递归解题套路的笔记属性"
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 410.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,54 +209,56 @@
       "canvas:新建白板": false
     }
   },
-  "active": "8aa5853ffba7c316",
+  "active": "2eef08d63cfb19fa",
   "lastOpenFiles": [
+    "003.后端/003.中间件/003.gRPC/001.安装.md",
+    "003.后端/002.Go/Go 路线.md",
+    "002.前端/012.前端架构/002.Headless UI/002.在 React 和 Vue3 中使用.md",
+    "README.md",
+    "index.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "未归档/fastgpt.md",
+    "005.职场实践/003.软技能/001.Leader-技术选型、排期、带新人.md",
+    "005.职场实践/002.工程架构/001.DDD-领域驱动设计.md",
+    "005.职场实践/001.代码片段/001.js/008.canScroll.md",
+    "005.职场实践/001.代码片段/001.js/006.关键词高亮.md",
+    "005.职场实践/001.代码片段/001.js/001.刷新页面.md",
+    "001.计算机基础/001.操作系统/001.CPU 是如何执行程序的？.md",
+    "001.计算机基础/002.设计模式/001.发布订阅.md",
+    "001.计算机基础/001.数据结构与算法/001.左程云算法通关/001.入门/012.链表入门题目-划分链表.md",
+    "001.计算机基础/001.数据结构与算法/001.左程云算法通关/001.入门/005.对数器-验证的重要手段.md",
+    "001.计算机基础/001.数据结构与算法/000.学习规划.md",
+    "001.计算机基础/001.数据结构与算法/003.卡码网/009.奇怪的信.md",
+    "001.计算机基础/001.数据结构与算法/003.卡码网/004.A+B问题IV.md",
+    "001.计算机基础/001.数据结构与算法/004.LeetCodeHot100/004.子串/001.和为 K 的子数组.md",
+    "001.计算机基础/001.数据结构与算法/004.LeetCodeHot100/004.子串/002.滑动窗口最大值.md",
+    "001.计算机基础/001.数据结构与算法/002.代码随想录/001.数组/003.滑动窗口.md",
+    "001.计算机基础/001.数据结构与算法/002.代码随想录/001.数组/002.移除元素.md",
+    "008.英语/000.单词本/001.常规.canvas",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "008.英语/000.单词本",
+    "003.后端/003.中间件/003.gRPC",
+    "003.后端/002.Go/Web 开发/002.Gorm/未命名",
+    "003.后端/002.Go/Web 开发/002.Gorm",
+    "003.后端/002.Go/Web 开发/001.Gin",
+    "003.后端/002.Go/Web 开发",
     "未归档/未命名.canvas",
-    "未归档/Drawing.excalidraw.md",
-    "004.AI/002.个人学习路线.md",
-    "004.AI/003.李沐动手学深度学习/003.多层感知机/007.模型初始化和激活函数.md",
-    "004.AI/003.李沐动手学深度学习/003.多层感知机/006.数值稳定性.md",
     "004.AI/003.李沐动手学深度学习/003.多层感知机/assets/Pasted image 20250914115533.png",
     "004.AI/003.李沐动手学深度学习/003.多层感知机/assets/Pasted image 20250914115130.png",
     "004.AI/003.李沐动手学深度学习/003.多层感知机/assets/Pasted image 20250914115032.png",
-    "006.工具/002.Markdown/001.markdown公式.md",
     "004.AI/003.李沐动手学深度学习/003.多层感知机/assets/Pasted image 20250914112819.png",
     "004.AI/003.李沐动手学深度学习/003.多层感知机/assets/Pasted image 20250914112708.png",
-    "006.工具/004.其他/002.笔记常用字符.md",
     "004.AI/003.李沐动手学深度学习/003.多层感知机/assets/Pasted image 20250914110500.png",
     "004.AI/003.李沐动手学深度学习/003.多层感知机/assets/Pasted image 20250914110108.png",
     "004.AI/003.李沐动手学深度学习/003.多层感知机/assets/Pasted image 20250914102918.png",
-    "004.AI/003.李沐动手学深度学习/003.多层感知机/001.多层感知机.md",
     "004.AI/003.李沐动手学深度学习/003.多层感知机/assets/Pasted image 20250914100415.png",
-    "004.AI/003.李沐动手学深度学习/003.多层感知机/005.Dropout.md",
-    "004.AI/003.李沐动手学深度学习/003.多层感知机/002.多层感知机代码实现.md",
-    "004.AI/003.李沐动手学深度学习/003.多层感知机/003.模型选择.md",
-    "004.AI/003.李沐动手学深度学习/003.多层感知机/004.权重衰退.md",
-    "004.AI/002.吴恩达机器学习/002.深度学习/006.实践中的神经网络.md",
-    "004.AI/002.吴恩达机器学习/002.深度学习/005.多分类问题.md",
-    "004.AI/002.吴恩达机器学习/002.深度学习/008.机器学习开发实践技巧.md",
-    "004.AI/001.大模型学习路线.md",
     "004.AI/003.李沐动手学深度学习/003.多层感知机/assets/Pasted image 20250913224017.png",
-    "004.AI/006.LLMForEverybody/001.预训练/003.激活函数/015.ReLU 及其变种 Leaky-ReLU、PReLU.md",
-    "004.AI/003.李沐动手学深度学习/002.线性神经网络/006.图像分类数据集.md",
-    "004.AI/006.LLMForEverybody/001.预训练/003.激活函数/014.Sigmiod、Softmax、Tanh.md",
-    "004.AI/006.LLMForEverybody/001.预训练/001.架构/001.LayerNorm VS. BatchNorm.md",
-    "004.AI/002.吴恩达机器学习/002.深度学习/001.神经网络.md",
     "004.AI/003.李沐动手学深度学习/003.多层感知机/assets",
-    "004.AI/003.李沐动手学深度学习/000.课程介绍.md",
     "004.AI/003.李沐动手学深度学习/003.多层感知机",
-    "004.AI/003.李沐动手学深度学习/001.预备知识/007.自动求导.md",
-    "004.AI/003.李沐动手学深度学习/001.预备知识/006.矩阵求导.md",
-    "004.AI/003.李沐动手学深度学习/001.预备知识/005.线性代数.md",
-    "004.AI/003.李沐动手学深度学习/001.预备知识/004.数据预处理.md",
-    "004.AI/003.李沐动手学深度学习/002.线性神经网络/assets",
-    "004.AI/003.李沐动手学深度学习/002.线性神经网络",
-    "004.AI/008.Agent",
-    "004.AI/007.RAG/assets/RAG.mp4",
-    "004.AI/007.RAG/assets",
-    "004.AI/007.RAG",
-    "004.AI/006.LLMForEverybody/003.微调/003.Adapters/assets",
-    "004.AI/006.LLMForEverybody/003.微调/004.微调框架/assets",
     "未命名.canvas",
     "前端学习，漫漫长路/未命名.canvas",
     "数据结构与算法/代码随想录/链表/未命名.canvas"
