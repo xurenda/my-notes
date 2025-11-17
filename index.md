@@ -60,7 +60,7 @@ GitHub 地址：[https://github.com/xurenda/my-notes](https://github.com/xurenda
 
 ## Node.js
 
-- [[001.介绍|笔记]]
+- [[002.前端/003.JavaScript/003.运行时之 Node.js/001.介绍|笔记]]
 - 优先级：⭐️⭐️
 
 ## Java 体系

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004.AI/009.NLP/018.Transformer 案例实操.md",
+                "file": "003.后端/003.Python/002.数据分析/002.Numpy 科学计算.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "018.Transformer 案例实操"
+              "title": "002.Numpy 科学计算"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004.AI/009.NLP/009.传统序列模型之 GRU.md",
+                "file": "006.工具/002.Markdown/001.markdown公式.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "009.传统序列模型之 GRU"
+              "title": "001.markdown公式"
             }
           }
         ]
@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "BEM",
+                "query": "Rerank",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004.AI/009.NLP/018.Transformer 案例实操.md",
+                "file": "003.后端/003.Python/002.数据分析/002.Numpy 科学计算.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "018.Transformer 案例实操 的大纲"
+              "title": "002.Numpy 科学计算 的大纲"
             }
           },
           {
@@ -246,51 +246,52 @@
   },
   "active": "b0fcc200aa2b1efd",
   "lastOpenFiles": [
-    "004.AI/009.NLP/015.Transformer 模型.md",
-    "004.AI/009.NLP/016.Transformer Encoder.md",
-    "004.AI/009.NLP/017.Transformer Decoder.md",
-    "004.AI/009.NLP/018.Transformer 案例实操.md",
-    "004.AI/009.NLP/assets/Pasted image 20251112174744.png",
-    "004.AI/009.NLP/012.Seq2Seq 案例实操.md",
-    "004.AI/009.NLP/assets/Pasted image 20251112174255.png",
-    "004.AI/009.NLP/assets/Pasted image 20251112174206.png",
-    "004.AI/009.NLP/assets/Pasted image 20251112174200.png",
-    "004.AI/009.NLP/assets/Pasted image 20251112174153.png",
-    "004.AI/009.NLP/assets/Pasted image 20251112174146.png",
-    "004.AI/009.NLP/assets/Pasted image 20251112174142.png",
-    "004.AI/009.NLP/assets/Pasted image 20251112172817.png",
-    "004.AI/009.NLP/assets/Pasted image 20251112172727.png",
-    "004.AI/009.NLP/assets/Pasted image 20251112172255.png",
-    "006.工具/004.其他/002.笔记常用字符.md",
+    "003.后端/003.Python/002.数据分析/001.导论.md",
+    "003.后端/003.Python/002.数据分析/002.Numpy 科学计算.md",
+    "004.AI/009.NLP/001.导论.md",
+    "003.后端/003.Python/002.数据分析/000.课程介绍.md",
+    "003.后端/003.Python/001.语言基础/000.课程介绍.md",
+    "004.AI/009.NLP/000.课程介绍.md",
+    "004.AI/011.LangChain/000.课程介绍.md",
+    "003.后端/003.Python/002.数据分析",
+    "003.后端/003.Python/001.语言基础",
+    "003.后端/003.Python",
+    "004.AI/011.LangChain/001.概述/001.介绍.md",
+    "004.AI/011.LangChain/002.Model IO/001..md",
+    "004.AI/011.LangChain/001.概述/004.核心组件.md",
+    "004.AI/011.LangChain/001.概述/003.大模型应用开发.md",
+    "004.AI/011.LangChain/001.概述/002.架构.md",
+    "004.AI/009.NLP/002.环境准备.md",
+    "004.AI/009.NLP/019.预训练模型.md",
+    "004.AI/009.NLP/020.BERT 模型案例实操.md",
+    "004.AI/009.NLP/005.传统序列模型之 RNN.md",
     "006.工具/002.Markdown/001.markdown公式.md",
+    "006.工具/002.Markdown/002.markdown中如何写代码.md",
     "004.AI/009.NLP/009.传统序列模型之 GRU.md",
     "004.AI/009.NLP/007.传统序列模型之 LSTM.md",
-    "004.AI/009.NLP/008.LSTM 案例实操.md",
-    "004.AI/009.NLP/assets/Transformer Positional Encoding.html",
-    "004.AI/009.NLP/013.Attention 机制.md",
-    "004.AI/009.NLP/014.Attention 案例实操.md",
-    "004.AI/009.NLP/011.Seq2Seq 模型.md",
-    "004.AI/009.NLP/010.GRU 案例实操.md",
-    "004.AI/009.NLP/006.RNN 案例实操.md",
-    "004.AI/009.NLP/005.传统序列模型之 RNN.md",
-    "004.AI/002.个人学习路线.md",
-    "004.AI/009.NLP/004.文本表示之词表示.md",
-    "004.AI/009.NLP/003.文本表示之分词.md",
-    "004.AI/009.NLP/002.环境准备.md",
-    "004.AI/009.NLP/001.导论.md",
-    "004.AI/003.李沐动手学深度学习/001.预备知识/002.安装.md",
-    "004.AI/009.NLP/assets",
-    "004.AI/004.面向开发者的大模型手册/000.课程介绍.md",
-    "004.AI/009.NLP",
-    "004.AI/004.面向开发者的大模型手册/001.面向开发者的提示工程/002.提示原则.md",
-    "004.AI/004.面向开发者的大模型手册/001.面向开发者的提示工程/001.简介.md",
-    "004.AI/003.李沐动手学深度学习/003.多层感知机/assets",
-    "004.AI/003.李沐动手学深度学习/003.多层感知机",
-    "004.AI/003.李沐动手学深度学习/002.线性神经网络/assets",
-    "004.AI/003.李沐动手学深度学习/002.线性神经网络",
-    "004.AI/004.面向开发者的大模型手册/001.面向开发者的提示工程",
-    "004.AI/004.面向开发者的大模型手册",
-    "004.AI/003.李沐动手学深度学习/001.预备知识/drawing",
+    "004.AI/011.LangChain/002.Model IO",
+    "004.AI/011.LangChain/001.概述/005.helloworld.md",
+    "004.AI/011.LangChain/001.概述/assets/Pasted image 20251113202658.png",
+    "004.AI/011.LangChain/001.概述/assets/Pasted image 20251113202314.png",
+    "004.AI/011.LangChain/001.概述/assets/Pasted image 20251113201521.png",
+    "004.AI/011.LangChain/001.使用概述/assets/Pasted image 20251113200943.png",
+    "004.AI/011.LangChain/001.概述/assets/Pasted image 20251113200536.png",
+    "004.AI/011.LangChain/001.概述/assets/Pasted image 20251113200138.png",
+    "004.AI/011.LangChain/001.概述/assets/Pasted image 20251113195850.png",
+    "004.AI/011.LangChain/001.概述/assets/Pasted image 20251113195725.png",
+    "004.AI/011.LangChain/001.概述/assets/Pasted image 20251113195442.png",
+    "004.AI/011.LangChain/001.概述/assets/Pasted image 20251113195228.png",
+    "004.AI/008.Agent/002.架构.md",
+    "004.AI/008.Agent/001.介绍.md",
+    "004.AI/008.Agent/assets",
+    "004.AI/007.RAG/001.RAG 工作流.md",
+    "004.AI/007.RAG/003.RAG 的缺陷与评估.md",
+    "004.AI/007.RAG/002.向量检索 & 向量数据库.md",
+    "004.AI/011.LangChain/001.概述",
+    "004.AI/011.LangChain/001.概述/assets",
+    "004.AI/011.LangChain",
+    "004.AI/010.Hugging Face 生态/assets",
+    "004.AI/010.Hugging Face 生态",
     "未命名.canvas",
     "前端学习，漫漫长路/未命名.canvas",
     "数据结构与算法/代码随想录/链表/未命名.canvas"
