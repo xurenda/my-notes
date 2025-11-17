@@ -1,0 +1,30 @@
+{
+  "vocabularyBooks": [
+    {
+      "path": "008.英语/000.单词本/001.常规.canvas",
+      "name": "001.常规",
+      "enabled": true
+    }
+  ],
+  "showDefinitionOnHover": true,
+  "enableAutoHighlight": true,
+  "highlightStyle": "underline",
+  "enableMasteredFeature": true,
+  "showMasteredInSidebar": true,
+  "blurDefinitions": true,
+  "ttsTemplate": "https://dict.youdao.com/dictvoice?audio={{word}}&type=2",
+  "aiDictionary": {
+    "apiUrl": "https://api.siliconflow.cn/v1/chat/completions",
+    "apiKeyEnvVar": "HIWORDS_API_KEY",
+    "apiKey": "",
+    "model": "deepseek-ai/DeepSeek-V3",
+    "prompt": "请翻译“{{word}}”这个英文单词为中文\n\n输出格式：\n词性1.中文翻译1；中文翻译2\n词性2.中文翻译3\n\n例如：\n输入：\ncarpenter\n输出：\nn.木工\nv.当木工；做木工活"
+  },
+  "autoLayoutEnabled": true,
+  "cardWidth": 260,
+  "cardHeight": 120,
+  "highlightMode": "all",
+  "highlightPaths": "",
+  "fileNodeParseMode": "filename-with-alias",
+  "masteredDetection": "group"
+}

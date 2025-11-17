@@ -892,16 +892,17 @@ class FileExplorerNoteCount extends obsidian.Plugin {
             doWithFileExplorer(plugin, getViewHandler(revert));
         };
         this.setupRootFolder = (revert = false) => {
+            var _a, _b, _c;
             if (!this.fileExplorer) {
                 console.error('file-explorer not found');
                 return;
             }
-            const root = this.fileExplorer.fileItems['/'];
             if (this.rootFolderEl && !this.settings.addRootFolder) {
                 this.rootFolderEl.remove();
                 this.rootFolderEl = null;
             }
             // Check if root is provided by Obsidian (it shouldn't be in the new releases)
+            const root = (_c = (_b = (_a = this.fileExplorer) === null || _a === void 0 ? void 0 : _a.fileItems) === null || _b === void 0 ? void 0 : _b['/']) !== null && _c !== void 0 ? _c : null;
             if (!root) {
                 // Get the Nav Header
                 let explorerHeaderEl = document.querySelector(this.explorerNavHeaderSelector);
@@ -911,11 +912,14 @@ class FileExplorerNoteCount extends obsidian.Plugin {
                     this.rootFolderEl = explorerHeaderEl.createEl('div', {
                         cls: ['tree-item', 'nav-folder', this.rootFolderClassName],
                     });
-                    this.rootFolderEl.innerHTML = `
-                <div class="oz-explorer-root-nav-folder-title" data-path="/">
-                    <div class="tree-item-inner nav-folder-title-content">${this.app.vault.getName()}</div>
-                </div>
-                `;
+                    let rootTitle = this.rootFolderEl.createEl('div', {
+                        cls: ['oz-explorer-root-nav-folder-title'],
+                        attr: { 'data-path': '/' },
+                    });
+                    let titleContent = rootTitle.createEl('div', {
+                        cls: ['tree-item-inner', 'nav-folder-title-content'],
+                    });
+                    titleContent.textContent = this.app.vault.getName();
                 }
             }
         };
@@ -965,3 +969,5 @@ class FileExplorerNoteCount extends obsidian.Plugin {
 }
 
 module.exports = FileExplorerNoteCount;
+
+/* nosourcemap */
