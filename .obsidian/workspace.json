@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "003.后端/004.中间件/Redis/009.BitMap.md",
-                "mode": "preview",
+                "file": "003.后端/003.Python/002.数据分析/003.Numpy 之 ndarray.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "009.BitMap"
+              "title": "003.Numpy 之 ndarray"
             }
           },
           {
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003.后端/004.中间件/Redis/009.BitMap.md",
+                "file": "003.后端/003.Python/002.数据分析/003.Numpy 之 ndarray.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "009.BitMap 的大纲"
+              "title": "003.Numpy 之 ndarray 的大纲"
             }
           },
           {
@@ -198,6 +198,16 @@
             }
           },
           {
+            "id": "c2ad370314028549",
+            "type": "leaf",
+            "state": {
+              "type": "hi-words-sidebar",
+              "state": {},
+              "icon": "book-open",
+              "title": "HiWords"
+            }
+          },
+          {
             "id": "0b76affd08e30f33",
             "type": "leaf",
             "state": {
@@ -217,17 +227,17 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "数据结构与算法/004.左程云算法通关/002.必备/021.嵌套类问题的递归解题套路.md"
+                "file": "003.后端/003.Python/002.数据分析/003.Numpy 之 ndarray.md"
               },
               "icon": "lucide-info",
-              "title": "021.嵌套类问题的递归解题套路的笔记属性"
+              "title": "003.Numpy 之 ndarray的笔记属性"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 263.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,13 +256,21 @@
   },
   "active": "b0fcc200aa2b1efd",
   "lastOpenFiles": [
+    "003.后端/003.Python/002.数据分析/002.Numpy 科学计算.md",
+    "003.后端/003.Python/002.数据分析/003.Numpy 之 ndarray.md",
+    "003.后端/003.Python/002.数据分析/001.导论.md",
+    "003.后端/003.Python/002.数据分析/000.课程介绍.md",
+    "未归档/1., 2.], [3., 4..md",
+    "008.英语/000.单词本/001.常规.canvas",
+    "004.AI/011.LangChain/002.Model IO/001..md",
+    "004.AI/009.NLP/014.Attention 案例实操.md",
+    "003.后端/004.中间件/Redis/009.BitMap.md",
+    "006.工具/004.其他/002.笔记常用字符.md",
     "003.后端/004.中间件/Redis/assets/Pasted image 20240831112824.png",
     "003.后端/004.中间件/Redis/assets/Pasted image 20240830215741.png",
     "003.后端/004.中间件/MySQL/005.count 聚合函数.md",
     "003.后端/004.中间件/MySQL/003.索引.md",
     "003.后端/004.中间件/MySQL/000.目录.md",
-    "003.后端/003.Python/002.数据分析/002.Numpy 科学计算.md",
-    "008.英语/000.单词本/001.常规.canvas",
     "008.英语/000.单词本",
     "003.后端/003.中间件/001.MySQL/assets/Pasted image 20240911122936.png",
     "003.后端/003.中间件/001.MySQL/assets/Pasted image 20240911122146.png",
@@ -262,7 +280,6 @@
     "003.后端/003.中间件/001.MySQL/assets/Pasted image 20240910220812.png",
     "003.后端/003.中间件/001.MySQL/assets/Pasted image 20240910220756.png",
     "003.后端/003.中间件/001.MySQL/assets/Pasted image 20240910220658.png",
-    "003.后端/003.中间件/001.MySQL/assets/Pasted image 20240910210525.png",
     "003.后端/003.中间件/002.Redis/drawing/跳表.excalidraw.md",
     "003.后端/003.中间件/003.gRPC/001.安装.md",
     "003.后端/003.中间件/001.MySQL/assets",
@@ -280,13 +297,6 @@
     "003.后端/003.中间件/002.Redis/assets",
     "003.后端/003.中间件/002.Redis/036.Java 集成.md",
     "003.后端/003.中间件/002.Redis/035.BigKey.md",
-    "003.后端/003.中间件/002.Redis/034.高性能和高并发.md",
-    "003.后端/003.中间件/002.Redis/033.数据一致性.md",
-    "003.后端/003.中间件/002.Redis/032.缓存雪崩、击穿、穿透.md",
-    "003.后端/003.中间件/002.Redis/030.哨兵机制.md",
-    "003.后端/003.中间件/002.Redis/031.集群模式.md",
-    "003.后端/003.中间件/002.Redis/029.主从复制.md",
-    "003.后端/003.中间件/002.Redis/028.发布订阅.md",
     "003.后端/003.中间件/003.gRPC",
     "003.后端/003.中间件/001.MySQL",
     "003.后端/003.中间件/002.Redis",
