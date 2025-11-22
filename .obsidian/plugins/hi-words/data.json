@@ -18,7 +18,7 @@
     "apiKeyEnvVar": "HIWORDS_API_KEY",
     "apiKey": "",
     "model": "deepseek-ai/DeepSeek-V3",
-    "prompt": "请翻译“{{word}}”这个英文单词为中文\n\n输出格式：\n词性1.中文翻译1；中文翻译2\n词性2.中文翻译3\n\n例如：\n输入：\ncarpenter\n输出：\nn.木工\nv.当木工；做木工活"
+    "prompt": "请翻译“{{word}}”这个英文单词为中文\n\n输出格式：\n词性1.中文翻译1；中文翻译2\n词性2.中文翻译3\n\n例如：carpenter\nn.木工\nv.当木工；做木工活"
   },
   "autoLayoutEnabled": true,
   "cardWidth": 260,

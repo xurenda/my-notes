@@ -11,24 +11,12 @@
             "id": "2eef08d63cfb19fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "008.英语/001.单词/001.词根/007.medi.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "007.数学/001.初中数学/第6部分 统计与概率/第2课时 数据的分析.pdf"
               },
-              "icon": "lucide-file",
-              "title": "007.medi"
+              "icon": "lucide-file-text",
+              "title": "第2课时 数据的分析"
             }
           }
         ]
@@ -210,8 +198,14 @@
   },
   "active": "2eef08d63cfb19fa",
   "lastOpenFiles": [
-    "008.英语/001.单词/001.词根/009.man.md",
+    "007.数学/学习规划.md",
+    "未归档/初中数学.md",
+    "007.数学/001.初中数学/第1部分 数与式/第4课时 二次根式.pdf",
+    "004.AI/001.大模型学习路线.md",
     "008.英语/000.单词本/001.常规.canvas",
+    "004.AI/009.NLP/018.Transformer 案例实操.md",
+    "008.英语/001.单词/001.词根/007.medi.md",
+    "008.英语/001.单词/001.词根/009.man.md",
     "003.后端/003.中间件/002.Redis/032.缓存雪崩、击穿、穿透.md",
     "004.AI/009.NLP/assets/Transformer Positional Encoding.html",
     "004.AI/009.NLP/assets/Pasted image 20251112174744.png",
@@ -225,7 +219,6 @@
     "004.AI/009.NLP/assets/Pasted image 20251112172727.png",
     "004.AI/009.NLP/assets/Pasted image 20251112172255.png",
     "004.AI/009.NLP/assets",
-    "004.AI/009.NLP/018.Transformer 案例实操.md",
     "004.AI/009.NLP/017.Transformer Decoder.md",
     "004.AI/009.NLP/016.Transformer Encoder.md",
     "004.AI/009.NLP/015.Transformer 模型.md",
@@ -247,16 +240,11 @@
     "001.计算机基础/001.操作系统/001.CPU 是如何执行程序的？.md",
     "001.计算机基础/001.操作系统",
     "003.后端/003.中间件/003.gRPC/001.安装.md",
-    "003.后端/002.Go/Go 路线.md",
-    "002.前端/012.前端架构/002.Headless UI/002.在 React 和 Vue3 中使用.md",
-    "README.md",
-    "index.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "008.英语/000.单词本",
     "003.后端/003.中间件/003.gRPC",
     "003.后端/002.Go/Web 开发/002.Gorm/未命名",
-    "003.后端/002.Go/Web 开发/002.Gorm",
     "未归档/未命名.canvas",
     "未命名.canvas",
     "前端学习，漫漫长路/未命名.canvas",
