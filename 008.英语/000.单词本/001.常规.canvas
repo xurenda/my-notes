@@ -9,12 +9,12 @@
 		{"id":"34dcde05833127fe","type":"text","text":"rest\n\n剩余的；休息","x":610,"y":190,"width":260,"height":120},
 		{"id":"99ac9528e2b2487f","type":"text","text":"sequence\n\n序列","x":50,"y":330,"width":260,"height":120},
 		{"id":"b3eaf674c89d887c","type":"text","text":"acknowledge\n\n承认、确认","x":330,"y":330,"width":260,"height":120},
-		{"id":"c2468faa0a9a98dc","type":"text","text":"send\n\n发送","x":610,"y":330,"width":260,"height":120},
-		{"id":"f216473b44e4d59c","type":"text","text":"estab\n\n建立的、既定的","x":50,"y":470,"width":260,"height":120},
-		{"id":"4ad73d8999d79630","type":"text","text":"record\n\n记录","x":330,"y":470,"width":260,"height":120},
-		{"id":"adea85ff37fc3a97","type":"text","text":"synchronization\n\n同步","x":610,"y":470,"width":260,"height":120},
-		{"id":"6b45874b2157436a","type":"text","text":"receive\n\n接收","x":50,"y":610,"width":260,"height":120},
-		{"id":"e7be93aeb2537f13","type":"text","text":"finish\n\n完成","x":944,"y":74,"width":260,"height":120}
+		{"id":"c2468faa0a9a98dc","type":"text","text":"send\n发送","x":944,"y":74,"width":260,"height":120},
+		{"id":"f216473b44e4d59c","type":"text","text":"estab\n\n建立的、既定的","x":610,"y":330,"width":260,"height":120},
+		{"id":"4ad73d8999d79630","type":"text","text":"record\n\n记录","x":50,"y":470,"width":260,"height":120},
+		{"id":"adea85ff37fc3a97","type":"text","text":"synchronization\n\n同步","x":330,"y":470,"width":260,"height":120},
+		{"id":"6b45874b2157436a","type":"text","text":"receive\n\n接收","x":610,"y":470,"width":260,"height":120},
+		{"id":"e7be93aeb2537f13","type":"text","text":"finish\n\n完成","x":1216,"y":74,"width":260,"height":120}
 	],
 	"edges":[]
 }
