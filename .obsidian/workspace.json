@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "003.后端/003.Python/002.数据分析/003.Numpy 之 ndarray.md",
+                "file": "004.AI/011.LangChain/002.Model IO/005.Output Parsers.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "003.Numpy 之 ndarray"
+              "title": "005.Output Parsers"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "006.工具/002.Markdown/001.markdown公式.md",
+                "file": "006.工具/003.Obsidian/001.Callouts.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "001.markdown公式"
+              "title": "001.Callouts"
             }
           }
         ]
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003.后端/003.Python/002.数据分析/003.Numpy 之 ndarray.md",
+                "file": "004.AI/011.LangChain/002.Model IO/005.Output Parsers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "003.Numpy 之 ndarray 的大纲"
+              "title": "005.Output Parsers 的大纲"
             }
           },
           {
@@ -227,10 +227,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "003.后端/003.Python/002.数据分析/003.Numpy 之 ndarray.md"
+                "file": "004.AI/011.LangChain/002.Model IO/005.Output Parsers.md"
               },
               "icon": "lucide-info",
-              "title": "003.Numpy 之 ndarray的笔记属性"
+              "title": "005.Output Parsers的笔记属性"
             }
           }
         ]
@@ -256,16 +256,26 @@
   },
   "active": "b0fcc200aa2b1efd",
   "lastOpenFiles": [
-    "003.后端/003.Python/002.数据分析/002.Numpy 科学计算.md",
+    "004.AI/011.LangChain/002.Model IO/003.Prompt Template 1.md",
+    "004.AI/011.LangChain/002.Model IO/005.Output Parsers.md",
+    "004.AI/011.LangChain/002.Model IO/004.Prompt Template 2.md",
+    "004.AI/011.LangChain/002.Model IO/002.调用模型 2.md",
+    "004.AI/011.LangChain/002.Model IO/001.调用模型 1.md",
+    "006.工具/003.Obsidian/001.Callouts.md",
+    "006.工具/002.Markdown/001.markdown公式.md",
+    "004.AI/011.LangChain/001.概述/004.核心组件.md",
+    "004.AI/011.LangChain/001.概述/003.大模型应用开发.md",
+    "004.AI/011.LangChain/001.概述/002.架构.md",
+    "004.AI/011.LangChain/001.概述/001.介绍.md",
+    "006.工具/004.其他/002.笔记常用字符.md",
     "003.后端/003.Python/002.数据分析/003.Numpy 之 ndarray.md",
+    "003.后端/003.Python/002.数据分析/002.Numpy 科学计算.md",
     "003.后端/003.Python/002.数据分析/001.导论.md",
     "003.后端/003.Python/002.数据分析/000.课程介绍.md",
     "未归档/1., 2.], [3., 4..md",
     "008.英语/000.单词本/001.常规.canvas",
-    "004.AI/011.LangChain/002.Model IO/001..md",
     "004.AI/009.NLP/014.Attention 案例实操.md",
     "003.后端/004.中间件/Redis/009.BitMap.md",
-    "006.工具/004.其他/002.笔记常用字符.md",
     "003.后端/004.中间件/Redis/assets/Pasted image 20240831112824.png",
     "003.后端/004.中间件/Redis/assets/Pasted image 20240830215741.png",
     "003.后端/004.中间件/MySQL/005.count 聚合函数.md",
@@ -285,18 +295,8 @@
     "003.后端/003.中间件/001.MySQL/assets",
     "003.后端/003.中间件/001.MySQL/009.MySQL 是怎么加行级锁的？.md",
     "003.后端/003.中间件/001.MySQL/008.MySQL 的锁.md",
-    "003.后端/003.中间件/001.MySQL/007.可重复读隔离级别解决幻读问题.md",
-    "003.后端/003.中间件/001.MySQL/006.事务隔离级别.md",
-    "003.后端/003.中间件/001.MySQL/005.count 聚合函数.md",
-    "003.后端/003.中间件/001.MySQL/004.索引失效.md",
-    "003.后端/003.中间件/001.MySQL/003.索引.md",
-    "003.后端/003.中间件/001.MySQL/001.执行流程.md",
-    "003.后端/003.中间件/001.MySQL/002.数据存储.md",
-    "003.后端/003.中间件/001.MySQL/000.目录.md",
     "003.后端/003.中间件/002.Redis/drawing",
     "003.后端/003.中间件/002.Redis/assets",
-    "003.后端/003.中间件/002.Redis/036.Java 集成.md",
-    "003.后端/003.中间件/002.Redis/035.BigKey.md",
     "003.后端/003.中间件/003.gRPC",
     "003.后端/003.中间件/001.MySQL",
     "003.后端/003.中间件/002.Redis",
