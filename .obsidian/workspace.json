@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004.AI/011.LangChain/002.Model IO/005.Output Parsers.md",
+                "file": "004.AI/011.LangChain/006.Agents/003.嵌入记忆组件.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "005.Output Parsers"
+              "title": "003.嵌入记忆组件"
             }
           },
           {
             "id": "f84b7c512c545213",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "006.工具/004.其他/002.笔记常用字符.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "002.笔记常用字符"
-            }
-          },
-          {
-            "id": "bce53033881353a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,6 +53,30 @@
               },
               "icon": "lucide-file",
               "title": "001.Callouts"
+            }
+          },
+          {
+            "id": "bce53033881353a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "006.工具/002.Markdown/003.Mermaid.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "003.Mermaid"
             }
           }
         ]
@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Rerank",
+                "query": "Ollama",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004.AI/011.LangChain/002.Model IO/005.Output Parsers.md",
+                "file": "004.AI/011.LangChain/006.Agents/003.嵌入记忆组件.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "005.Output Parsers 的大纲"
+              "title": "003.嵌入记忆组件 的大纲"
             }
           },
           {
@@ -227,10 +227,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "004.AI/011.LangChain/002.Model IO/005.Output Parsers.md"
+                "file": "004.AI/011.LangChain/004.Memory/001.概述.md"
               },
               "icon": "lucide-info",
-              "title": "005.Output Parsers的笔记属性"
+              "title": "001.概述的笔记属性"
             }
           }
         ]
@@ -254,55 +254,55 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "b0fcc200aa2b1efd",
+  "active": "100ae5ead0fcd227",
   "lastOpenFiles": [
-    "004.AI/011.LangChain/002.Model IO/003.Prompt Template 1.md",
-    "004.AI/011.LangChain/002.Model IO/005.Output Parsers.md",
-    "004.AI/011.LangChain/002.Model IO/004.Prompt Template 2.md",
-    "004.AI/011.LangChain/002.Model IO/002.调用模型 2.md",
-    "004.AI/011.LangChain/002.Model IO/001.调用模型 1.md",
+    "004.AI/011.LangChain/007.Retrieval",
+    "004.AI/011.LangChain/004.Memory/002.其他记忆模块.md",
+    "004.AI/011.LangChain/004.Memory/001.基础记忆模块.md",
+    "004.AI/011.LangChain/005.Tools/001.Tools.md",
+    "004.AI/011.LangChain/006.Agents/001.入门使用.md",
+    "004.AI/011.LangChain/006.Agents/002.使用工具.md",
+    "004.AI/011.LangChain/006.Agents/003.嵌入记忆组件.md",
+    "004.AI/011.LangChain/006.Agents/assets/Pasted image 20251201104056.png",
     "006.工具/003.Obsidian/001.Callouts.md",
-    "006.工具/002.Markdown/001.markdown公式.md",
-    "004.AI/011.LangChain/001.概述/004.核心组件.md",
-    "004.AI/011.LangChain/001.概述/003.大模型应用开发.md",
-    "004.AI/011.LangChain/001.概述/002.架构.md",
-    "004.AI/011.LangChain/001.概述/001.介绍.md",
+    "002.前端/012.前端架构/001.前端架构师之路/009.前端日志埋点系统的架构设计.md",
+    "006.工具/002.Markdown/003.Mermaid.md",
+    "004.AI/011.LangChain/006.Agents/assets/Pasted image 20251127103227.png",
+    "004.AI/011.LangChain/006.Agents/assets",
+    "004.AI/011.LangChain/006.Agents",
+    "004.AI/011.LangChain/005.Tools/assets/Pasted image 20251126141710.png",
+    "004.AI/011.LangChain/005.Tools/assets/Pasted image 20251126140925.png",
+    "004.AI/011.LangChain/005.Tools/assets",
+    "004.AI/011.LangChain/005.Tools",
+    "002.前端/012.前端架构/001.前端架构师之路/010.前端权限系统的设计与实现.md",
+    "002.前端/012.前端架构/001.前端架构师之路/011.统一状态管理架构.md",
+    "002.前端/012.前端架构/001.前端架构师之路/012.表单系统设计：动态表单 + 校验 + 可配置化.md",
+    "002.前端/012.前端架构/001.前端架构师之路/013.表格系统架构：列配置、嵌套数据、复杂交互.md",
+    "002.前端/012.前端架构/001.前端架构师之路/014.前端多语言国际化架构设计.md",
+    "002.前端/012.前端架构/001.前端架构师之路/015.前端可配置化系统设计：从硬编码到可视化配置.md",
+    "002.前端/012.前端架构/001.前端架构师之路/016.前端性能优化全景图与落地方案.md",
+    "002.前端/012.前端架构/001.前端架构师之路/017.前端缓存设计全攻略：本地缓存 + 接口缓存.md",
+    "002.前端/012.前端架构/001.前端架构师之路/018.前端测试体系构建：组件测试、集成测试与 E2E.md",
+    "002.前端/012.前端架构/001.前端架构师之路/019.高并发与大数据量下的前端架构优化.md",
+    "002.前端/012.前端架构/001.前端架构师之路/020.模块拆分、包管理与微前端架构实战.md",
+    "002.前端/012.前端架构/001.前端架构师之路/021.前端权限体系设计：动态路由、按钮级权限与灰度控制.md",
+    "002.前端/012.前端架构/001.前端架构师之路/022.前端工程化深度实践：构建、发布、CICD 流程指南.md",
+    "002.前端/012.前端架构/001.前端架构师之路/023.可配置平台架构设计：从组件化到 DSL 的演进之路.md",
+    "002.前端/012.前端架构/001.前端架构师之路/024.前端性能优化体系：从指标定义到监控闭环的实战指南.md",
     "006.工具/004.其他/002.笔记常用字符.md",
-    "003.后端/003.Python/002.数据分析/003.Numpy 之 ndarray.md",
-    "003.后端/003.Python/002.数据分析/002.Numpy 科学计算.md",
-    "003.后端/003.Python/002.数据分析/001.导论.md",
-    "003.后端/003.Python/002.数据分析/000.课程介绍.md",
-    "未归档/1., 2.], [3., 4..md",
+    "004.AI/011.LangChain/004.Memory/assets/Pasted image 20251125194422.png",
+    "004.AI/011.LangChain/004.Memory/assets/Pasted image 20251125181003.png",
+    "004.AI/011.LangChain/004.Memory/assets/Pasted image 20251125180834.png",
+    "004.AI/011.LangChain/004.Memory/assets/Pasted image 20251125173909.png",
+    "004.AI/011.LangChain/004.Memory/assets/Pasted image 20251125175001.png",
+    "004.AI/011.LangChain/004.Memory/assets",
+    "004.AI/011.LangChain/004.Memory",
+    "004.AI/011.LangChain/003.Chains/assets/Pasted image 20251125170955.png",
+    "004.AI/011.LangChain/003.Chains/assets",
+    "004.AI/011.LangChain/003.Chains",
     "008.英语/000.单词本/001.常规.canvas",
-    "004.AI/009.NLP/014.Attention 案例实操.md",
-    "003.后端/004.中间件/Redis/009.BitMap.md",
-    "003.后端/004.中间件/Redis/assets/Pasted image 20240831112824.png",
-    "003.后端/004.中间件/Redis/assets/Pasted image 20240830215741.png",
-    "003.后端/004.中间件/MySQL/005.count 聚合函数.md",
-    "003.后端/004.中间件/MySQL/003.索引.md",
-    "003.后端/004.中间件/MySQL/000.目录.md",
     "008.英语/000.单词本",
-    "003.后端/003.中间件/001.MySQL/assets/Pasted image 20240911122936.png",
-    "003.后端/003.中间件/001.MySQL/assets/Pasted image 20240911122146.png",
-    "003.后端/003.中间件/001.MySQL/assets/Pasted image 20240911115656.png",
-    "003.后端/003.中间件/001.MySQL/assets/Pasted image 20240911111225.png",
-    "003.后端/003.中间件/001.MySQL/assets/Pasted image 20240911105643.png",
-    "003.后端/003.中间件/001.MySQL/assets/Pasted image 20240910220812.png",
-    "003.后端/003.中间件/001.MySQL/assets/Pasted image 20240910220756.png",
-    "003.后端/003.中间件/001.MySQL/assets/Pasted image 20240910220658.png",
-    "003.后端/003.中间件/002.Redis/drawing/跳表.excalidraw.md",
-    "003.后端/003.中间件/003.gRPC/001.安装.md",
     "003.后端/003.中间件/001.MySQL/assets",
-    "003.后端/003.中间件/001.MySQL/009.MySQL 是怎么加行级锁的？.md",
-    "003.后端/003.中间件/001.MySQL/008.MySQL 的锁.md",
-    "003.后端/003.中间件/002.Redis/drawing",
-    "003.后端/003.中间件/002.Redis/assets",
-    "003.后端/003.中间件/003.gRPC",
-    "003.后端/003.中间件/001.MySQL",
-    "003.后端/003.中间件/002.Redis",
-    "003.后端/003.中间件",
-    "003.后端/002.Go/Web 开发/001.Gin",
-    "003.后端/002.Go/Web 开发/002.Gorm",
     "未命名.canvas",
     "前端学习，漫漫长路/未命名.canvas",
     "数据结构与算法/代码随想录/链表/未命名.canvas"
