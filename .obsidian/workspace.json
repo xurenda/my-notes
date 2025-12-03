@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004.AI/011.LangChain/006.Agents/003.嵌入记忆组件.md",
+                "file": "004.AI/011.LangChain/007.Retrieval/005.向量存储 Vector Stores.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "003.嵌入记忆组件"
+              "title": "005.向量存储 Vector Stores"
             }
           },
           {
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004.AI/011.LangChain/006.Agents/003.嵌入记忆组件.md",
+                "file": "004.AI/011.LangChain/007.Retrieval/005.向量存储 Vector Stores.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "003.嵌入记忆组件 的大纲"
+              "title": "005.向量存储 Vector Stores 的大纲"
             }
           },
           {
@@ -254,8 +254,23 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "100ae5ead0fcd227",
+  "active": "b0fcc200aa2b1efd",
   "lastOpenFiles": [
+    "004.AI/011.LangChain/007.Retrieval/004.文档嵌入模型 Text Embedding Models.md",
+    "004.AI/011.LangChain/007.Retrieval/003.文档拆分器 Text Splitters.md",
+    "004.AI/011.LangChain/007.Retrieval/002.文档加载器 Document Loaders.md",
+    "004.AI/011.LangChain/007.Retrieval/001.Retrieval 模块的设计意义.md",
+    "004.AI/011.LangChain/007.Retrieval/005.向量存储 Vector Stores.md",
+    "004.AI/011.LangChain/007.Retrieval/assets/Pasted image 20251202202917.png",
+    "006.工具/003.Obsidian/001.Callouts.md",
+    "004.AI/011.LangChain/007.Retrieval/assets/Pasted image 20251202104522.png",
+    "004.AI/011.LangChain/007.Retrieval/assets/Pasted image 20251202104320.png",
+    "004.AI/009.NLP/004.文本表示之词表示.md",
+    "004.AI/011.LangChain/007.Retrieval/assets/Pasted image 20251202103602.png",
+    "004.AI/011.LangChain/007.Retrieval/assets/Pasted image 20251202103305.png",
+    "004.AI/011.LangChain/007.Retrieval/assets",
+    "003.后端/003.Python/002.数据分析/009.RFM 案例.md",
+    "004.AI/011.LangChain/006.Agents/003.嵌入记忆组件.md",
     "003.后端/003.Python/002.数据分析/assets/学生成绩数据.png",
     "003.后端/003.Python/002.数据分析/assets/uniqlo.csv",
     "003.后端/003.Python/002.数据分析/assets/stock_day.csv",
@@ -263,14 +278,7 @@
     "003.后端/003.Python/002.数据分析/assets/image-20240902061104339.png",
     "003.后端/003.Python/002.数据分析/assets/image-20240902060840535-1725228522315-1.png",
     "003.后端/003.Python/002.数据分析/assets/image-20240902060626347.png",
-    "003.后端/003.Python/002.数据分析/assets/image-20240902060406346.png",
-    "003.后端/003.Python/002.数据分析/assets/image-20240902060239499.png",
-    "003.后端/003.Python/002.数据分析/assets/image-20240902053935190.png",
-    "003.后端/003.Python/002.数据分析/assets/image-20240831231814065.png",
-    "003.后端/003.Python/002.数据分析/assets/image-20240831231751903.png",
-    "003.后端/003.Python/002.数据分析/assets/image-20240831231730179.png",
     "003.后端/003.Python/002.数据分析/assets",
-    "003.后端/003.Python/002.数据分析/009.RFM 案例.md",
     "003.后端/003.Python/002.数据分析/008.Matplotlib.md",
     "003.后端/003.Python/002.数据分析/007.Pandas 高级处理.md",
     "003.后端/003.Python/002.数据分析/006.Pandas 数据操作 2.md",
@@ -285,8 +293,6 @@
     "004.AI/011.LangChain/005.Tools/001.Tools.md",
     "004.AI/011.LangChain/006.Agents/001.入门使用.md",
     "004.AI/011.LangChain/006.Agents/002.使用工具.md",
-    "004.AI/011.LangChain/006.Agents/003.嵌入记忆组件.md",
-    "006.工具/003.Obsidian/001.Callouts.md",
     "002.前端/012.前端架构/001.前端架构师之路/009.前端日志埋点系统的架构设计.md",
     "006.工具/002.Markdown/003.Mermaid.md",
     "004.AI/011.LangChain/006.Agents/assets",
@@ -294,14 +300,7 @@
     "004.AI/011.LangChain/005.Tools/assets",
     "004.AI/011.LangChain/005.Tools",
     "002.前端/012.前端架构/001.前端架构师之路/010.前端权限系统的设计与实现.md",
-    "002.前端/012.前端架构/001.前端架构师之路/011.统一状态管理架构.md",
-    "002.前端/012.前端架构/001.前端架构师之路/012.表单系统设计：动态表单 + 校验 + 可配置化.md",
-    "002.前端/012.前端架构/001.前端架构师之路/013.表格系统架构：列配置、嵌套数据、复杂交互.md",
-    "002.前端/012.前端架构/001.前端架构师之路/014.前端多语言国际化架构设计.md",
-    "002.前端/012.前端架构/001.前端架构师之路/015.前端可配置化系统设计：从硬编码到可视化配置.md",
-    "002.前端/012.前端架构/001.前端架构师之路/016.前端性能优化全景图与落地方案.md",
     "004.AI/011.LangChain/004.Memory/assets",
-    "004.AI/011.LangChain/004.Memory",
     "008.英语/000.单词本/001.常规.canvas",
     "未命名.canvas",
     "前端学习，漫漫长路/未命名.canvas",
