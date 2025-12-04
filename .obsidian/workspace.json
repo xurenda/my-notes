@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004.AI/011.LangChain/007.Retrieval/005.向量存储 Vector Stores.md",
+                "file": "004.AI/011.LangChain/008.项目/002.知识库问答助手.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "005.向量存储 Vector Stores"
+              "title": "002.知识库问答助手"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "006.工具/002.Markdown/003.Mermaid.md",
+                "file": "006.工具/002.Markdown/001.markdown公式.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "003.Mermaid"
+              "title": "001.markdown公式"
             }
           }
         ]
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004.AI/011.LangChain/007.Retrieval/005.向量存储 Vector Stores.md",
+                "file": "004.AI/011.LangChain/008.项目/002.知识库问答助手.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "005.向量存储 Vector Stores 的大纲"
+              "title": "002.知识库问答助手 的大纲"
             }
           },
           {
@@ -256,11 +256,20 @@
   },
   "active": "b0fcc200aa2b1efd",
   "lastOpenFiles": [
+    "004.AI/011.LangChain/008.项目/assets/Pasted image 20251204175002.png",
+    "004.AI/011.LangChain/008.项目/assets",
+    "004.AI/011.LangChain/008.项目/001.智能对话助手.md",
+    "004.AI/011.LangChain/008.项目/002.知识库问答助手.md",
+    "004.AI/011.LangChain/006.Agents/002.使用工具.md",
+    "004.AI/011.LangChain/007.Retrieval/006.检索器、召回器 Retrievers.md",
+    "004.AI/011.LangChain/008.项目",
+    "004.AI/011.LangChain/007.Retrieval/005.向量存储 Vector Stores.md",
+    "006.工具/002.Markdown/001.markdown公式.md",
+    "006.工具/002.Markdown/003.Mermaid.md",
     "004.AI/011.LangChain/007.Retrieval/004.文档嵌入模型 Text Embedding Models.md",
     "004.AI/011.LangChain/007.Retrieval/003.文档拆分器 Text Splitters.md",
     "004.AI/011.LangChain/007.Retrieval/002.文档加载器 Document Loaders.md",
     "004.AI/011.LangChain/007.Retrieval/001.Retrieval 模块的设计意义.md",
-    "004.AI/011.LangChain/007.Retrieval/005.向量存储 Vector Stores.md",
     "004.AI/011.LangChain/007.Retrieval/assets/Pasted image 20251202202917.png",
     "006.工具/003.Obsidian/001.Callouts.md",
     "004.AI/011.LangChain/007.Retrieval/assets/Pasted image 20251202104522.png",
@@ -290,17 +299,9 @@
     "004.AI/011.LangChain/007.Retrieval",
     "004.AI/011.LangChain/004.Memory/002.其他记忆模块.md",
     "004.AI/011.LangChain/004.Memory/001.基础记忆模块.md",
-    "004.AI/011.LangChain/005.Tools/001.Tools.md",
-    "004.AI/011.LangChain/006.Agents/001.入门使用.md",
-    "004.AI/011.LangChain/006.Agents/002.使用工具.md",
-    "002.前端/012.前端架构/001.前端架构师之路/009.前端日志埋点系统的架构设计.md",
-    "006.工具/002.Markdown/003.Mermaid.md",
     "004.AI/011.LangChain/006.Agents/assets",
     "004.AI/011.LangChain/006.Agents",
     "004.AI/011.LangChain/005.Tools/assets",
-    "004.AI/011.LangChain/005.Tools",
-    "002.前端/012.前端架构/001.前端架构师之路/010.前端权限系统的设计与实现.md",
-    "004.AI/011.LangChain/004.Memory/assets",
     "008.英语/000.单词本/001.常规.canvas",
     "未命名.canvas",
     "前端学习，漫漫长路/未命名.canvas",
