@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004.AI/013.机器学习/008.逻辑回归.md",
+                "file": "004.AI/013.机器学习/012.无监督学习-聚类.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "008.逻辑回归"
+              "title": "012.无监督学习-聚类"
             }
           },
           {
@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ollama",
+                "query": "示性函数",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004.AI/013.机器学习/008.逻辑回归.md",
+                "file": "004.AI/013.机器学习/012.无监督学习-聚类.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "008.逻辑回归 的大纲"
+              "title": "012.无监督学习-聚类 的大纲"
             }
           },
           {
@@ -256,27 +256,34 @@
   },
   "active": "b0fcc200aa2b1efd",
   "lastOpenFiles": [
-    "004.AI/013.机器学习/assets/Pasted image 20251212111656.png",
-    "004.AI/013.机器学习/assets/Pasted image 20251212111157.png",
-    "004.AI/013.机器学习/007.线性回归.md",
-    "004.AI/013.机器学习/008.逻辑回归.md",
+    "004.AI/013.机器学习/013.无监督学习-降维.md",
     "006.工具/002.Markdown/001.markdown公式.md",
-    "004.AI/013.机器学习/assets/Pasted image 20251211173421.png",
-    "004.AI/013.机器学习/assets/Pasted image 20251211172507.png",
+    "004.AI/013.机器学习/assets/Pasted image 20251218153844.png",
+    "004.AI/013.机器学习/assets/Pasted image 20251218150030.png",
+    "004.AI/013.机器学习/012.无监督学习-聚类.md",
+    "004.AI/013.机器学习/assets/Pasted image 20251218113434.png",
+    "004.AI/013.机器学习/assets/Pasted image 20251218112457.png",
+    "004.AI/013.机器学习/assets/Pasted image 20251218110435.png",
+    "004.AI/013.机器学习/assets/Pasted image 20251218110147.png",
+    "004.AI/013.机器学习/assets/Pasted image 20251218105452.png",
+    "004.AI/013.机器学习/assets/Pasted image 20251218105435.png",
+    "004.AI/013.机器学习/011.其他监督学习算法-下.md",
+    "004.AI/013.机器学习/010.其他监督学习算法-上.md",
+    "004.AI/013.机器学习/assets/Pasted image 20251217204259.png",
+    "004.AI/013.机器学习/assets/Pasted image 20251217204231.png",
+    "002.前端/008.React/001.官方文档/001.React/003.APIs.md",
+    "002.前端/008.React/001.官方文档/001.React/002.Components.md",
+    "002.前端/008.React/003.Next.js/004.链接和导航.md",
+    "004.AI/013.机器学习/009.感知机.md",
+    "004.AI/013.机器学习/007.线性回归.md",
+    "006.工具/003.Obsidian/001.Callouts.md",
+    "004.AI/013.机器学习/008.逻辑回归.md",
     "004.AI/013.机器学习/006.KNN 算法.md",
     "004.AI/013.机器学习/007.KNN 算法案例.md",
     "004.AI/013.机器学习/009.线性回归案例.md",
-    "004.AI/013.机器学习/assets/Pasted image 20251211144341.png",
-    "006.工具/003.Obsidian/001.Callouts.md",
     "004.AI/013.机器学习/005.模型评价指标.md",
-    "004.AI/013.机器学习/assets/Pasted image 20251210192808.png",
-    "004.AI/013.机器学习/assets/Pasted image 20251210192615.png",
-    "004.AI/013.机器学习/assets/Pasted image 20251210174124.png",
-    "004.AI/013.机器学习/assets/Pasted image 20251210173830.png",
-    "004.AI/013.机器学习/assets/Pasted image 20251210173537.png",
     "004.AI/012.PyTorch 生态/001.TensorBoard.md",
     "004.AI/013.机器学习/001.概述.md",
-    "004.AI/013.机器学习/assets/Pasted image 20251210170116.png",
     "004.AI/013.机器学习/004.模型求解算法.md",
     "004.AI/013.机器学习/002.基本理论.md",
     "004.AI/013.机器学习/003.模型评估和模型选择.md",
@@ -290,15 +297,7 @@
     "004.AI/011.LangChain/006.Agents/002.使用工具.md",
     "004.AI/011.LangChain/007.Retrieval/006.检索器、召回器 Retrievers.md",
     "004.AI/011.LangChain/008.项目",
-    "004.AI/011.LangChain/007.Retrieval/005.向量存储 Vector Stores.md",
-    "006.工具/002.Markdown/003.Mermaid.md",
-    "004.AI/011.LangChain/007.Retrieval/004.文档嵌入模型 Text Embedding Models.md",
-    "004.AI/011.LangChain/007.Retrieval/003.文档拆分器 Text Splitters.md",
-    "004.AI/011.LangChain/007.Retrieval/002.文档加载器 Document Loaders.md",
-    "004.AI/011.LangChain/007.Retrieval/001.Retrieval 模块的设计意义.md",
-    "004.AI/009.NLP/004.文本表示之词表示.md",
     "004.AI/011.LangChain/007.Retrieval/assets",
-    "003.后端/003.Python/002.数据分析/009.RFM 案例.md",
     "003.后端/003.Python/002.数据分析/assets/uniqlo.csv",
     "003.后端/003.Python/002.数据分析/assets/stock_day.csv",
     "003.后端/003.Python/002.数据分析/assets",
