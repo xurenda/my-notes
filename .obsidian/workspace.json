@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004.AI/014.深度学习/005.学习的技巧.md",
+                "file": "004.AI/012.PyTorch/009.生态：TensorBoard.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "005.学习的技巧"
+              "title": "009.生态：TensorBoard"
             }
           },
           {
@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "示性函数",
+                "query": "二元交叉熵损失函数",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004.AI/014.深度学习/005.学习的技巧.md",
+                "file": "004.AI/012.PyTorch/009.生态：TensorBoard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "005.学习的技巧 的大纲"
+              "title": "009.生态：TensorBoard 的大纲"
             }
           },
           {
@@ -256,22 +256,31 @@
   },
   "active": "b0fcc200aa2b1efd",
   "lastOpenFiles": [
-    "004.AI/014.深度学习/assets/Pasted image 20251225182347.png",
-    "006.工具/002.Markdown/001.markdown公式.md",
+    "004.AI/012.PyTorch/008.案例：房价预测.md",
+    "004.AI/012.PyTorch/assets/Pasted image 20251231162053.png",
+    "004.AI/012.PyTorch/assets/Pasted image 20251231162016.png",
+    "004.AI/012.PyTorch/007.深度学习-3.md",
+    "004.AI/012.PyTorch/006.深度学习-2.md",
+    "004.AI/012.PyTorch/005.深度学习-1.md",
     "004.AI/014.深度学习/005.学习的技巧.md",
+    "006.工具/002.Markdown/001.markdown公式.md",
+    "004.AI/014.深度学习/003.神经网络的学习.md",
+    "004.AI/012.PyTorch/assets/Pasted image 20251230111505.png",
+    "004.AI/012.PyTorch/assets/Pasted image 20251229174611.png",
+    "004.AI/003.李沐动手学深度学习/003.多层感知机/007.模型初始化和激活函数.md",
+    "004.AI/014.深度学习/001.激活函数.md",
+    "004.AI/012.PyTorch/004.案例：线性回归.md",
+    "004.AI/012.PyTorch/assets/Pasted image 20251229173045.png",
+    "004.AI/012.PyTorch/003.张量其他操作.md",
+    "004.AI/012.PyTorch/assets/Pasted image 20251229172110.png",
+    "004.AI/012.PyTorch/002.张量数值计算.md",
+    "004.AI/012.PyTorch/009.生态：TensorBoard.md",
+    "004.AI/012.PyTorch/001.张量创建与转换.md",
+    "004.AI/014.深度学习/assets/Pasted image 20251225182347.png",
     "004.AI/014.深度学习/assets/Pasted image 20251225114629.png",
     "004.AI/014.深度学习/assets/Pasted image 20251225112237.png",
     "004.AI/014.深度学习/assets/Pasted image 20251225111153.png",
-    "004.AI/014.深度学习/assets/Pasted image 20251225110909.png",
-    "004.AI/014.深度学习/assets/Pasted image 20251225110446.png",
-    "004.AI/014.深度学习/assets/Pasted image 20251225110406.png",
-    "004.AI/014.深度学习/assets/Pasted image 20251225110329.png",
-    "004.AI/014.深度学习/assets/Pasted image 20251225110202.png",
-    "004.AI/014.深度学习/assets/Pasted image 20251225110133.png",
     "004.AI/014.深度学习/004.反向传播算法.md",
-    "004.AI/014.深度学习/assets/Pasted image 20251225105357.png",
-    "004.AI/014.深度学习/003.神经网络的学习.md",
-    "004.AI/014.深度学习/001.激活函数.md",
     "006.工具/003.Obsidian/001.Callouts.md",
     "004.AI/014.深度学习/002.简单实现.md",
     "004.AI/013.机器学习/009.感知机.md",
@@ -284,20 +293,10 @@
     "004.AI/013.机器学习/010.其他监督学习算法-上.md",
     "002.前端/008.React/001.官方文档/001.React/003.APIs.md",
     "002.前端/008.React/001.官方文档/001.React/002.Components.md",
-    "002.前端/008.React/003.Next.js/004.链接和导航.md",
-    "004.AI/013.机器学习/007.线性回归.md",
-    "004.AI/013.机器学习/008.逻辑回归.md",
-    "004.AI/013.机器学习/006.KNN 算法.md",
-    "004.AI/013.机器学习/007.KNN 算法案例.md",
-    "004.AI/013.机器学习/009.线性回归案例.md",
-    "004.AI/013.机器学习/005.模型评价指标.md",
-    "004.AI/012.PyTorch 生态/001.TensorBoard.md",
-    "004.AI/013.机器学习/004.模型求解算法.md",
-    "004.AI/013.机器学习/002.基本理论.md",
     "004.AI/013.机器学习/assets",
     "004.AI/013.机器学习",
-    "004.AI/012.PyTorch 生态/assets",
-    "004.AI/012.PyTorch 生态",
+    "004.AI/012.PyTorch/assets",
+    "004.AI/012.PyTorch",
     "004.AI/011.LangChain/008.项目/assets",
     "004.AI/011.LangChain/008.项目",
     "004.AI/011.LangChain/007.Retrieval/assets",
