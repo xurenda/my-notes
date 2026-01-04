@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004.AI/002.训练/001.PyTorch/009.生态：TensorBoard.md",
+                "file": "004.AI/001.理论基础/004.尚硅谷深度学习/007.循环神经网络.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "009.生态：TensorBoard"
+              "title": "007.循环神经网络"
             }
           },
           {
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004.AI/002.训练/001.PyTorch/009.生态：TensorBoard.md",
+                "file": "004.AI/001.理论基础/004.尚硅谷深度学习/007.循环神经网络.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "009.生态：TensorBoard 的大纲"
+              "title": "007.循环神经网络 的大纲"
             }
           },
           {
@@ -254,36 +254,39 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "100ae5ead0fcd227",
+  "active": "b0fcc200aa2b1efd",
   "lastOpenFiles": [
+    "004.AI/001.理论基础/004.尚硅谷深度学习/assets/Pasted image 20260104175314.png",
+    "004.AI/001.理论基础/004.尚硅谷深度学习/assets/Pasted image 20260104174727.png",
+    "004.AI/001.理论基础/004.尚硅谷深度学习/assets/Pasted image 20260104174709.png",
+    "004.AI/001.理论基础/004.尚硅谷深度学习/assets/Pasted image 20260104174516.png",
+    "004.AI/001.理论基础/004.尚硅谷深度学习/assets/Pasted image 20260104174233.png",
+    "004.AI/001.理论基础/004.尚硅谷深度学习/006.卷积神经网络.md",
+    "004.AI/001.理论基础/004.尚硅谷深度学习/007.循环神经网络.md",
+    "004.AI/001.理论基础/004.尚硅谷深度学习/assets/Pasted image 20260104165601.png",
+    "004.AI/001.理论基础/004.尚硅谷深度学习/assets/Pasted image 20260104164901.png",
+    "004.AI/001.理论基础/004.尚硅谷深度学习/assets/Pasted image 20260104164609.png",
+    "004.AI/001.理论基础/004.尚硅谷深度学习/assets/Pasted image 20260104164502.png",
+    "004.AI/001.理论基础/004.尚硅谷深度学习/assets/Pasted image 20260104164411.png",
+    "004.AI/001.理论基础/004.尚硅谷深度学习/assets/Pasted image 20260104164256.png",
+    "004.AI/002.训练/001.PyTorch/009.生态：TensorBoard.md",
     "004.AI/004.其他",
     "004.AI/003.应用",
     "004.AI/002.训练",
     "004.AI/001.理论基础",
     "004.AI/002.训练/001.PyTorch/008.案例：房价预测.md",
-    "004.AI/002.训练/001.PyTorch/assets/Pasted image 20251231162053.png",
-    "004.AI/012.PyTorch/assets/Pasted image 20251231162016.png",
     "004.AI/002.训练/001.PyTorch/007.深度学习-3.md",
     "004.AI/002.训练/001.PyTorch/006.深度学习-2.md",
     "004.AI/002.训练/001.PyTorch/005.深度学习-1.md",
     "004.AI/001.理论基础/004.尚硅谷深度学习/005.学习的技巧.md",
     "006.工具/002.Markdown/001.markdown公式.md",
     "004.AI/001.理论基础/004.尚硅谷深度学习/003.神经网络的学习.md",
-    "004.AI/002.训练/001.PyTorch/assets/Pasted image 20251230111505.png",
-    "004.AI/002.训练/001.PyTorch/assets/Pasted image 20251229174611.png",
     "004.AI/001.理论基础/005.李沐动手学深度学习/003.多层感知机/007.模型初始化和激活函数.md",
     "004.AI/001.理论基础/004.尚硅谷深度学习/001.激活函数.md",
     "004.AI/002.训练/001.PyTorch/004.案例：线性回归.md",
-    "004.AI/002.训练/001.PyTorch/assets/Pasted image 20251229173045.png",
     "004.AI/002.训练/001.PyTorch/003.张量其他操作.md",
-    "004.AI/002.训练/001.PyTorch/assets/Pasted image 20251229172110.png",
     "004.AI/002.训练/001.PyTorch/002.张量数值计算.md",
-    "004.AI/002.训练/001.PyTorch/009.生态：TensorBoard.md",
     "004.AI/002.训练/001.PyTorch/001.张量创建与转换.md",
-    "004.AI/001.理论基础/004.尚硅谷深度学习/assets/Pasted image 20251225182347.png",
-    "004.AI/001.理论基础/004.尚硅谷深度学习/assets/Pasted image 20251225114629.png",
-    "004.AI/001.理论基础/004.尚硅谷深度学习/assets/Pasted image 20251225112237.png",
-    "004.AI/001.理论基础/004.尚硅谷深度学习/assets/Pasted image 20251225111153.png",
     "004.AI/001.理论基础/004.尚硅谷深度学习/004.反向传播算法.md",
     "006.工具/003.Obsidian/001.Callouts.md",
     "004.AI/001.理论基础/004.尚硅谷深度学习/002.简单实现.md",
@@ -295,13 +298,10 @@
     "004.AI/001.理论基础/003.尚硅谷机器学习/013.无监督学习-降维.md",
     "004.AI/001.理论基础/003.尚硅谷机器学习/011.其他监督学习算法-下.md",
     "004.AI/001.理论基础/003.尚硅谷机器学习/010.其他监督学习算法-上.md",
-    "002.前端/008.React/001.官方文档/001.React/003.APIs.md",
-    "002.前端/008.React/001.官方文档/001.React/002.Components.md",
     "004.AI/001.理论基础/003.尚硅谷机器学习/assets",
     "004.AI/001.理论基础/003.尚硅谷机器学习",
     "004.AI/002.训练/001.PyTorch/assets",
     "004.AI/002.训练/001.PyTorch",
-    "004.AI/003.应用/003.LangChain/008.项目/assets",
     "008.英语/000.单词本/001.常规.canvas",
     "未命名.canvas",
     "前端学习，漫漫长路/未命名.canvas",
