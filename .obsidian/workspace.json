@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002.前端/003.JavaScript/004.实践与应用/018.手写系列：实现类.md",
+                "file": "002.前端/008.前端框架/002.Vue/001.原理/003.Vue2 模板编译三：生成器 Generator.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "018.手写系列：实现类"
+              "title": "003.Vue2 模板编译三：生成器 Generator"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "006.工具/002.Markdown/003.Mermaid.md",
+                "file": "006.工具/004.其他/002.笔记常用字符.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "003.Mermaid"
+              "title": "002.笔记常用字符"
             }
           }
         ]
@@ -131,13 +131,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002.前端/003.JavaScript/004.实践与应用/018.手写系列：实现类.md",
+                "file": "002.前端/008.前端框架/002.Vue/001.原理/003.Vue2 模板编译三：生成器 Generator.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "018.手写系列：实现类 的大纲"
+              "title": "003.Vue2 模板编译三：生成器 Generator 的大纲"
             }
           },
           {
@@ -230,54 +230,54 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "100ae5ead0fcd227",
+  "active": "f84b7c512c545213",
   "lastOpenFiles": [
-    "002.前端/003.JavaScript/004.实践与应用/assets/Pasted image 20260309152548.png",
-    "002.前端/003.JavaScript/004.实践与应用/assets/Pasted image 20260309152423.png",
-    "002.前端/003.JavaScript/004.实践与应用/assets/Pasted image 20260309152211.png",
-    "002.前端/003.JavaScript/004.实践与应用/017.手写系列：ES5 实现继承.md",
+    "002.前端/008.前端框架/002.Vue/001.原理/assets/Pasted image 20260311175626.png",
+    "002.前端/008.前端框架/002.Vue/001.原理/002.Vue2 模板编译二：优化器 Optimizer.md",
+    "002.前端/008.前端框架/002.Vue/001.原理/003.Vue2 模板编译三：生成器 Generator.md",
+    "002.前端/008.前端框架/002.Vue/001.原理/001.Vue2 模板编译一：架构设计 & 解析器 Parser.md",
+    "002.前端/008.前端框架/002.Vue/001.原理/assets/Pasted image 20260311173316.png",
+    "002.前端/008.前端框架/002.Vue/001.原理/005.Vue Signals 进化论（v3.6）：Alien Signals 终局之战？.md",
+    "002.前端/008.前端框架/002.Vue/001.原理/006.Solid 初探：启发 Vue Vapor 的极致框架.md",
+    "006.工具/004.其他/002.笔记常用字符.md",
+    "006.工具/002.Markdown/003.Mermaid.md",
+    "002.前端/008.前端框架/002.Vue/001.原理/004.Vue Signals 进化论（v3.5）：Preact 重构启示录.md",
+    "002.前端/008.前端框架/002.Vue/001.原理/assets/Pasted image 20260311152126.png",
+    "002.前端/008.前端框架/002.Vue/001.原理/assets/Pasted image 20260311151534.png",
+    "002.前端/008.前端框架/002.Vue/001.原理/assets/Pasted image 20260311150703.png",
+    "002.前端/008.前端框架/002.Vue/001.原理/assets/Pasted image 20260311145552.png",
+    "002.前端/008.前端框架/002.Vue/001.原理/assets/Pasted image 20260311145015.png",
+    "002.前端/008.前端框架/002.Vue/001.原理/assets/Pasted image 20260311143655.png",
+    "002.前端/008.前端框架/002.Vue/001.原理/assets/Pasted image 20260311143056.png",
+    "002.前端/008.前端框架/002.Vue/001.原理/assets/Pasted image 20260311142921.png",
+    "002.前端/008.前端框架/002.Vue/001.原理/assets/Pasted image 20260311142732.png",
+    "002.前端/008.前端框架/002.Vue/001.原理/assets",
+    "002.前端/008.前端框架/002.Vue/001.原理",
+    "004.AI/006.其他/001.AI 概念扫盲.md",
+    "002.前端/008.前端框架",
+    "002.前端/008.前端框架/002.Vue",
     "002.前端/003.JavaScript/004.实践与应用/018.手写系列：实现类.md",
-    "002.前端/008.React/002.从零实现 React18/003.调度器极简实现.md",
-    "002.前端/008.React/002.从零实现 React18/assets/Pasted image 20260309144051.png",
-    "002.前端/008.React/002.从零实现 React18/assets/Pasted image 20260309144036.png",
-    "002.前端/008.React/004.实践/005.花了两年用遍了 React 所有状态管理库，我选出了最现代化的 Signal 方案.md",
+    "002.前端/003.JavaScript/004.实践与应用/017.手写系列：ES5 实现继承.md",
+    "002.前端/008.前端框架/001.React/002.从零实现 React18/003.调度器极简实现.md",
+    "002.前端/008.前端框架/001.React/004.实践/005.花了两年用遍了 React 所有状态管理库，我选出了最现代化的 Signal 方案.md",
     "004.AI/005.工具/001.gh CLI（Github CLI）.md",
     "004.AI/005.工具",
-    "002.前端/008.React/004.实践/assets/Pasted image 20260309115110.png",
-    "002.前端/008.React/004.实践/assets/Pasted image 20260309114106.png",
-    "002.前端/008.React/004.实践/assets/1840e273a562439caaccb17b824ac546~tplv-73owjymdk6-jj-mark-v1_0_0_0_0_5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5a-F5pe256CB_q75.webp",
-    "006.工具/002.Markdown/003.Mermaid.md",
-    "002.前端/008.React/004.实践/004.React 正在沦为“孔乙己”：脱不下的长衫与失控的基建.md",
+    "002.前端/008.前端框架/001.React/004.实践/004.React 正在沦为“孔乙己”：脱不下的长衫与失控的基建.md",
     "006.工具/003.Obsidian/001.Callouts.md",
     "002.前端/006.网络/未命名.md",
     "004.AI/004.实践/001.SNP/002.SNP2 传输协议接入指南.md",
     "004.AI/004.实践/001.SNP/001.AI Agent 驱动的前端 UI 框架设计文档.md",
-    "002.前端/008.React/004.实践/002.Next+React 双入口前端项目.md",
-    "002.前端/008.React/004.实践/003.Next.js i18n 文案加载优化.md",
-    "002.前端/008.React/004.实践/assets/Pasted image 20260305161433.png",
-    "002.前端/008.React/004.实践/assets/Pasted image 20260305161422.png",
-    "002.前端/008.React/004.实践/assets/Pasted image 20260305161355.png",
-    "002.前端/008.React/004.实践/assets",
+    "002.前端/008.前端框架/001.React/004.实践/002.Next+React 双入口前端项目.md",
+    "002.前端/008.前端框架/001.React/004.实践/003.Next.js i18n 文案加载优化.md",
+    "002.前端/008.前端框架/001.React/004.实践/assets",
     "002.前端/014.综合/020.网页复杂度指标 WCI.md",
     "004.AI/001.大模型学习路线.md",
     "004.AI/004.个人实践/001.SNP/SSE 协议.md",
     "004.AI/004.实践/001.SNP/assets",
-    "002.前端/008.React/004.实践/001.SSR Hydration 不匹配问题工程化治理方案.md",
+    "002.前端/008.前端框架/001.React/004.实践/001.SSR Hydration 不匹配问题工程化治理方案.md",
     "004.AI/004.实践/001.SNP",
     "004.AI/004.实践",
-    "006.工具/002.Markdown/001.markdown公式.md",
-    "002.前端/012.前端架构/001.前端架构师之路/023.可配置平台架构设计：从组件化到 DSL 的演进之路.md",
-    "002.前端/008.React/004.实践",
-    "002.前端/014.综合/015.PDF reader and annotator.md",
-    "002.前端/013.开源库/004.ZoteroReader.md",
-    "002.前端/009.性能优化/002.LCP 触发条件与原理.md",
-    "002.前端/009.性能优化/003.性能优化概述.md",
-    "002.前端/009.性能优化/001.前端性能指标.md",
-    "004.AI/001.理论基础/004.尚硅谷深度学习/007.循环神经网络.md",
-    "004.AI/006.其他",
-    "004.AI/003.应用",
-    "004.AI/002.训练",
-    "004.AI/001.理论基础",
+    "002.前端/008.前端框架/001.React/004.实践",
     "008.英语/000.单词本/001.常规.canvas",
     "未命名.canvas",
     "前端学习，漫漫长路/未命名.canvas",
