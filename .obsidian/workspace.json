@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002.前端/014.综合/022.网页内存分析.md",
+                "file": "002.前端/006.网络/003.HTTP 常见编码类型.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "022.网页内存分析"
-            }
-          },
-          {
-            "id": "f3ec55f39b1122f2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "002.前端/009.性能优化/drawing/一个完整的帧.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "一个完整的帧.excalidraw"
-            }
-          },
-          {
-            "id": "c001ab7ebb082d7c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "002.前端/009.性能优化/drawing/一个完整的帧.excalidraw.svg"
-              },
-              "icon": "lucide-image",
-              "title": "一个完整的帧.excalidraw"
+              "title": "003.HTTP 常见编码类型"
             }
           },
           {
@@ -61,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "007.工具/002.Markdown/003.Mermaid.md",
+                "file": "007.工具/004.其他/002.笔记常用字符.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "003.Mermaid"
+              "title": "002.笔记常用字符"
             }
           }
         ]
@@ -111,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "三次挥手",
+                "query": "无限 debug",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -155,13 +131,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002.前端/014.综合/022.网页内存分析.md",
+                "file": "002.前端/006.网络/003.HTTP 常见编码类型.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "022.网页内存分析 的大纲"
+              "title": "003.HTTP 常见编码类型 的大纲"
             }
           },
           {
@@ -241,6 +217,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "cmdr:导出为 PDF": false,
       "bases:新建数据库": false,
       "canvas:新建白板": false,
       "oz-clear-unused-images:Clear Unused Images": true,
@@ -256,53 +233,53 @@
   },
   "active": "bce53033881353a7",
   "lastOpenFiles": [
-    "002.前端/014.综合/assets/Pasted image 20260320174606.png",
-    "002.前端/014.综合/assets/Pasted image 20260320174550.png",
-    "002.前端/014.综合/assets/Pasted image 20260320174531.png",
-    "002.前端/014.综合/assets/Pasted image 20260320174450.png",
-    "002.前端/014.综合/assets/Pasted image 20260320174418.png",
-    "002.前端/014.综合/assets/Pasted image 20260320174354.png",
-    "002.前端/014.综合/assets/Pasted image 20260320174336.png",
-    "002.前端/014.综合/assets/Pasted image 20260320174256.png",
-    "002.前端/014.综合/assets/Pasted image 20260320174202.png",
-    "002.前端/014.综合/assets/Pasted image 20260320174143.png",
-    "002.前端/014.综合/021.网页线上调试技巧.md",
-    "002.前端/014.综合/022.网页内存分析.md",
-    "002.前端/006.网络/011.TCP 协议.md",
-    "002.前端/006.网络/008.同源策略与跨域.md",
+    "002.前端/006.网络/005.加密.md",
+    "002.前端/006.网络/003.HTTP 常见编码类型.md",
+    "002.前端/006.网络/004.cookie 与 session.md",
+    "002.前端/006.网络/002.请求方法.md",
+    "002.前端/009.性能优化/008.CLS 让网页布局更稳定.md",
+    "002.前端/009.性能优化/003.FCP 优化策略.md",
+    "002.前端/009.性能优化/007.INP 优化策略.md",
+    "002.前端/009.性能优化/002.TTFB 优化策略.md",
+    "002.前端/009.性能优化/006.TBT 优化策略.md",
+    "002.前端/009.性能优化/004.LCP 优化策略.md",
     "002.前端/009.性能优化/001.前端性能指标.md",
-    "002.前端/009.性能优化/assets/Pasted image 20260320160955.png",
-    "002.前端/009.性能优化/drawing/一个完整的帧.excalidraw.md",
-    "002.前端/009.性能优化/002.LCP 触发条件与原理.md",
-    "002.前端/009.性能优化/drawing/未命名.md",
-    "002.前端/009.性能优化/drawing",
-    "002.前端/007.工程化/002.基础设施/001.Pnpm：最先进的依赖管理.md",
-    "002.前端/007.工程化/002.基础设施/assets",
-    "002.前端/002.CSS/002.CSS 工程化/001.CSS 工程化.md",
-    "002.前端/002.CSS/002.CSS 工程化/004.stylus.md",
-    "002.前端/002.CSS/002.CSS 工程化/003.scss.md",
-    "002.前端/002.CSS/002.CSS 工程化/002.CSS 预处理器介绍.md",
-    "002.前端/003.JavaScript/001.语言与通用/013.模块化.md",
-    "001.计算机基础/002.设计模式/002.前端常用设计模式.md",
+    "002.前端/009.性能优化/005.LCP 触发条件与原理.md",
+    "002.前端/003.JavaScript/002.运行时之浏览器/003.DOM：attributes 和 properties.md",
+    "002.前端/003.JavaScript/002.运行时之浏览器/018.HTML Attributes vs DOM Properties.md",
+    "002.前端/015.前沿技术/001.WebAssembly.md",
+    "006.职场实践/003.软技能/003.“第一性原理”：如何做技术决策.md",
+    "002.前端/015.前沿技术",
+    "006.职场实践/003.软技能/001.Leader-技术选型、排期、带新人.md",
+    "006.职场实践/003.软技能/002.代码 Review 的艺术.md",
+    "004.AI/004.实践/003.日常使用/001.用 AI 重构屎山代码.md",
+    "004.AI/004.实践/003.日常使用/assets/handleOrderSubmit.js",
+    "004.AI/004.实践/003.日常使用/assets/001.用 AI 重构屎山代码.md",
+    "004.AI/004.实践/003.日常使用/assets/未命名.md",
+    "004.AI/004.实践/003.日常使用/assets/Pasted image 20260323150603.png",
+    "004.AI/004.实践/003.日常使用/assets/Pasted image 20260323150447.png",
+    "004.AI/004.实践/003.日常使用/assets",
+    "004.AI/004.实践/003.日常使用/未命名",
     "004.AI/004.实践/002.前端 AI Coding 落地指南/001.架构篇.md",
-    "004.AI/002.训练/001.大模型微调类型.md",
-    "004.AI/002.训练/001.PyTorch/001.张量创建与转换.md",
-    "004.AI/002.训练/001.PyTorch/008.案例：房价预测.md",
-    "004.AI/004.实践/002.前端 AI Coding 落地指南/003.Skills 篇.md",
-    "004.AI/004.实践/002.前端 AI Coding 落地指南/002.Rules 篇.md",
-    "007.工具/002.Markdown/003.Mermaid.md",
-    "007.工具/003.Obsidian/001.Callouts.md",
+    "004.AI/004.实践/001.SNP/002.SNP2 传输协议接入指南.md",
+    "004.AI/004.实践/003.日常使用",
+    "004.AI/004.实践/001.SNP/001.AI Agent 驱动的前端 UI 框架设计文档.md",
+    "002.前端/007.工程化/002.基础设施/002.npm scripts 高级玩法.md",
+    "007.工具/004.其他/002.笔记常用字符.md",
+    "002.前端/005.浏览器/assets/Pasted image 20260323115550.png",
+    "002.前端/005.浏览器/assets/Pasted image 20260323115323.png",
+    "002.前端/005.浏览器/assets/Pasted image 20260323115121.png",
+    "002.前端/008.前端框架/003.AntD/assets/Pasted image 20260323110421.png",
+    "002.前端/008.前端框架/003.AntD/assets/Pasted image 20260323110042.png",
+    "002.前端/008.前端框架/003.AntD/assets/Pasted image 20260323110005.png",
+    "002.前端/008.前端框架/003.AntD/assets/Pasted image 20260323105808.png",
+    "002.前端/008.前端框架/003.AntD/assets/Pasted image 20260323104251.png",
+    "002.前端/008.前端框架/003.AntD/assets",
+    "002.前端/008.前端框架/003.AntD",
+    "002.前端/009.性能优化/drawing",
+    "002.前端/007.工程化/002.基础设施/assets",
     "004.AI/004.实践/002.前端 AI Coding 落地指南",
-    "002.前端/012.前端架构/003.微前端/001.为什么“大前端”需要“微前端”？.md",
-    "002.前端/012.前端架构/003.微前端/002.Cloudflare Workers 和微前端：为彼此而生.md",
-    "002.前端/012.前端架构/003.微前端",
-    "002.前端/012.前端架构/003.微前端/assets",
-    "005.运维/assets",
-    "006.职场实践/001.代码片段/004.react",
     "001.计算机基础/未命名.canvas",
-    "004.AI/005.工具/assets",
-    "002.前端/004.TypeScript/004.实践/assets",
-    "007.工具/001.Git/assets",
     "009.英语/000.单词本/001.常规.canvas",
     "未命名.canvas",
     "前端学习，漫漫长路/未命名.canvas",
