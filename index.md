@@ -39,7 +39,7 @@ GitHub 地址：[https://github.com/xurenda/my-notes](https://github.com/xurenda
 ## WebGL 编程指南
 
 - [[001.WebGL 概述|笔记]]
-- [[002.前端/011.webGL/001.WebGL 编程指南/000.图书信息|书籍]]
+- [[002.前端/011.高尖技术/001.webGL/001.WebGL 编程指南/000.图书信息|书籍]]
 - 优先级：⭐️⭐️
 
 ## 左程云算法通关
