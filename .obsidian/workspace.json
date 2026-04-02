@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f84b7c512c545213",
+            "id": "4464a9c7d0d65dbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002.前端/008.前端框架/001.React/003.Next.js/999.Next.js 16.md",
+                "file": "004.AI/007.Claude Code/001.How Claude Code Works/004.工具系统.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,55 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "999.Next.js 16"
+              "title": "004.工具系统"
+            }
+          },
+          {
+            "id": "f84b7c512c545213",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "004.AI/007.Claude Code/001.How Claude Code Works/002.系统主循环.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "002.系统主循环"
+            }
+          },
+          {
+            "id": "2e941ba8527446c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "007.工具/003.Obsidian/001.Callouts.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "001.Callouts"
             }
           }
         ]
@@ -63,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sticky",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -107,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002.前端/008.前端框架/001.React/003.Next.js/999.Next.js 16.md",
+                "file": "004.AI/007.Claude Code/001.How Claude Code Works/004.工具系统.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "999.Next.js 16 的大纲"
+              "title": "004.工具系统 的大纲"
             }
           },
           {
@@ -155,8 +203,8 @@
             "state": {
               "type": "hi-words-sidebar",
               "state": {},
-              "icon": "book-open",
-              "title": "HiWords"
+              "icon": "lucide-ghost",
+              "title": "hi-words-sidebar"
             }
           },
           {
@@ -193,24 +241,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "cmdr:导出为 PDF": false,
       "bases:新建数据库": false,
       "canvas:新建白板": false,
-      "oz-clear-unused-images:Clear Unused Images": true,
-      "obsidian-excalidraw-plugin:新建绘图文件": true,
       "switcher:打开快速切换": true,
       "graph:查看关系图谱": true,
       "command-palette:打开命令面板": true,
       "templates:插入模板": true,
       "workspaces:管理工作区布局": true,
       "random-note:开始漫游笔记": true,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "cmdr:导出为 PDF": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "f84b7c512c545213",
+  "active": "4464a9c7d0d65dbd",
   "lastOpenFiles": [
-    "002.前端/013.开源库/010.Zod.js - 下.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/002.系统主循环.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/003.上下文工程.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/004.工具系统.md",
+    "007.工具/003.Obsidian/001.Callouts.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/001.概述.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/001.源码泄漏.md",
     "002.前端/008.前端框架/001.React/003.Next.js/999.Next.js 16.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works",
+    "004.AI/007.Claude Code",
+    "002.前端/013.开源库/010.Zod.js - 下.md",
     "002.前端/013.开源库/009.Zod.js - 上.md",
     "007.工具/004.其他/002.笔记常用字符.md",
     "002.前端/002.CSS/002.CSS 工程化/007.Tailwind CSS VS. UnoCSS - 下.md",
@@ -232,13 +288,7 @@
     "004.AI/005.工具/assets/Pasted image 20260327142750.png",
     "002.前端/003.JavaScript/003.运行时之 Node.js/005.Node.js 原生功能狂飙，15 个热门 npm 包要失业了.md",
     "002.前端/002.CSS/001.基础/012.position-sticky.md",
-    "006.职场实践/001.代码片段/001.js/009.sticky 模拟.md",
-    "002.前端/002.CSS/001.基础/005.clamp().md",
     "002.前端/002.CSS/001.基础/assets/Pasted image 20260327111705.png",
-    "002.前端/002.CSS/001.基础/004.CSS 函数梳理.md",
-    "002.前端/014.综合/018.网页渲染方案 2.md",
-    "002.前端/014.综合/017.网页渲染方案.md",
-    "002.前端/002.CSS/001.基础/016.has、is、where 选择器.md",
     "002.前端/003.JavaScript/002.运行时之浏览器/assets/Pasted image 20260326153206.png",
     "002.前端/003.JavaScript/002.运行时之浏览器/assets/Pasted image 20260326153016.png",
     "006.职场实践/002.工程架构/assets/Pasted image 20260326152124.png",
@@ -253,8 +303,6 @@
     "002.前端/011.高尖技术/002.WebAssembly",
     "002.前端/002.CSS/003.CSS Houdini",
     "002.前端/011.高尖技术",
-    "004.AI/004.实践/003.日常使用/assets/handleOrderSubmit.js",
-    "004.AI/004.实践/003.日常使用/assets",
     "001.计算机基础/未命名.canvas",
     "009.英语/000.单词本/001.常规.canvas",
     "未命名.canvas",
