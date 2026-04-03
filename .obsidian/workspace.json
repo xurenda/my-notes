@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004.AI/007.Claude Code/001.How Claude Code Works/004.工具系统.md",
+                "file": "004.AI/007.Claude Code/001.How Claude Code Works/009.技能系统.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "004.工具系统"
+              "title": "009.技能系统"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004.AI/007.Claude Code/001.How Claude Code Works/002.系统主循环.md",
+                "file": "004.AI/007.Claude Code/001.How Claude Code Works/003.上下文工程.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "002.系统主循环"
+              "title": "003.上下文工程"
             }
           },
           {
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004.AI/007.Claude Code/001.How Claude Code Works/004.工具系统.md",
+                "file": "004.AI/007.Claude Code/001.How Claude Code Works/009.技能系统.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "004.工具系统 的大纲"
+              "title": "009.技能系统 的大纲"
             }
           },
           {
@@ -257,10 +257,15 @@
   },
   "active": "4464a9c7d0d65dbd",
   "lastOpenFiles": [
-    "004.AI/007.Claude Code/001.How Claude Code Works/002.系统主循环.md",
     "004.AI/007.Claude Code/001.How Claude Code Works/003.上下文工程.md",
-    "004.AI/007.Claude Code/001.How Claude Code Works/004.工具系统.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/009.技能系统.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/008.记忆系统.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/002.系统主循环.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/007.多 Agent 架构.md",
     "007.工具/003.Obsidian/001.Callouts.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/006.Hooks 与可扩展性.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/004.工具系统.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/005.代码编辑策略.md",
     "004.AI/007.Claude Code/001.How Claude Code Works/001.概述.md",
     "004.AI/007.Claude Code/001.How Claude Code Works/001.源码泄漏.md",
     "002.前端/008.前端框架/001.React/003.Next.js/999.Next.js 16.md",
@@ -280,14 +285,9 @@
     "002.前端/009.性能优化/013.字体加载优化.md",
     "004.AI/006.其他/002.Harness Engineering.md",
     "004.AI/006.其他/001.AI 概念扫盲.md",
-    "004.AI/005.工具/005.5 分钟上手 Google Stitch.md",
-    "004.AI/005.工具/004.Google Stitch：Vibe Design.md",
-    "未归档/stitch.withgoogle.com.md",
     "004.AI/005.工具/assets/Pasted image 20260327143034.png",
     "004.AI/005.工具/assets/Pasted image 20260327142857.png",
     "004.AI/005.工具/assets/Pasted image 20260327142750.png",
-    "002.前端/003.JavaScript/003.运行时之 Node.js/005.Node.js 原生功能狂飙，15 个热门 npm 包要失业了.md",
-    "002.前端/002.CSS/001.基础/012.position-sticky.md",
     "002.前端/002.CSS/001.基础/assets/Pasted image 20260327111705.png",
     "002.前端/003.JavaScript/002.运行时之浏览器/assets/Pasted image 20260326153206.png",
     "002.前端/003.JavaScript/002.运行时之浏览器/assets/Pasted image 20260326153016.png",
