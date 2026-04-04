@@ -39,7 +39,7 @@ GitHub 地址：[https://github.com/xurenda/my-notes](https://github.com/xurenda
 ## WebGL 编程指南
 
 - [[001.WebGL 概述|笔记]]
-- [[002.前端/011.webGL/001.WebGL 编程指南/000.图书信息|书籍]]
+- [[002.前端/011.高尖技术/001.webGL/001.WebGL 编程指南/000.图书信息|书籍]]
 - 优先级：⭐️⭐️
 
 ## 左程云算法通关
@@ -82,7 +82,7 @@ Java SE 语言核心 -> Java Web -> JDBC -> SSM -> SpringBoot -> SpringCloud（A
 
 ## 高中数学
 
-- [[007.数学/学习规划|学习规划]]
+- [[学习规划|学习规划]]
 - 优先级：⭐️
 
 初中数学已完成，下一步：高中、大学（高数、线代）...
