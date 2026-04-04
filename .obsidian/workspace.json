@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e99b51fba94da7d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "004.AI/011.LangChain/002.Model IO/005.Output Parsers.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "005.Output Parsers"
-            }
-          },
-          {
             "id": "b0fcc200aa2b1efd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "003.后端/003.Python/002.数据分析/009.RFM 案例.md",
+                "file": "007.数学/003.高等数学/001.函数、极限、连续/004.函数极限.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "009.RFM 案例"
+              "title": "004.函数极限"
             }
           },
           {
@@ -61,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "006.工具/003.Obsidian/001.Callouts.md",
+                "file": "006.工具/002.Markdown/001.markdown公式.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "001.Callouts"
+              "title": "001.markdown公式"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Rerank",
+                "query": "tag:#极限与单侧极限的关系",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -156,13 +131,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004.AI/011.LangChain/002.Model IO/005.Output Parsers.md",
+                "file": "007.数学/003.高等数学/001.函数、极限、连续/004.函数极限.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "005.Output Parsers 的大纲"
+              "title": "004.函数极限 的大纲"
             }
           },
           {
@@ -257,13 +232,26 @@
   },
   "active": "b0fcc200aa2b1efd",
   "lastOpenFiles": [
-    "004.AI/011.LangChain/002.Model IO/003.Prompt Template 1.md",
-    "004.AI/011.LangChain/002.Model IO/005.Output Parsers.md",
+    "006.工具/002.Markdown/001.markdown公式.md",
+    "007.数学/003.高等数学/001.函数、极限、连续/004.函数极限.md",
+    "007.数学/003.高等数学/001.函数、极限、连续/003.数列极限.md",
+    "007.数学/003.高等数学/001.函数、极限、连续/001.函数的概念及常见函数.md",
+    "007.数学/003.高等数学/001.函数、极限、连续/002.函数的性质.md",
+    "007.数学/003.高等数学/001.函数、极限、连续/assets/Pasted image 20240301003959.png",
+    "007.数学/003.高等数学/001.函数、极限、连续/assets",
+    "006.工具/003.Obsidian/001.Callouts.md",
     "004.AI/011.LangChain/002.Model IO/004.Prompt Template 2.md",
+    "007.数学/003.高等数学/001.函数、极限、连续",
+    "007.数学/003.高等数学/未命名.md",
+    "007.数学/003.高等数学",
+    "003.后端/003.Python/002.数据分析/007.Pandas 高级处理.md",
+    "003.后端/003.Python/002.数据分析/005.Pandas 数据操作 1.md",
+    "003.后端/003.Python/002.数据分析/008.Matplotlib.md",
+    "003.后端/003.Python/002.数据分析/009.RFM 案例.md",
+    "004.AI/011.LangChain/002.Model IO/005.Output Parsers.md",
+    "004.AI/011.LangChain/002.Model IO/003.Prompt Template 1.md",
     "004.AI/011.LangChain/002.Model IO/002.调用模型 2.md",
     "004.AI/011.LangChain/002.Model IO/001.调用模型 1.md",
-    "006.工具/003.Obsidian/001.Callouts.md",
-    "006.工具/002.Markdown/001.markdown公式.md",
     "004.AI/011.LangChain/001.概述/004.核心组件.md",
     "004.AI/011.LangChain/001.概述/003.大模型应用开发.md",
     "004.AI/011.LangChain/001.概述/002.架构.md",
@@ -275,16 +263,10 @@
     "003.后端/003.Python/002.数据分析/000.课程介绍.md",
     "未归档/1., 2.], [3., 4..md",
     "008.英语/000.单词本/001.常规.canvas",
-    "004.AI/009.NLP/014.Attention 案例实操.md",
-    "003.后端/004.中间件/Redis/009.BitMap.md",
     "003.后端/004.中间件/Redis/assets/Pasted image 20240831112824.png",
     "003.后端/004.中间件/Redis/assets/Pasted image 20240830215741.png",
-    "003.后端/004.中间件/MySQL/005.count 聚合函数.md",
-    "003.后端/004.中间件/MySQL/003.索引.md",
     "008.英语/000.单词本",
     "003.后端/003.中间件/001.MySQL/assets",
-    "003.后端/003.中间件/001.MySQL/009.MySQL 是怎么加行级锁的？.md",
-    "003.后端/003.中间件/001.MySQL/008.MySQL 的锁.md",
     "003.后端/003.中间件/002.Redis/drawing",
     "003.后端/003.中间件/002.Redis/assets",
     "003.后端/003.中间件/003.gRPC",
