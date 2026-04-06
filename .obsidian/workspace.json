@@ -232,8 +232,9 @@
   },
   "active": "b0fcc200aa2b1efd",
   "lastOpenFiles": [
-    "004.AI/007.Claude Code/001.How Claude Code Works/015.持久化机制与恢复.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/001.架构与程序入口.md",
     "004.AI/007.Claude Code/001.How Claude Code Works/000.目录.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/015.持久化机制与恢复.md",
     "004.AI/007.Claude Code/001.How Claude Code Works/014.Plan 模式.md",
     "004.AI/007.Claude Code/001.How Claude Code Works/013.Hooks 与可扩展性.md",
     "004.AI/007.Claude Code/001.How Claude Code Works/012.用户体验设计.md",
@@ -244,7 +245,6 @@
     "004.AI/007.Claude Code/001.How Claude Code Works/006.技能系统.md",
     "004.AI/007.Claude Code/001.How Claude Code Works/005.工具系统.md",
     "004.AI/007.Claude Code/001.How Claude Code Works/004.系统提示词的设计哲学.md",
-    "004.AI/007.Claude Code/001.How Claude Code Works/001.架构与程序入口.md",
     "004.AI/007.Claude Code/001.How Claude Code Works/002.系统主循环.md",
     "004.AI/007.Claude Code/001.How Claude Code Works/016.最小必要组件.md",
     "004.AI/007.Claude Code/001.How Claude Code Works/011.权限与安全.md",
