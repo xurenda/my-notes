@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "007.数学/003.高等数学/001.函数、极限、连续/004.函数极限.md",
+                "file": "004.AI/007.Claude Code/001.How Claude Code Works/000.目录.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "004.函数极限"
+              "title": "000.目录"
             }
           },
           {
@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "006.工具/002.Markdown/001.markdown公式.md",
-                "mode": "source",
+                "file": "007.工具/003.Obsidian/001.Callouts.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "001.markdown公式"
+              "title": "001.Callouts"
             }
           }
         ]
@@ -131,13 +131,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "007.数学/003.高等数学/001.函数、极限、连续/004.函数极限.md",
+                "file": "004.AI/007.Claude Code/001.How Claude Code Works/000.目录.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "004.函数极限 的大纲"
+              "title": "000.目录 的大纲"
             }
           },
           {
@@ -230,8 +230,31 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "100ae5ead0fcd227",
+  "active": "b0fcc200aa2b1efd",
   "lastOpenFiles": [
+    "004.AI/007.Claude Code/001.How Claude Code Works/015.持久化机制与恢复.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/000.目录.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/014.Plan 模式.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/013.Hooks 与可扩展性.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/012.用户体验设计.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/010.记忆系统.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/009.多 Agent 架构.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/008.代码编辑策略.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/007.MCP 运行机制.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/006.技能系统.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/005.工具系统.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/004.系统提示词的设计哲学.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/001.架构与程序入口.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/002.系统主循环.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/016.最小必要组件.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/011.权限与安全.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/003.上下文工程.md",
+    "007.工具/003.Obsidian/001.Callouts.md",
+    "004.AI/003.应用/002.Agent/003.AI 应用发展历程.md",
+    "004.AI/003.应用/002.Agent/005.AI Agent 设计模式 - PlanAndExecute 模式.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/001.源码泄漏.md",
+    "007.数学/003.高等数学/001.函数、极限、连续/004.函数极限.md",
+    "004.AI/011.LangChain/002.Model IO/005.Output Parsers.md",
     "002.前端/007.工程化/002.基础设施/assets/Pasted image 20260320152104.png",
     "002.前端/007.工程化/002.基础设施/assets/Pasted image 20260320151459.png",
     "002.前端/007.工程化/002.基础设施/assets/Pasted image 20260320151914.png",
@@ -246,39 +269,16 @@
     "002.前端/007.工程化/002.基础设施",
     "002.前端/002.CSS/005.CSS 世界/assets/Pasted image 20240828160103.png",
     "002.前端/002.CSS/005.CSS 世界/assets",
-    "002.前端/002.CSS/005.CSS 世界/001.概述.md",
-    "002.前端/002.CSS/005.CSS 世界/000.图书信息.md",
     "002.前端/002.CSS/005.CSS 世界",
-    "002.前端/002.CSS/003.CSS Houdini/001.CSS Paint API.md",
     "002.前端/002.CSS/003.CSS Houdini",
-    "002.前端/002.CSS/002.CSS 工程化/006.Tailwind CSS VS. UnoCSS - 中.md",
-    "002.前端/002.CSS/002.CSS 工程化/007.Tailwind CSS VS. UnoCSS - 下.md",
-    "002.前端/002.CSS/002.CSS 工程化/005.Tailwind CSS VS. UnoCSS - 上.md",
-    "002.前端/002.CSS/002.CSS 工程化/004.stylus.md",
-    "002.前端/002.CSS/002.CSS 工程化/003.scss.md",
-    "002.前端/002.CSS/002.CSS 工程化/002.CSS 预处理器介绍.md",
-    "002.前端/002.CSS/002.CSS 工程化/001.CSS 工程化.md",
     "002.前端/002.CSS/002.CSS 工程化",
-    "010.随想/关于记笔记.md",
     "010.随想",
-    "009.英语/001.单词/002.词缀/002.后缀.md",
-    "009.英语/001.单词/002.词缀/003.词缀.md",
-    "009.英语/001.单词/001.词根/006.maj-max-magn.md",
-    "009.英语/001.单词/002.词缀/001.前缀.md",
-    "009.英语/001.单词/001.词根/009.man.md",
-    "009.英语/001.单词/001.词根/007.medi.md",
-    "009.英语/001.单词/001.词根/008.press.md",
-    "009.英语/001.单词/001.词根/002.car-cur-cour.md",
-    "009.英语/001.单词/001.词根/005.min-mini.md",
-    "009.英语/001.单词/001.词根/004.ag-act.md",
-    "009.英语/001.单词/001.词根/001.port.md",
     "009.英语/001.单词/002.词缀",
     "009.英语/001.单词/001.词根",
     "009.英语/000.单词本/001.常规.canvas",
     "009.英语/000.单词本",
     "008.数学/002.程序员数学/assets/Pasted image 20250816143453.png",
     "008.数学/002.程序员数学/assets/9-极值.png",
-    "008.数学/002.程序员数学/assets/9-余子式.png",
     "008.英语/000.单词本/001.常规.canvas",
     "未命名.canvas",
     "前端学习，漫漫长路/未命名.canvas",
