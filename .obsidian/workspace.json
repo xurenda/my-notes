@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004.AI/007.Claude Code/001.How Claude Code Works/000.目录.md",
+                "file": "008.数学/003.高等数学/001.函数、极限、连续/004.函数极限.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "000.目录"
+              "title": "004.函数极限"
             }
           },
           {
@@ -131,13 +131,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004.AI/007.Claude Code/001.How Claude Code Works/000.目录.md",
+                "file": "008.数学/003.高等数学/001.函数、极限、连续/004.函数极限.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "000.目录 的大纲"
+              "title": "004.函数极限 的大纲"
             }
           },
           {
@@ -232,29 +232,32 @@
   },
   "active": "b0fcc200aa2b1efd",
   "lastOpenFiles": [
-    "004.AI/007.Claude Code/001.How Claude Code Works/001.架构与程序入口.md",
+    "008.数学/003.高等数学/001.函数、极限、连续/002.函数的性质.md",
+    "008.数学/003.高等数学/001.函数、极限、连续/001.函数的概念及常见函数.md",
     "004.AI/007.Claude Code/001.How Claude Code Works/000.目录.md",
-    "004.AI/007.Claude Code/001.How Claude Code Works/015.持久化机制与恢复.md",
-    "004.AI/007.Claude Code/001.How Claude Code Works/014.Plan 模式.md",
-    "004.AI/007.Claude Code/001.How Claude Code Works/013.Hooks 与可扩展性.md",
-    "004.AI/007.Claude Code/001.How Claude Code Works/012.用户体验设计.md",
-    "004.AI/007.Claude Code/001.How Claude Code Works/010.记忆系统.md",
-    "004.AI/007.Claude Code/001.How Claude Code Works/009.多 Agent 架构.md",
-    "004.AI/007.Claude Code/001.How Claude Code Works/008.代码编辑策略.md",
-    "004.AI/007.Claude Code/001.How Claude Code Works/007.MCP 运行机制.md",
-    "004.AI/007.Claude Code/001.How Claude Code Works/006.技能系统.md",
-    "004.AI/007.Claude Code/001.How Claude Code Works/005.工具系统.md",
-    "004.AI/007.Claude Code/001.How Claude Code Works/004.系统提示词的设计哲学.md",
-    "004.AI/007.Claude Code/001.How Claude Code Works/002.系统主循环.md",
-    "004.AI/007.Claude Code/001.How Claude Code Works/016.最小必要组件.md",
-    "004.AI/007.Claude Code/001.How Claude Code Works/011.权限与安全.md",
-    "004.AI/007.Claude Code/001.How Claude Code Works/003.上下文工程.md",
-    "007.工具/003.Obsidian/001.Callouts.md",
-    "004.AI/003.应用/002.Agent/003.AI 应用发展历程.md",
-    "004.AI/003.应用/002.Agent/005.AI Agent 设计模式 - PlanAndExecute 模式.md",
-    "004.AI/007.Claude Code/001.How Claude Code Works/001.源码泄漏.md",
-    "007.数学/003.高等数学/001.函数、极限、连续/004.函数极限.md",
-    "004.AI/011.LangChain/002.Model IO/005.Output Parsers.md",
+    "002.前端/002.CSS/001.基础/016.has、is、where 选择器.md",
+    "002.前端/002.CSS/001.基础/015.flex-1 & flex-auto.md",
+    "002.前端/002.CSS/001.基础/014.Grid auto-fill & auto-fit.md",
+    "002.前端/002.CSS/001.基础/013.pointer-events.md",
+    "002.前端/002.CSS/001.基础/012.position-sticky.md",
+    "002.前端/002.CSS/001.基础/011.CSS 深入理解.md",
+    "002.前端/002.CSS/001.基础/010.CSS TIPS.md",
+    "002.前端/002.CSS/001.基础/009.避免CSS冲突的方案.md",
+    "002.前端/002.CSS/001.基础/008.CSS 布局：Flex & Grid.md",
+    "002.前端/002.CSS/001.基础/007.CSS 布局：圣杯、双飞翼.md",
+    "002.前端/002.CSS/001.基础/006.CSS Reset.md",
+    "002.前端/002.CSS/001.基础/005.clamp().md",
+    "002.前端/002.CSS/001.基础/004.CSS 函数梳理.md",
+    "002.前端/002.CSS/001.基础/003.@layer.md",
+    "002.前端/002.CSS/001.基础/002.@规则（At-rules）.md",
+    "002.前端/003.JavaScript/002.运行时之浏览器/018.URL & URLSearchParams.md",
+    "002.前端/006.网络/026.多标签页实时消息同步方案：SSE + BroadcastChannel.md",
+    "002.前端/006.网络/025.小知识-localhost 设置二级域名.md",
+    "002.前端/006.网络/024.反爬虫.md",
+    "002.前端/006.网络/023.网络性能优化.md",
+    "002.前端/006.网络/022.浏览器输入 URL 地址后.md",
+    "002.前端/006.网络/021.Streamable HTTP.md",
+    "002.前端/006.网络/020.Server-Sent Events.md",
     "002.前端/007.工程化/002.基础设施/assets/Pasted image 20260320152104.png",
     "002.前端/007.工程化/002.基础设施/assets/Pasted image 20260320151459.png",
     "002.前端/007.工程化/002.基础设施/assets/Pasted image 20260320151914.png",
@@ -263,9 +266,6 @@
     "002.前端/007.工程化/002.基础设施/assets/Pasted image 20260320150542.png",
     "002.前端/007.工程化/002.基础设施/assets/Pasted image 20260320150810.png",
     "002.前端/007.工程化/002.基础设施/assets",
-    "002.前端/007.工程化/002.基础设施/003.npm scripts 高级玩法.md",
-    "002.前端/007.工程化/002.基础设施/002.package.json 40+ 字段逐一拆解.md",
-    "002.前端/007.工程化/002.基础设施/001.Pnpm：最先进的依赖管理.md",
     "002.前端/007.工程化/002.基础设施",
     "002.前端/002.CSS/005.CSS 世界/assets/Pasted image 20240828160103.png",
     "002.前端/002.CSS/005.CSS 世界/assets",
