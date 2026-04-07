@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b0fcc200aa2b1efd",
+            "id": "f84b7c512c545213",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "008.数学/003.高等数学/001.函数、极限、连续/004.函数极限.md",
+                "file": "004.AI/007.Claude Code/001.How Claude Code Works/005.工具系统.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,11 +28,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "004.函数极限"
+              "title": "005.工具系统"
             }
           },
           {
-            "id": "d683588bf5e61e06",
+            "id": "2e941ba8527446c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#极限与单侧极限的关系",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -131,13 +131,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "008.数学/003.高等数学/001.函数、极限、连续/004.函数极限.md",
+                "file": "004.AI/007.Claude Code/001.How Claude Code Works/005.工具系统.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "004.函数极限 的大纲"
+              "title": "005.工具系统 的大纲"
             }
           },
           {
@@ -179,8 +179,8 @@
             "state": {
               "type": "hi-words-sidebar",
               "state": {},
-              "icon": "book-open",
-              "title": "HiWords"
+              "icon": "lucide-ghost",
+              "title": "hi-words-sidebar"
             }
           },
           {
@@ -203,10 +203,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "004.AI/011.LangChain/002.Model IO/005.Output Parsers.md"
+                "file": "004.AI/011.LangChain/004.Memory/001.概述.md"
               },
               "icon": "lucide-info",
-              "title": "005.Output Parsers的笔记属性"
+              "title": "001.概述的笔记属性"
             }
           }
         ]
@@ -217,69 +217,69 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "canvas:新建白板": false,
-      "bases:创建新数据库": false,
-      "oz-clear-unused-images:Clear Unused Images": true,
-      "obsidian-excalidraw-plugin:新建绘图文件": true,
       "switcher:打开快速切换": true,
       "graph:查看关系图谱": true,
       "command-palette:打开命令面板": true,
       "templates:插入模板": true,
       "workspaces:管理工作区布局": true,
       "random-note:开始漫游笔记": true,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "cmdr:导出为 PDF": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "b0fcc200aa2b1efd",
+  "active": "f84b7c512c545213",
   "lastOpenFiles": [
+    "004.AI/007.Claude Code/001.How Claude Code Works/000.目录.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/003.上下文工程.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/009.技能系统.md",
+    "008.数学/003.高等数学/001.函数、极限、连续/assets/Pasted image 20240301003959.png",
+    "008.数学/003.高等数学/001.函数、极限、连续/assets",
+    "008.数学/003.高等数学/001.函数、极限、连续/004.函数极限.md",
+    "008.数学/003.高等数学/001.函数、极限、连续/003.数列极限.md",
     "008.数学/003.高等数学/001.函数、极限、连续/002.函数的性质.md",
     "008.数学/003.高等数学/001.函数、极限、连续/001.函数的概念及常见函数.md",
-    "004.AI/007.Claude Code/001.How Claude Code Works/000.目录.md",
-    "002.前端/002.CSS/001.基础/016.has、is、where 选择器.md",
-    "002.前端/002.CSS/001.基础/015.flex-1 & flex-auto.md",
-    "002.前端/002.CSS/001.基础/014.Grid auto-fill & auto-fit.md",
-    "002.前端/002.CSS/001.基础/013.pointer-events.md",
-    "002.前端/002.CSS/001.基础/012.position-sticky.md",
-    "002.前端/002.CSS/001.基础/011.CSS 深入理解.md",
-    "002.前端/002.CSS/001.基础/010.CSS TIPS.md",
-    "002.前端/002.CSS/001.基础/009.避免CSS冲突的方案.md",
-    "002.前端/002.CSS/001.基础/008.CSS 布局：Flex & Grid.md",
-    "002.前端/002.CSS/001.基础/007.CSS 布局：圣杯、双飞翼.md",
-    "002.前端/002.CSS/001.基础/006.CSS Reset.md",
-    "002.前端/002.CSS/001.基础/005.clamp().md",
-    "002.前端/002.CSS/001.基础/004.CSS 函数梳理.md",
-    "002.前端/002.CSS/001.基础/003.@layer.md",
-    "002.前端/002.CSS/001.基础/002.@规则（At-rules）.md",
-    "002.前端/003.JavaScript/002.运行时之浏览器/018.URL & URLSearchParams.md",
-    "002.前端/006.网络/026.多标签页实时消息同步方案：SSE + BroadcastChannel.md",
-    "002.前端/006.网络/025.小知识-localhost 设置二级域名.md",
-    "002.前端/006.网络/024.反爬虫.md",
-    "002.前端/006.网络/023.网络性能优化.md",
-    "002.前端/006.网络/022.浏览器输入 URL 地址后.md",
-    "002.前端/006.网络/021.Streamable HTTP.md",
-    "002.前端/006.网络/020.Server-Sent Events.md",
-    "002.前端/007.工程化/002.基础设施/assets/Pasted image 20260320152104.png",
-    "002.前端/007.工程化/002.基础设施/assets/Pasted image 20260320151459.png",
-    "002.前端/007.工程化/002.基础设施/assets/Pasted image 20260320151914.png",
-    "002.前端/007.工程化/002.基础设施/assets/Pasted image 20260320151721.png",
-    "002.前端/007.工程化/002.基础设施/assets/Pasted image 20260320151517.png",
-    "002.前端/007.工程化/002.基础设施/assets/Pasted image 20260320150542.png",
-    "002.前端/007.工程化/002.基础设施/assets/Pasted image 20260320150810.png",
-    "002.前端/007.工程化/002.基础设施/assets",
-    "002.前端/007.工程化/002.基础设施",
-    "002.前端/002.CSS/005.CSS 世界/assets/Pasted image 20240828160103.png",
-    "002.前端/002.CSS/005.CSS 世界/assets",
-    "002.前端/002.CSS/005.CSS 世界",
-    "002.前端/002.CSS/003.CSS Houdini",
-    "002.前端/002.CSS/002.CSS 工程化",
-    "010.随想",
-    "009.英语/001.单词/002.词缀",
-    "009.英语/001.单词/001.词根",
+    "008.数学/003.高等数学/001.函数、极限、连续",
+    "008.数学/003.高等数学",
+    "004.AI/007.Claude Code/001.How Claude Code Works/016.最小必要组件.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/015.持久化机制与恢复.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/014.Plan 模式.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/013.Hooks 与可扩展性.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/012.用户体验设计.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/011.权限与安全.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/010.记忆系统.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/009.多 Agent 架构.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/008.代码编辑策略.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/007.MCP 运行机制.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/006.技能系统.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/005.工具系统.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/004.系统提示词的设计哲学.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/001.架构与程序入口.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/008.记忆系统.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/002.系统主循环.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works/007.多 Agent 架构.md",
+    "007.工具/003.Obsidian/001.Callouts.md",
+    "004.AI/007.Claude Code/001.How Claude Code Works",
+    "004.AI/007.Claude Code",
+    "004.AI/005.工具/assets/Pasted image 20260327143034.png",
+    "004.AI/005.工具/assets/Pasted image 20260327142857.png",
+    "004.AI/005.工具/assets/Pasted image 20260327142750.png",
+    "002.前端/002.CSS/001.基础/assets/Pasted image 20260327111705.png",
+    "002.前端/003.JavaScript/002.运行时之浏览器/assets/Pasted image 20260326153206.png",
+    "002.前端/003.JavaScript/002.运行时之浏览器/assets/Pasted image 20260326153016.png",
+    "006.职场实践/002.工程架构/assets/Pasted image 20260326152124.png",
+    "002.前端/001.HTML/assets/弹窗组件.webp",
+    "002.前端/001.HTML/assets/折叠组件.webp",
+    "002.前端/001.HTML/assets",
+    "002.前端/008.前端框架/002.Vue/002.实践",
+    "004.AI/007.面试题/001.基础篇/未命名",
+    "004.AI/007.面试题/001.基础篇",
+    "004.AI/007.面试题",
+    "001.计算机基础/未命名.canvas",
     "009.英语/000.单词本/001.常规.canvas",
-    "009.英语/000.单词本",
-    "008.数学/002.程序员数学/assets/Pasted image 20250816143453.png",
-    "008.数学/002.程序员数学/assets/9-极值.png",
-    "008.英语/000.单词本/001.常规.canvas",
     "未命名.canvas",
     "前端学习，漫漫长路/未命名.canvas",
     "数据结构与算法/代码随想录/链表/未命名.canvas"
